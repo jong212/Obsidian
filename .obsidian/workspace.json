@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
+                "file": "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
+                "file": "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
+                "file": "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
+                "file": "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/정리/MVC - 모델 뷰 컨트롤러.md"
+                "file": "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md"
               }
             }
           },
@@ -333,8 +333,11 @@
   },
   "active": "1a33045f1c128361",
   "lastOpenFiles": [
-    "Unity/정리/MVP.md",
+    "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+    "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
+    "Unity/정리/무제 파일.md",
     "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
+    "Unity/정리/MVP.md",
     "Inbox/Home.md",
     "Inbox/!Guide.md",
     "Inbox/Files/MVVM.pdf",
@@ -347,7 +350,6 @@
     "Inbox/Files/Pasted image 20240721013631.png",
     "Inbox/Files/Pasted image 20240721014031.png",
     "Inbox/Files/Pasted image 20240721014222.png",
-    "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
     "Inbox/Template/정리.md",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 2.pdf",
     "Inbox/Files/Pasted image 20240721012845.png",
@@ -355,14 +357,12 @@
     "Inbox/옵시디언/옵시디언 관련 유튜브 영상.md",
     "Inbox/옵시디언/옵시디언 사용법.md",
     "Inbox/Template/Unity Project.md",
-    "Unity/정리/무제 파일.md",
     "Inbox/Template/Daily Note.md",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 1.pdf",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf",
     "Inbox/MOC/MOC-Root.md",
     "Inbox/MOC",
     "Inbox/Excalidraw/Drawing 2024-07-21 00.02.47.excalidraw.md",
-    "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
     "무제 파일.canvas",
     "Unity/Project/3D 팀프로젝트 - 쿠키런 모험의탑 모작.md",
     "Inbox/Excalidraw/Drawing 2024-07-21 00.01.44.excalidraw.md",
