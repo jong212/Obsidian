@@ -1,0 +1,67 @@
+/* Updated 2023-11-02 */
+
+.dashboard {
+    
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+  font-family: "Black Han Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.dashboard h1 {
+    border-bottom-style: dotted !important;
+    border-width: 1px !important;
+    padding-bottom: 3px !important;
+    margin-bottom:0px;
+color:#92b0f7;
+}
+
+.dashboard .dataview th:nth-child(1),
+.dashboard .dataview td:nth-child(1) {
+max-width: 	50px!important;
+min-width: 10px!important;
+}
+.dashboard .dataview th:nth-child(2),
+.dashboard .dataview td:nth-child(2) {
+	text-align:center;   
+	width: 20%;
+	max-width: 20%;
+}
+.dashboard .dataview th:nth-child(3),
+.dashboard .dataview td:nth-child(3) {
+	text-align:center;
+	width: 20%;
+	max-width: 20%;
+}
+.dashboard .dataview th:nth-child(4),
+.dashboard .dataview td:nth-child(4) {
+    text-align: center;
+    width: 30%;
+    max-width: 30%;
+}
+
+.dashboard .dataview td:nth-child(4) > * > * {
+float:left;
+    display: inline-block!important; /* td 안의 요소를 inline-block으로 설정 */
+}
+
+.dashboard div > ul > li {
+    min-width: 250px;
+    width: 15%;
+}
+
+/* Dataview support */
+.dashboard ul.dataview {
+    row-gap: 0px !important;
+    list-style-type: disc !important;
+}
+.dashboard a {
+    color: #d8e4e3 !important; /* 링크 색상을 하얀색으로 설정 */
+    text-decoration: none; /* 링크의 기본 밑줄 제거 */
+}
+.dashboard a:hover {
+    color: #92b0f7 !important; /* 호버 시 색상 변경 */
+    text-decoration: underline; /* 호버 시 밑줄 추가 */
+}

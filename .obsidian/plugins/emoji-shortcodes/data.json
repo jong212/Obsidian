@@ -1,0 +1,19 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":-1:",
+    ":cat2:",
+    ":1234:",
+    ":interrobang:",
+    ":cloud:",
+    ":computer:",
+    ":technologist:",
+    ":book:",
+    ":stuck_out_tongue_winking_eye:",
+    ":film_projector:",
+    ":expressionless:"
+  ]
+}

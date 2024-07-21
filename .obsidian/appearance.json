@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "flex-tables",
+    "hide-spellcheck-underline",
+    "dashboard"
+  ]
+}

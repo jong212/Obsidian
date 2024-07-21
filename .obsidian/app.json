@@ -1,0 +1,17 @@
+{
+  "spellcheck": false,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Inbox/Files",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "preview",
+  "promptDelete": false
+}
