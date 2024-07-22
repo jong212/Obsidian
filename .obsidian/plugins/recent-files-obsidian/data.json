@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-07-22(Mon)",
-      "path": "DailyNote/2024-07-22(Mon).md"
-    },
-    {
       "basename": "2D 서버프로젝트(mini) - CatchMind 모작",
       "path": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md"
     },
     {
+      "basename": "!Guide",
+      "path": "Inbox/!Guide.md"
+    },
+    {
       "basename": "Home",
       "path": "Inbox/Home.md"
+    },
+    {
+      "basename": "2024-07-22(Mon)",
+      "path": "DailyNote/2024-07-22(Mon).md"
+    },
+    {
+      "basename": "정리",
+      "path": "Inbox/Template/정리.md"
     },
     {
       "basename": "2D 개인 프로젝트 - MixMaster 모작",
@@ -27,10 +35,6 @@
     {
       "basename": "MVP",
       "path": "Unity/정리/MVP.md"
-    },
-    {
-      "basename": "!Guide",
-      "path": "Inbox/!Guide.md"
     },
     {
       "basename": "Pasted image 20240721011005",
@@ -67,10 +71,6 @@
     {
       "basename": "Pasted image 20240721014222",
       "path": "Inbox/Files/Pasted image 20240721014222.png"
-    },
-    {
-      "basename": "정리",
-      "path": "Inbox/Template/정리.md"
     },
     {
       "basename": "DesignPattern - MOC",

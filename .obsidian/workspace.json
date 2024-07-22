@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNote/2024-07-22(Mon).md",
+                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "군",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1a983c21befd67f9",
@@ -154,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DailyNote/2024-07-22(Mon).md",
+                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNote/2024-07-22(Mon).md",
+                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNote/2024-07-22(Mon).md",
+                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNote/2024-07-22(Mon).md"
+                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md"
               }
             }
           },
@@ -295,17 +296,17 @@
   },
   "active": "55a7475de3d83ebc",
   "lastOpenFiles": [
-    "Inbox/Files/Pasted image 20240722105025.png",
-    "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
-    "Inbox/Home.md",
     "Inbox/!Guide.md",
-    "Inbox/Template/Unity Project.md",
+    "Inbox/Home.md",
+    "DailyNote/2024-07-22(Mon).md",
+    "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
     "Inbox/Template/정리.md",
+    "Inbox/Files/Pasted image 20240722105025.png",
+    "Inbox/Template/Unity Project.md",
     "Inbox/MOC/DesignPattern - MOC.md",
     "Inbox/Template/Daily Note.md",
     "Inbox/Files/Pasted image 20240721014031.png",
     "Inbox/Excalidraw/Drawing 2024-07-21 00.02.47.excalidraw.md",
-    "DailyNote/2024-07-22(Mon).md",
     "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
     "Unity/정리/무제 파일.md",
     "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
@@ -320,7 +321,6 @@
     "Inbox/Files/Pasted image 20240721013631.png",
     "Inbox/Files/Pasted image 20240721014222.png",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 2.pdf",
-    "Inbox/Files/Pasted image 20240721012845.png",
     "Inbox/옵시디언/옵시디언 관련 유튜브 영상.md",
     "Inbox/옵시디언/옵시디언 사용법.md",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 1.pdf",
