@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2D 개인 프로젝트 - MixMaster 모작",
-      "path": "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md"
-    },
-    {
       "basename": "2D 서버프로젝트(mini) - CatchMind 모작",
       "path": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Inbox/Home.md"
+    },
+    {
+      "basename": "2D 개인 프로젝트 - MixMaster 모작",
+      "path": "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md"
     },
     {
       "basename": "무제 파일",
@@ -19,10 +23,6 @@
     {
       "basename": "MVP",
       "path": "Unity/정리/MVP.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Inbox/Home.md"
     },
     {
       "basename": "!Guide",

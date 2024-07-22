@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8c9daefd67e058d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/옵시디언/옵시디언 사용법.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b35c8c839f8090b",
             "type": "leaf",
             "state": {
@@ -31,38 +18,12 @@
             }
           },
           {
-            "id": "032b0514da772c7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/정리/무제 파일.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3242c3808a41f23a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Unity/정리/MVP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a33045f1c128361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,22 +59,15 @@
             }
           },
           {
-            "id": "e1b0c41ca2d66871",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Inbox/Files/Pasted image 20240721014222.png"
-              }
-            }
-          },
-          {
             "id": "55a7475de3d83ebc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Inbox/Files/Pasted image 20240721011005.png"
+                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -334,25 +288,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "1a33045f1c128361",
+  "active": "55a7475de3d83ebc",
   "lastOpenFiles": [
+    "Inbox/Home.md",
+    "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
     "Inbox/!Guide.md",
     "Inbox/Template/Unity Project.md",
     "Inbox/Template/정리.md",
     "Inbox/MOC/DesignPattern - MOC.md",
-    "Inbox/Home.md",
     "Inbox/Template/Daily Note.md",
     "Inbox/Files/Pasted image 20240721014031.png",
     "Inbox/Excalidraw/Drawing 2024-07-21 00.02.47.excalidraw.md",
     "DailyNote/2024-07-22(Mon).md",
     "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
-    "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
     "Unity/정리/무제 파일.md",
     "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
     "Unity/정리/MVP.md",
