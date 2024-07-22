@@ -18,19 +18,6 @@
             }
           },
           {
-            "id": "3242c3808a41f23a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/정리/MVP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc8f3aa90a726b67",
             "type": "leaf",
             "state": {
@@ -48,23 +35,22 @@
             "id": "7ecfd8dc7367a770",
             "type": "leaf",
             "state": {
-              "type": "terminal:documentation",
+              "type": "markdown",
               "state": {
-                "terminal:documentation": {
-                  "data": "# Terminal for Obsidian [![release](https://img.shields.io/github/v/release/polyipseity/obsidian-terminal)][latest release] [![Obsidian downloads](https://img.shields.io/badge/dynamic/json?logo=Obsidian&color=%238b6cef&label=downloads&query=$[\"terminal\"].downloads&url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json)][community plugin] [![Python](https://img.shields.io/badge/Python-≥3.10-gold?labelColor=blue&logo=Python&logoColor=white)][Python]\n\n[Buy Me a Coffee]: https://buymeacoffee.com/polyipseity\n[Buy Me a Coffee/embed]: https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=polyipseity&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00\n[Obsidian]: https://obsidian.md/\n[Python]: https://python.org/downloads/\n[changelog]: https://github.com/polyipseity/obsidian-terminal/blob/main/CHANGELOG.md\n[community plugin]: https://obsidian.md/plugins?id=terminal\n[latest release]: https://github.com/polyipseity/obsidian-terminal/releases/latest\n[other things]: https://github.com/polyipseity/obsidian-monorepo\n[plugin library]: https://github.com/polyipseity/obsidian-plugin-library\n[repository]: https://github.com/polyipseity/obsidian-terminal\n[trailer]: https://raw.githubusercontent.com/polyipseity/obsidian-terminal/main/assets/trailer.png\n\nIntegrate consoles, shells, and terminals inside [Obsidian].\n\n[![Buy Me a Coffee/embed]][Buy Me a Coffee]\n\n__[Repository] · [Changelog] · [Community plugin] · [Other things] · [Features](#features) · [Installation](#installation) · [Usage](#usage) · [Contributing](#contributing) · [Security](#security)__\n\n![Trailer]\n\nFor first time users, read the [installation](#installation) section first!\n\nThis file is automatically opened on first install. You can reopen it in settings or command palette.\n\n## Features\n\n- Start external terminals from Obsidian.\n- Integrate terminals into Obsidian.\n- Has an emulated developer console usable on all platforms.\n- Supports multiple terminal profiles.\n- Has built-in keyboard shortcuts.\n- Automatically save and restore integrated terminal history.\n- Find in terminal.\n- Save terminal history as file.\n- Customize terminal appearance.\n\n## Installation\n\n1. Install plugin.\n    - Community plugins\n        1. Install the [plugin][community plugin] from community plugins directly.\n    - Manual\n        1. Create directory `terminal` under `.obsidian/plugins` of your vault.\n        2. Place `manifest.json`, `main.js`, and `styles.css` from the [latest release] into the directory.\n    - Building (latest)\n        1. Clone this repository, including its submodules.\n        2. Install [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).\n        3. Run `npm install` in the root directory.\n        4. Run `npm run obsidian:install <vault directory>` in the root directory.\n    - [Obsidian42 - BRAT](https://obsidian.md/plugins?id=obsidian42-brat) (latest)\n        - See [their readme](https://github.com/TfTHacker/obsidian42-brat#readme).\n2. (optional for Windows, recommended) Install Python and dependencies.\n    1. Install [Python] 3.10/+.\n    2. (Windows only) Run `pip3 install psutil==5.9.5 pywinctl==0.0.50 typing_extensions==4.7.1`. <!-- Update `README.md`, `magic.ts`, and `requirements.txt` together. -->\n    3. Configure Python executable in plugin settings. Press the \"Check\" button to validate the Python configuration.\n3. Enable plugin.\n4. (optional) Configure plugin settings.\n\n## Usage\n\n- To start a new external or integrated terminal\n  - Ribbon\n        1. Click on the `Open terminal` ribbon.\n        2. Choose the desired profile.\n  - Context menu\n        1. Right-click on files, folders, or tab headers.\n        2. Choose the desired action (and profile).\n  - Command palette\n        1. Press `Ctrl`+`P` or click on the `Open command palette` ribbon next to the left window border.\n        2. Choose the desired action (and profile).\n- To save and restore integrated terminal history\n    1. Keep the terminal open when exiting Obsidian.\n    2. Terminal history will be restored next time Obsidian is opened.\n- Additional actions\n  - Includes\n    - Find in terminal: (1), (4)\n    - Clear terminal: (1), (4)\n    - Restart terminal: (1)\n    - Edit terminal: (1)\n    - Save terminal history as file: (1)\n    - Export, import, or edit settings: (2), (3)\n    - Open documentation: (2), (3)\n  - Available by\n    - (1) Right-click on tab header/`More options`\n    - (2) Open settings\n    - (3) Open command palette\n    - (4) Use keyboard shortcuts\n\n### Keyboard shortcuts\n\nThe keyboard shortcuts are not customizable for now.\n\n<!-- markdownlint-disable-next-line MD036 -->\n__Terminal tab is focused__\n\n- Focus: `Ctrl`+`Shift`+`` ` ``\n- Inherits global keyboard shortcuts\n\n<!-- markdownlint-disable-next-line MD036 -->\n__Terminal is focused__\n\n- Clear: `Ctrl`+`Shift`+`K`, `Command`+`K` (Apple)\n- Close: `Ctrl`+`Shift`+`W`, `Command`+`W` (Apple)\n- Find: `Ctrl`+`Shift`+`F`, `Command`+`F` (Apple)\n- Toggle focus: `Ctrl`+`Shift`+`` ` ``\n\n### Theming\n\nTheming is possible. However, there is no user-friendly interface for now.\n\n1. Open the profile editing modal.\n2. Click on the `Edit` button labeled `Data`. It should open up a new modal in which there is a large textbox.\n3. Notice `terminalOptions` in the text area labeled `Data`. Refer to the [`xterm.js` documentation](https://github.com/xtermjs/xterm.js/blob/master/typings/xterm.d.ts#L26) (`ITerminalOptions`) to set the options. Nested objects may need to be used.\n4. Save the profile. Changes should apply immediately.\n\n### Profiles\n\nThis plugin comes with several profile presets that you can reference.\n\nWhen setting up a terminal profile, you need to distinguish between shells and terminal emulators. (Search online if needed.) Generally, integrated profiles only work with shells while external ones only work with terminal emulators.\n\n#### Examples\n\n<!-- markdownlint-disable-next-line MD036 -->\n__Shells__\n\n- Bash: `bash`\n- Bourne shell: `sh`\n- Command Prompt: `cmd`\n- Dash: `dash`\n- Git Bash: `<Git installation>\\bin\\bash.exe` (e.g. `C:\\Program Files\\Git\\bin\\bash.exe`)\n- PowerShell Core: `pwsh`\n- Windows PowerShell: `powershell`\n- Windows Subsystem for Linux: `wsl` or `wsl -d <distribution name>`\n- Z shell: `zsh`\n\n<!-- markdownlint-disable-next-line MD036 -->\n__Terminal emulators__\n\n- Command Prompt: `cmd`\n- GNOME Terminal: `gnome-terminal`\n- Konsole: `konsole`\n- Terminal (macOS): `/System/Applications/Utilities/Terminal.app/Contents/macOS/Terminal \"$PWD\"`\n- Windows Terminal: `wt`\n- iTerm2: `/Applications/iTerm.app/Contents/MacOS/iTerm2 \"$PWD\"`\n- xterm: `xterm`\n\n### Miscellaneous\n\nThis plugin patches `require` so that `require(\"obsidian\")` and other Obsidian modules work in the developer console. It is toggleable as `Expose internal modules` in settings.\n\nIn the developer console, a context variable `$$` is passed into the code, which can be used to dynamically change terminal options.\n\nThe full API is available from [`sources/@types/obsidian-terminal.ts`](sources/%40types/obsidian-terminal.ts).\n\n### Troubleshooting\n\n- Is the plugin useful on mobile?\n  - Compared to on desktop, it is much less useful. The only use for it for now is opening a developer console on mobile.\n- Why do hotkeys not work?\n  - If the terminal is in focus, all Obsidian hotkeys are disabled so that you can type special characters into the terminal. You can unfocus the terminal by pressing `Ctrl`+`Shift`+`` ` ``, then you can use Obsidian hotkeys again.\n\n## Contributing\n\nContributions are welcome!\n\nThis project uses [`changesets`](https://github.com/changesets/changesets) to manage the changelog. When creating a pull request, please [add a changeset](https://github.com/changesets/changesets/blob/main/docs/intro-to-using-changesets.md#adding-changesets) describing the changes. Add multiple changesets if your pull request changes several things. End each changeset with `([PR number](PR link) by [author username](author link))`. For example, the newly created file under the directory `.changeset` should look like:\n\n```Markdown\n---\n\"example\": patch\n---\n\nThis is an example change. ([GH#1](https://github.com/ghost/example/pull/1) by [@ghost](https://github.com/ghost))\n```\n\n### Todos\n\nThe todos here, ordered alphabetically, are things planned for the plugin. There are no guarantees that they will be completed. However, we are likely to accept contributions for them.\n\n- Connect to remote shells.\n- Copy terminal tabs.\n- Create ad-hoc profile in `Open terminal: Select`.\n- Detect sandboxed environment and notify users.\n- Edit profile before opening terminal in `Open terminal: Select` when a modifier key is pressed.\n- External link confirmation.\n- Filter console log by severity in the developer console.\n- Fix broken section links in builtin documentations.\n- Indicate that the terminal resizer has crashed or is disabled.\n- Shared terminal tabs.\n- Vim mode switch.\n\n### Translating\n\nTranslation files are under [`assets/locales/`](assets/locales/). Each locale has its own directory named with its corresponding __[IETF language tag](https://wikipedia.org/wiki/IETF_language_tag)__. Some translation keys are missing here and instead located at [`obsidian-plugin-library`][plugin library].\n\nTo contribute translation for an existing locale, modify the files in the corresponding directory.\n\nFor a new locale, create a new directory named with its language tag and copy [`assets/locales/en/translation.json`](assets/locales/en/translation.json) into it. Then, add an entry to [`assets/locales/en/language.json`](assets/locales/en/language.json) in this format:\n\n```JSONc\n{\n    // ...\n    \"en\": \"English\",\n    \"(your-language-tag)\": \"(Native name of your language)\",\n    \"uwu\": \"Uwuish\",\n    // ...\n}\n```\n\nSort the list of languages by the alphabetical order of their language tags. Then modify the files in the new directory. There will be errors in [`assets/locales.ts`](assets/locales.ts), which you can ignore and we will fix them for you. You are welcome to fix them yourself if you know TypeScript.\n\nWhen translating, keep in mind the following things:\n\n- Do not translate anything between `{{` and `}}` (`{{example}}`). They are __interpolations__ and will be replaced by localized strings at runtime.\n- Do not translate anything between `$t(` and `)` (`$t(example)`). They refer to other localized strings. To find the localized string being referred to, follow the path of the key, which is separated by dots (`.`). For example, the key [`youtu.be./dQw4w9WgXcQ`](https://youtu.be./dQw4w9WgXcQ) refers to:\n\n```JSONc\n{\n    // ...\n    \"youtu\": {\n        // ...\n        \"be\": {\n            // ...\n            \"/dQw4w9WgXcQ\": \"I am 'youtu.be./dQw4w9WgXcQ'!\",\n            // ...\n        },\n        // ...\n    },\n    // ...\n}\n```\n\n- The keys under `generic` are vocabularies. They can be referred in translation strings by `$t(generic.key)`. Refer to them as much as possible to standardize translations for vocabularies that appear in different places.\n- It is okay to move interpolations and references to other localized strings around to make the translation natural. It is also okay to not use some references used in the original translation. However, it is NOT okay to not use all interpolations.\n\n## Security\n\nWe hope that there will never be any security vulnerabilities, but unfortunately it does happen. Please [report](#reporting-a-vulnerability) them!\n\n### Supported versions\n\n| Version | Supported |\n|-|-|\n| latest | ✅ |\n| outdated | ❌ |\n\n### Reporting a vulnerability\n\nPlease report a vulerability by opening an new issue. We will get back to you as soon as possible.\n",
-                  "displayTextI18nKey": "translation:generic.documentations.readme",
-                  "iconI18nKey": "asset:generic.documentations.readme-icon"
-                }
+                "file": "Inbox/Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "55a7475de3d83ebc",
+            "id": "5ec9a9454af0b607",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+                "file": "Inbox/sdfsd.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "군",
+                "query": "tag:#DesignPattern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1a983c21befd67f9",
@@ -155,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+                "file": "Inbox/sdfsd.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+                "file": "Inbox/sdfsd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+                "file": "Inbox/sdfsd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md"
+                "file": "Inbox/sdfsd.md"
               }
             }
           },
@@ -249,17 +234,8 @@
               "type": "graph-analysis",
               "state": {}
             }
-          },
-          {
-            "id": "b9baff784c0f20a8",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "b99ec93446810926",
@@ -277,56 +253,60 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 569.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "digitalgarden:Digital Garden Publication Center": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "55a7475de3d83ebc",
+  "active": "5ec9a9454af0b607",
   "lastOpenFiles": [
-    "Inbox/!Guide.md",
-    "Inbox/Home.md",
-    "DailyNote/2024-07-22(Mon).md",
-    "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
-    "Inbox/Template/정리.md",
-    "Inbox/Files/Pasted image 20240722105025.png",
     "Inbox/Template/Unity Project.md",
-    "Inbox/MOC/DesignPattern - MOC.md",
-    "Inbox/Template/Daily Note.md",
-    "Inbox/Files/Pasted image 20240721014031.png",
-    "Inbox/Excalidraw/Drawing 2024-07-21 00.02.47.excalidraw.md",
-    "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
     "Unity/정리/무제 파일.md",
+    "DailyNote/2024-07-22(월).md",
+    "Inbox/sdfsd.md",
+    "Inbox/Home.md",
+    "Inbox/!Guide.md",
+    "Inbox/옵시디언/옵시디언에서 작성한 글 블로그에 올리는 방법 정리.md",
+    "Inbox/Files/Pasted image 20240722214248.png",
+    "Inbox/옵시디언/옵시디언 사용법.md",
+    "Inbox/Files/Pasted image 20240722105025.png",
+    "DailyNote/2024-07-22(Mon).md",
+    "Inbox/Files/Pasted image 20240721011005.png",
+    "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
+    "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
     "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
     "Unity/정리/MVP.md",
     "Inbox/Files/MVVM.pdf",
-    "Inbox/Files/Pasted image 20240721011005.png",
     "Inbox/Files/Pasted image 20240721011511.png",
     "Inbox/Files/Pasted image 20240721012304.png",
     "Inbox/Files/Pasted image 20240721012550.png",
     "Inbox/Files/Pasted image 20240721012644.png",
     "Inbox/Files/Pasted image 20240721013456.png",
     "Inbox/Files/Pasted image 20240721013631.png",
-    "Inbox/Files/Pasted image 20240721014222.png",
+    "Inbox/Files/Pasted image 20240721014031.png",
+    "Inbox/Template/정리.md",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 2.pdf",
+    "Inbox/MOC/DesignPattern - MOC.md",
     "Inbox/옵시디언/옵시디언 관련 유튜브 영상.md",
-    "Inbox/옵시디언/옵시디언 사용법.md",
+    "Inbox/Template/Daily Note.md",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 1.pdf",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf",
     "Inbox/MOC/MOC-Root.md",
     "Inbox/MOC",
+    "Inbox/Excalidraw/Drawing 2024-07-21 00.02.47.excalidraw.md",
     "무제 파일.canvas",
     "Unity/Project/3D 팀프로젝트 - 쿠키런 모험의탑 모작.md",
     "Inbox/Excalidraw/Drawing 2024-07-21 00.01.44.excalidraw.md",
@@ -339,8 +319,6 @@
     "Unity/Mirror - 서버.md",
     "Unity/Project/Isometric.md",
     "DailyNote/2024-07-20(토).md",
-    "10. Planner/11. Daily/2024-07-19(금).md",
-    "노트1.md",
     "Unity/무제 파일.canvas",
     "Unity/Error",
     "Unity/Server"
