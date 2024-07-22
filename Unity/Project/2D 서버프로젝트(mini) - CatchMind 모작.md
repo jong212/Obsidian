@@ -10,5 +10,6 @@ BranchName: Master
   - Mirror서버 사용
   - AWS서버에 Maria DB 올려 Login 구현
 메모: 방 입장 까지랑 그리는거 까지는 구현 됐는데 게임 로직에 대한건 따로 없음 마무리 해야 함
+dg-publish: true
 ---
 

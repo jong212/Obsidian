@@ -1,1 +1,8 @@
-#DesignPattern 
+---
+dg-publish: true
+tags:
+  - DesignPattern
+---
+
+
+

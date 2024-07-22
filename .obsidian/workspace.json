@@ -32,25 +32,12 @@
             }
           },
           {
-            "id": "7ecfd8dc7367a770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ec9a9454af0b607",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/sdfsd.md",
+                "file": "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/sdfsd.md",
+                "file": "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/sdfsd.md",
+                "file": "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/sdfsd.md",
+                "file": "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/sdfsd.md"
+                "file": "Unity/정리/MVC - 모델 뷰 컨트롤러.md"
               }
             }
           },
@@ -273,22 +260,30 @@
   },
   "active": "5ec9a9454af0b607",
   "lastOpenFiles": [
-    "Inbox/Template/Unity Project.md",
-    "Unity/정리/무제 파일.md",
-    "DailyNote/2024-07-22(월).md",
-    "Inbox/sdfsd.md",
-    "Inbox/Home.md",
-    "Inbox/!Guide.md",
-    "Inbox/옵시디언/옵시디언에서 작성한 글 블로그에 올리는 방법 정리.md",
-    "Inbox/Files/Pasted image 20240722214248.png",
-    "Inbox/옵시디언/옵시디언 사용법.md",
-    "Inbox/Files/Pasted image 20240722105025.png",
-    "DailyNote/2024-07-22(Mon).md",
-    "Inbox/Files/Pasted image 20240721011005.png",
     "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md",
     "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
     "Unity/정리/MVC - 모델 뷰 컨트롤러.md",
+    "Inbox/Template/Daily Note.md",
+    "Inbox/Template/정리.md",
+    "Inbox/MOC/DesignPattern - MOC.md",
+    "Inbox/Home.md",
+    "Inbox/Template/Unity Project.md",
     "Unity/정리/MVP.md",
+    "[Inbox/MOC/DesignPattern - MOC.md",
+    "[Inbox/MOC",
+    "[Inbox",
+    "★Guide.md",
+    "Inbox/Files/Pasted image 20240723000436.png",
+    "Inbox/옵시디언/옵시디언 관련 유튜브 영상.md",
+    "Inbox/옵시디언/옵시디언 사용법.md",
+    "Inbox/옵시디언/옵시디언에서 작성한 글 블로그에 올리는 방법 정리.md",
+    "Inbox/sdfsd.md",
+    "Unity/정리/무제 파일.md",
+    "DailyNote/2024-07-22(월).md",
+    "Inbox/Files/Pasted image 20240722214248.png",
+    "Inbox/Files/Pasted image 20240722105025.png",
+    "DailyNote/2024-07-22(Mon).md",
+    "Inbox/Files/Pasted image 20240721011005.png",
     "Inbox/Files/MVVM.pdf",
     "Inbox/Files/Pasted image 20240721011511.png",
     "Inbox/Files/Pasted image 20240721012304.png",
@@ -296,12 +291,7 @@
     "Inbox/Files/Pasted image 20240721012644.png",
     "Inbox/Files/Pasted image 20240721013456.png",
     "Inbox/Files/Pasted image 20240721013631.png",
-    "Inbox/Files/Pasted image 20240721014031.png",
-    "Inbox/Template/정리.md",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 2.pdf",
-    "Inbox/MOC/DesignPattern - MOC.md",
-    "Inbox/옵시디언/옵시디언 관련 유튜브 영상.md",
-    "Inbox/Template/Daily Note.md",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 1.pdf",
     "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf",
     "Inbox/MOC/MOC-Root.md",
@@ -317,10 +307,6 @@
     "Inbox/Excalidraw",
     "Unity/Project/무제 파일 20.md",
     "Unity/Mirror - 서버.md",
-    "Unity/Project/Isometric.md",
-    "DailyNote/2024-07-20(토).md",
-    "Unity/무제 파일.canvas",
-    "Unity/Error",
-    "Unity/Server"
+    "Unity/무제 파일.canvas"
   ]
 }

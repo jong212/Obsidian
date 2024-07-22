@@ -1,10 +1,14 @@
 ---
-Git: 
-BranchName: 
-MOC: "[[DesignPattern - MOC]]"
-RefFile: "[[MVVM.pdf]]"
+dg-publish: true
 ---
 
+| Git          |                                                                                    |
+| ------------ | ---------------------------------------------------------------------------------- |
+| BranchName   |                                                                                    |
+| RefFile      | https://drive.google.com/file/d/154X2k5CRUlibaEZGiUyI5Qmo5XVC-OAs/view?usp=sharing |
+| Memo         | tset                                                                               |
+| MOC_Category | [[DesignPattern - MOC]]                                                            |
+ 
 # MVC 특징 
 
 * **1 : N 구조 :** 아래와 같이 컨트롤러는 뷰를 들고있기 때문에 1:n 구조이며 여러개의 View를 들고(선택) 있는 게 가능함
@@ -24,3 +28,8 @@ RefFile: "[[MVVM.pdf]]"
 ### GPT가 설명하는 MVC 특징
 
 ![[Pasted image 20240721012845.png]]
+
+
+
+
+
