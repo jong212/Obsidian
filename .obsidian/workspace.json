@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+                "file": "DailyNote/2024-07-22(Mon).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "자기",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1a983c21befd67f9",
@@ -155,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+                "file": "DailyNote/2024-07-22(Mon).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+                "file": "DailyNote/2024-07-22(Mon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+                "file": "DailyNote/2024-07-22(Mon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md"
+                "file": "DailyNote/2024-07-22(Mon).md"
               }
             }
           },
@@ -296,8 +295,9 @@
   },
   "active": "55a7475de3d83ebc",
   "lastOpenFiles": [
-    "Inbox/Home.md",
+    "Inbox/Files/Pasted image 20240722105025.png",
     "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md",
+    "Inbox/Home.md",
     "Inbox/!Guide.md",
     "Inbox/Template/Unity Project.md",
     "Inbox/Template/정리.md",
