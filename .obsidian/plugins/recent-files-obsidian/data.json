@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-07-23(Tue)",
-      "path": "02.DailyNote/2024-07-23(Tue).md"
+      "basename": "2D 개인 - MixMaster 모작",
+      "path": "03.Unity/Project/2D 개인 - MixMaster 모작.md"
     },
     {
-      "basename": "2024-07-22(Mon)",
-      "path": "02.DailyNote/2024-07-22(Mon).md"
-    },
-    {
-      "basename": "3D 팀 - 태그게임(미니합반)",
-      "path": "03.Unity/Project/3D 팀 - 태그게임(미니합반).md"
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "3D 개인 - 테런 + 폴가이즈 (서버)",
       "path": "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (서버).md"
     },
     {
-      "basename": "2D 개인 - MixMaster 모작",
-      "path": "03.Unity/Project/2D 개인 - MixMaster 모작.md"
+      "basename": "3D 팀 - 태그게임(미니합반)",
+      "path": "03.Unity/Project/3D 팀 - 태그게임(미니합반).md"
     },
     {
       "basename": "2D 개인 - CatchMind (서버,모작)",
       "path": "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md"
+    },
+    {
+      "basename": "240429_mixmaster_기술문서_안종화_1차 완료",
+      "path": "01.Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf"
+    },
+    {
+      "basename": "DesignPattern - MOC",
+      "path": "01.Inbox/MOC/DesignPattern - MOC.md"
+    },
+    {
+      "basename": "UI - UIManager를 통해 UI 관련 오브젝트 관리하기",
+      "path": "03.Unity/정리/UI - UIManager를 통해 UI 관련 오브젝트 관리하기.md"
+    },
+    {
+      "basename": "Guide",
+      "path": "01.Inbox/00.Guide/Guide.md"
+    },
+    {
+      "basename": "Pasted image 20240724010349",
+      "path": "01.Inbox/Files/Pasted image 20240724010349.png"
+    },
+    {
+      "basename": "MVC - 모델 뷰 컨트롤러",
+      "path": "03.Unity/정리/MVC - 모델 뷰 컨트롤러.md"
+    },
+    {
+      "basename": "UI - MOC",
+      "path": "01.Inbox/MOC/UI - MOC.md"
+    },
+    {
+      "basename": "MVP",
+      "path": "03.Unity/정리/MVP.md"
+    },
+    {
+      "basename": "2024-07-23(Tue)",
+      "path": "02.DailyNote/2024-07-23(Tue).md"
+    },
+    {
+      "basename": "2024-07-22(Mon)",
+      "path": "02.DailyNote/2024-07-22(Mon).md"
     },
     {
       "basename": "3D 팀 - 쿠키런 모험의탑 모작",
@@ -33,24 +69,8 @@
       "path": "01.Inbox/Template/Unity Project.md"
     },
     {
-      "basename": "Guide",
-      "path": "01.Inbox/00.Guide/Guide.md"
-    },
-    {
-      "basename": "MVC - 모델 뷰 컨트롤러",
-      "path": "03.Unity/정리/MVC - 모델 뷰 컨트롤러.md"
-    },
-    {
-      "basename": "DesignPattern - MOC",
-      "path": "01.Inbox/MOC/DesignPattern - MOC.md"
-    },
-    {
       "basename": "Daily Note",
       "path": "01.Inbox/Template/Daily Note.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "Drawing 2024-07-21 00.01.44.excalidraw",
@@ -135,10 +155,6 @@
     {
       "basename": "240429_mixmaster_기술문서_안종화_1차 완료 1",
       "path": "01.Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 1.pdf"
-    },
-    {
-      "basename": "240429_mixmaster_기술문서_안종화_1차 완료",
-      "path": "01.Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf"
     },
     {
       "basename": "Pasted image 20240719234220 1",
