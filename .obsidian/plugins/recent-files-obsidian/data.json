@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "3D 팀 - 태그게임(미니합반)",
+      "path": "03.Unity/Project/3D 팀 - 태그게임(미니합반).md"
+    },
+    {
+      "basename": "3D 개인 - 테런 + 폴가이즈 (서버)",
+      "path": "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (서버).md"
+    },
+    {
+      "basename": "2D 개인 - MixMaster 모작",
+      "path": "03.Unity/Project/2D 개인 - MixMaster 모작.md"
+    },
+    {
+      "basename": "2D 개인 - CatchMind (서버,모작)",
+      "path": "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md"
+    },
+    {
+      "basename": "3D 팀 - 쿠키런 모험의탑 모작",
+      "path": "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md"
+    },
+    {
+      "basename": "Unity Project",
+      "path": "01.Inbox/Template/Unity Project.md"
+    },
+    {
       "basename": "Guide",
       "path": "01.Inbox/00.Guide/Guide.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "Daily Note",
       "path": "01.Inbox/Template/Daily Note.md"
-    },
-    {
-      "basename": "Unity Project",
-      "path": "01.Inbox/Template/Unity Project.md"
     },
     {
       "basename": "Home",
