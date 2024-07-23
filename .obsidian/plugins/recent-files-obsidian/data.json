@@ -1,168 +1,148 @@
 {
   "recentFiles": [
     {
+      "basename": "Guide",
+      "path": "01.Inbox/00.Guide/Guide.md"
+    },
+    {
       "basename": "MVC - 모델 뷰 컨트롤러",
-      "path": "Unity/정리/MVC - 모델 뷰 컨트롤러.md"
-    },
-    {
-      "basename": "2D 개인 프로젝트 - MixMaster 모작",
-      "path": "Unity/Project/2D 개인 프로젝트 - MixMaster 모작.md"
-    },
-    {
-      "basename": "2D 서버프로젝트(mini) - CatchMind 모작",
-      "path": "Unity/Project/2D 서버프로젝트(mini) - CatchMind 모작.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "Inbox/Template/Daily Note.md"
-    },
-    {
-      "basename": "정리",
-      "path": "Inbox/Template/정리.md"
+      "path": "03.Unity/정리/MVC - 모델 뷰 컨트롤러.md"
     },
     {
       "basename": "DesignPattern - MOC",
-      "path": "Inbox/MOC/DesignPattern - MOC.md"
+      "path": "01.Inbox/MOC/DesignPattern - MOC.md"
     },
     {
-      "basename": "Home",
-      "path": "Inbox/Home.md"
+      "basename": "Daily Note",
+      "path": "01.Inbox/Template/Daily Note.md"
     },
     {
       "basename": "Unity Project",
-      "path": "Inbox/Template/Unity Project.md"
+      "path": "01.Inbox/Template/Unity Project.md"
     },
     {
-      "basename": "MVP",
-      "path": "Unity/정리/MVP.md"
-    },
-    {
-      "basename": "★Guide",
-      "path": "★Guide.md"
-    },
-    {
-      "basename": "옵시디언 관련 유튜브 영상",
-      "path": "Inbox/옵시디언/옵시디언 관련 유튜브 영상.md"
-    },
-    {
-      "basename": "옵시디언 사용법",
-      "path": "Inbox/옵시디언/옵시디언 사용법.md"
-    },
-    {
-      "basename": "옵시디언에서 작성한 글 블로그에 올리는 방법 정리",
-      "path": "Inbox/옵시디언/옵시디언에서 작성한 글 블로그에 올리는 방법 정리.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "Unity/정리/무제 파일.md"
-    },
-    {
-      "basename": "2024-07-22(월)",
-      "path": "DailyNote/2024-07-22(월).md"
-    },
-    {
-      "basename": "Pasted image 20240721011005",
-      "path": "Inbox/Files/Pasted image 20240721011005.png"
-    },
-    {
-      "basename": "Pasted image 20240721011511",
-      "path": "Inbox/Files/Pasted image 20240721011511.png"
-    },
-    {
-      "basename": "Pasted image 20240721012304",
-      "path": "Inbox/Files/Pasted image 20240721012304.png"
-    },
-    {
-      "basename": "Pasted image 20240721012550",
-      "path": "Inbox/Files/Pasted image 20240721012550.png"
-    },
-    {
-      "basename": "Pasted image 20240721012644",
-      "path": "Inbox/Files/Pasted image 20240721012644.png"
-    },
-    {
-      "basename": "Pasted image 20240721013456",
-      "path": "Inbox/Files/Pasted image 20240721013456.png"
-    },
-    {
-      "basename": "Pasted image 20240721013631",
-      "path": "Inbox/Files/Pasted image 20240721013631.png"
-    },
-    {
-      "basename": "Pasted image 20240721014031",
-      "path": "Inbox/Files/Pasted image 20240721014031.png"
-    },
-    {
-      "basename": "Pasted image 20240721014222",
-      "path": "Inbox/Files/Pasted image 20240721014222.png"
-    },
-    {
-      "basename": "Pasted image 20240721001102",
-      "path": "Inbox/Files/Pasted image 20240721001102.png"
-    },
-    {
-      "basename": "Pasted image 20240721010909",
-      "path": "Inbox/Files/Pasted image 20240721010909.png"
-    },
-    {
-      "basename": "Pasted image 20240721001106",
-      "path": "Inbox/Files/Pasted image 20240721001106.png"
-    },
-    {
-      "basename": "Pasted Image 20240721000935_804",
-      "path": "Inbox/Files/Pasted Image 20240721000935_804.png"
-    },
-    {
-      "basename": "Pasted image 20240721000121",
-      "path": "Inbox/Files/Pasted image 20240721000121.png"
-    },
-    {
-      "basename": "240429_mixmaster_기술문서_안종화_1차 완료 1",
-      "path": "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 1.pdf"
-    },
-    {
-      "basename": "240429_mixmaster_기술문서_안종화_1차 완료",
-      "path": "Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf"
-    },
-    {
-      "basename": "Pasted image 20240719234220 1",
-      "path": "Inbox/Files/Pasted image 20240719234220 1.png"
-    },
-    {
-      "basename": "Pasted image 20240719234220",
-      "path": "Inbox/Files/Pasted image 20240719234220.png"
-    },
-    {
-      "basename": "Pasted image 20240719234219",
-      "path": "Inbox/Files/Pasted image 20240719234219.png"
-    },
-    {
-      "basename": "Pasted image 20240719233824",
-      "path": "Inbox/Files/Pasted image 20240719233824.png"
-    },
-    {
-      "basename": "Pasted image 20240719233755",
-      "path": "Inbox/Files/Pasted image 20240719233755.png"
-    },
-    {
-      "basename": "Drawing 2024-07-21 00.02.47.excalidraw",
-      "path": "Inbox/Excalidraw/Drawing 2024-07-21 00.02.47.excalidraw.md"
-    },
-    {
-      "basename": "3D 팀프로젝트 - 쿠키런 모험의탑 모작",
-      "path": "Unity/Project/3D 팀프로젝트 - 쿠키런 모험의탑 모작.md"
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "Drawing 2024-07-21 00.01.44.excalidraw",
-      "path": "Inbox/Excalidraw/Drawing 2024-07-21 00.01.44.excalidraw.md"
+      "path": "01.Inbox/Excalidraw/Drawing 2024-07-21 00.01.44.excalidraw.md"
+    },
+    {
+      "basename": "정리",
+      "path": "01.Inbox/Template/정리.md"
+    },
+    {
+      "basename": "옵시디언 관련 유튜브 영상",
+      "path": "01.Inbox/옵시디언/옵시디언 관련 유튜브 영상.md"
+    },
+    {
+      "basename": "옵시디언 사용법",
+      "path": "01.Inbox/옵시디언/옵시디언 사용법.md"
+    },
+    {
+      "basename": "옵시디언에서 작성한 글 블로그에 올리는 방법 정리",
+      "path": "01.Inbox/옵시디언/옵시디언에서 작성한 글 블로그에 올리는 방법 정리.md"
+    },
+    {
+      "basename": "2024-07-22(월)",
+      "path": "02.DailyNote/2024-07-22(월).md"
+    },
+    {
+      "basename": "Pasted image 20240721011005",
+      "path": "01.Inbox/Files/Pasted image 20240721011005.png"
+    },
+    {
+      "basename": "Pasted image 20240721011511",
+      "path": "01.Inbox/Files/Pasted image 20240721011511.png"
+    },
+    {
+      "basename": "Pasted image 20240721012304",
+      "path": "01.Inbox/Files/Pasted image 20240721012304.png"
+    },
+    {
+      "basename": "Pasted image 20240721012550",
+      "path": "01.Inbox/Files/Pasted image 20240721012550.png"
+    },
+    {
+      "basename": "Pasted image 20240721012644",
+      "path": "01.Inbox/Files/Pasted image 20240721012644.png"
+    },
+    {
+      "basename": "Pasted image 20240721013456",
+      "path": "01.Inbox/Files/Pasted image 20240721013456.png"
+    },
+    {
+      "basename": "Pasted image 20240721013631",
+      "path": "01.Inbox/Files/Pasted image 20240721013631.png"
+    },
+    {
+      "basename": "Pasted image 20240721014031",
+      "path": "01.Inbox/Files/Pasted image 20240721014031.png"
+    },
+    {
+      "basename": "Pasted image 20240721014222",
+      "path": "01.Inbox/Files/Pasted image 20240721014222.png"
+    },
+    {
+      "basename": "Pasted image 20240721001102",
+      "path": "01.Inbox/Files/Pasted image 20240721001102.png"
+    },
+    {
+      "basename": "Pasted image 20240721010909",
+      "path": "01.Inbox/Files/Pasted image 20240721010909.png"
+    },
+    {
+      "basename": "Pasted image 20240721001106",
+      "path": "01.Inbox/Files/Pasted image 20240721001106.png"
+    },
+    {
+      "basename": "Pasted Image 20240721000935_804",
+      "path": "01.Inbox/Files/Pasted Image 20240721000935_804.png"
+    },
+    {
+      "basename": "Pasted image 20240721000121",
+      "path": "01.Inbox/Files/Pasted image 20240721000121.png"
+    },
+    {
+      "basename": "240429_mixmaster_기술문서_안종화_1차 완료 1",
+      "path": "01.Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 1.pdf"
+    },
+    {
+      "basename": "240429_mixmaster_기술문서_안종화_1차 완료",
+      "path": "01.Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf"
+    },
+    {
+      "basename": "Pasted image 20240719234220 1",
+      "path": "01.Inbox/Files/Pasted image 20240719234220 1.png"
+    },
+    {
+      "basename": "Pasted image 20240719234220",
+      "path": "01.Inbox/Files/Pasted image 20240719234220.png"
+    },
+    {
+      "basename": "Pasted image 20240719234219",
+      "path": "01.Inbox/Files/Pasted image 20240719234219.png"
+    },
+    {
+      "basename": "Pasted image 20240719233824",
+      "path": "01.Inbox/Files/Pasted image 20240719233824.png"
+    },
+    {
+      "basename": "Pasted image 20240719233755",
+      "path": "01.Inbox/Files/Pasted image 20240719233755.png"
+    },
+    {
+      "basename": "Drawing 2024-07-21 00.02.47.excalidraw",
+      "path": "01.Inbox/Excalidraw/Drawing 2024-07-21 00.02.47.excalidraw.md"
     },
     {
       "basename": "2024-07-21(일)",
-      "path": "DailyNote/2024-07-21(일).md"
+      "path": "02.DailyNote/2024-07-21(일).md"
     },
     {
       "basename": "2024-07-20(토)",
-      "path": "DailyNote/2024-07-20(토).md"
+      "path": "02.DailyNote/2024-07-20(토).md"
     }
   ],
   "omittedPaths": []

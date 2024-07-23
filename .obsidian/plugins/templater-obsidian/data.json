@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Inbox/Template",
+  "templates_folder": "01.Inbox/Template",
   "templates_pairs": [
     [
       "",

@@ -5,7 +5,7 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Inbox/Files",
+  "attachmentFolderPath": "01.Inbox/Files",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
