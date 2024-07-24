@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2D 개인 - MixMaster 모작",
-      "path": "03.Unity/Project/2D 개인 - MixMaster 모작.md"
+      "basename": "2024-07-23(Tue)",
+      "path": "02.DailyNote/2024-07-23(Tue).md"
+    },
+    {
+      "basename": "2024-07-22(월)",
+      "path": "02.DailyNote/2024-07-22(월).md"
+    },
+    {
+      "basename": "2024-07-20(토)",
+      "path": "02.DailyNote/2024-07-20(토).md"
+    },
+    {
+      "basename": "2024-07-21(일)",
+      "path": "02.DailyNote/2024-07-21(일).md"
+    },
+    {
+      "basename": "2024-07-22(Mon)",
+      "path": "02.DailyNote/2024-07-22(Mon).md"
+    },
+    {
+      "basename": "UI - UIManager를 통해 UI 관련 오브젝트 관리하기",
+      "path": "03.Unity/정리/UI - UIManager를 통해 UI 관련 오브젝트 관리하기.md"
     },
     {
       "basename": "Home",
       "path": "01.Inbox/Home.md"
+    },
+    {
+      "basename": "2D 개인 - MixMaster 모작",
+      "path": "03.Unity/Project/2D 개인 - MixMaster 모작.md"
     },
     {
       "basename": "3D 개인 - 테런 + 폴가이즈 (서버)",
@@ -29,10 +53,6 @@
       "path": "01.Inbox/MOC/DesignPattern - MOC.md"
     },
     {
-      "basename": "UI - UIManager를 통해 UI 관련 오브젝트 관리하기",
-      "path": "03.Unity/정리/UI - UIManager를 통해 UI 관련 오브젝트 관리하기.md"
-    },
-    {
       "basename": "Guide",
       "path": "01.Inbox/00.Guide/Guide.md"
     },
@@ -51,14 +71,6 @@
     {
       "basename": "MVP",
       "path": "03.Unity/정리/MVP.md"
-    },
-    {
-      "basename": "2024-07-23(Tue)",
-      "path": "02.DailyNote/2024-07-23(Tue).md"
-    },
-    {
-      "basename": "2024-07-22(Mon)",
-      "path": "02.DailyNote/2024-07-22(Mon).md"
     },
     {
       "basename": "3D 팀 - 쿠키런 모험의탑 모작",
@@ -91,10 +103,6 @@
     {
       "basename": "옵시디언에서 작성한 글 블로그에 올리는 방법 정리",
       "path": "01.Inbox/옵시디언/옵시디언에서 작성한 글 블로그에 올리는 방법 정리.md"
-    },
-    {
-      "basename": "2024-07-22(월)",
-      "path": "02.DailyNote/2024-07-22(월).md"
     },
     {
       "basename": "Pasted image 20240721011005",
@@ -179,14 +187,6 @@
     {
       "basename": "Drawing 2024-07-21 00.02.47.excalidraw",
       "path": "01.Inbox/Excalidraw/Drawing 2024-07-21 00.02.47.excalidraw.md"
-    },
-    {
-      "basename": "2024-07-21(일)",
-      "path": "02.DailyNote/2024-07-21(일).md"
-    },
-    {
-      "basename": "2024-07-20(토)",
-      "path": "02.DailyNote/2024-07-20(토).md"
     }
   ],
   "omittedPaths": []

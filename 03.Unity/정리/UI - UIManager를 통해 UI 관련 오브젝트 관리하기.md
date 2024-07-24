@@ -19,7 +19,7 @@ dg-publish: true
 ## UI Manager 구조를 정리한 이미지
 
 
-![[Pasted image 20240724013542.png|2000]]
+![[Pasted image 20240724013542.png|1500]]
 
 > [!NOTE]+ Test.............Open
 > TestOut..................................
