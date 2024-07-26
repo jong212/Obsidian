@@ -11,10 +11,37 @@
             "id": "6ca3587beda46f00",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f03560a3ef993307",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "02.DailyNote/2024-07-26(금).md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "50191f1b91eb0fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f6485ec098441a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.DailyNote/2024-07-26(금).md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -250,12 +277,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6ca3587beda46f00",
+  "active": "93151bb6c8b2a118",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-26 13.43.16.excalidraw.md",
+    "02.DailyNote/2024-07-26(금).md",
+    "무제 파일.canvas",
     "01.Inbox/Files/Pasted image 20240726134113.png",
     "01.Inbox/Files/Pasted image 20240726134103.png",
     "01.Inbox/Home.md",
-    "02.DailyNote/2024-07-26(금).md",
     "Excalidraw/Drawing 2024-07-26 13.36.16.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
@@ -282,7 +311,6 @@
     "01.Inbox/Files/Pasted image 20240724010349.png",
     "01.Inbox/Files/Pasted image 20240724010347.png",
     "01.Inbox/Files/Pasted image 20240724010346.png",
-    "01.Inbox/Files/Pasted image 20240724010343.png",
     "03.Unity/정리/MVC - 모델 뷰 컨트롤러.md",
     "01.Inbox/MOC/UI - MOC.md",
     "03.Unity/정리/MVP.md",
@@ -299,7 +327,6 @@
     "01.Inbox/Excalidraw/Drawing 2024-07-21 00.01.44.excalidraw.md",
     "01.Inbox/00.Guide",
     "[Inbox/MOC",
-    "무제 파일.canvas",
     "무제 파일 1.canvas",
     "Unity/무제 파일.canvas"
   ]
