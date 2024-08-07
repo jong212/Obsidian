@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Unity/정리/방법론 - 데이터드리븐.md",
-                "mode": "preview",
+                "file": "03.Unity/자료구조/Array vs List T.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03.Unity/정리/방법론 - 데이터드리븐.md",
+                "file": "03.Unity/자료구조/Array vs List T.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Unity/정리/방법론 - 데이터드리븐.md",
+                "file": "03.Unity/자료구조/Array vs List T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Unity/정리/방법론 - 데이터드리븐.md",
+                "file": "03.Unity/자료구조/Array vs List T.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Unity/정리/방법론 - 데이터드리븐.md"
+                "file": "03.Unity/자료구조/Array vs List T.md"
               }
             }
           },
@@ -267,9 +267,11 @@
   },
   "active": "b64955bacd572ddf",
   "lastOpenFiles": [
+    "03.Unity/자료구조/자료구조란.md",
+    "03.Unity/자료구조/Array vs List T.md",
+    "03.Unity/정리/방법론 - 데이터드리븐.md",
     "03.Unity/자료구조/스택.md",
     "01.Inbox/Files/Pasted image 20240808005745.png",
-    "03.Unity/정리/방법론 - 데이터드리븐.md",
     "03.Unity/정리/프리팹 개념정리.md",
     "01.Inbox/Files/Pasted Image 20240808002108_053.png",
     "Excalidraw/Drawing 2024-08-08 00.19.36.excalidraw.md",
@@ -305,7 +307,6 @@
     "01.Inbox/Template/Daily Note.md",
     "02.DailyNote/2024-07-23(Tue).md",
     "02.DailyNote/2024-07-26(금).md",
-    "02.DailyNote/2024-08-05(월).md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "01.Inbox/Files/240429_2DProject_MixMaster_기술문서.pdf의 사본",
