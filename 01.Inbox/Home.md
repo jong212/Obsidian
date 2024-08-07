@@ -1,8 +1,6 @@
 ---
 cssclasses:
   - dashboard
-dg-home: true
-dg-publish: true
 ---
 # 프로젝트 (`$=dv.pages('"03.Unity/Project"').length`)
 ```dataviewjs
