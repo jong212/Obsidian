@@ -6,10 +6,9 @@
       {
         "id": "2847e09046a8bd12",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "30beac82e3d480f0",
+            "id": "b64955bacd572ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b64955bacd572ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.Unity/자료구조/Array vs List T.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03.Unity/자료구조/Array vs List T.md",
+                "file": "03.Unity/규칙/코드규칙.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Unity/자료구조/Array vs List T.md",
+                "file": "03.Unity/규칙/코드규칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Unity/자료구조/Array vs List T.md",
+                "file": "03.Unity/규칙/코드규칙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Unity/자료구조/Array vs List T.md"
+                "file": "03.Unity/규칙/코드규칙.md"
               }
             }
           },
@@ -267,8 +252,16 @@
   },
   "active": "b64955bacd572ddf",
   "lastOpenFiles": [
-    "03.Unity/자료구조/자료구조란.md",
+    "01.Inbox/Files/Pasted image 20240808225109.png",
+    "01.Inbox/Files/Pasted image 20240808225102.png",
+    "01.Inbox/Files/Pasted image 20240808224935.png",
+    "01.Inbox/Files/Pasted image 20240808222309.png",
+    "01.Inbox/Files/Pasted image 20240808222108.png",
+    "01.Inbox/Files/Pasted image 20240808220434.png",
+    "01.Inbox/Files/Pasted image 20240808220156.png",
+    "01.Inbox/Home.md",
     "03.Unity/자료구조/Array vs List T.md",
+    "03.Unity/자료구조/자료구조란.md",
     "03.Unity/정리/방법론 - 데이터드리븐.md",
     "03.Unity/자료구조/스택.md",
     "01.Inbox/Files/Pasted image 20240808005745.png",
@@ -289,12 +282,6 @@
     "01.Inbox/MOC/DesignPattern - MOC.md",
     "01.Inbox/MOC/UI - MOC.md",
     "01.Inbox/Files/Pasted image 20240807231526.png",
-    "01.Inbox/Files/Pasted image 20240807230859.png",
-    "01.Inbox/Files/Pasted image 20240807230840.png",
-    "01.Inbox/Files/Pasted image 20240807230824.png",
-    "01.Inbox/Files/Pasted image 20240807230753.png",
-    "01.Inbox/Files/Pasted image 20240807230340.png",
-    "01.Inbox/Files/Pasted image 20240807224228.png",
     "03.Unity/정리/MVP.md",
     "03.Unity/정리/MVC - 모델 뷰 컨트롤러.md",
     "03.Unity/Project/2D 개인 - MixMaster 모작.md",
@@ -305,8 +292,6 @@
     "01.Inbox/Template/정리.md",
     "01.Inbox/Template/Unity Project.md",
     "01.Inbox/Template/Daily Note.md",
-    "02.DailyNote/2024-07-23(Tue).md",
-    "02.DailyNote/2024-07-26(금).md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "01.Inbox/Files/240429_2DProject_MixMaster_기술문서.pdf의 사본",

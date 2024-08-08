@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "코드규칙",
+      "path": "03.Unity/규칙/코드규칙.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
       "basename": "Array vs List T",
       "path": "03.Unity/자료구조/Array vs List T.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Pasted Image 20240808002108_053",
       "path": "01.Inbox/Files/Pasted Image 20240808002108_053.png"
-    },
-    {
-      "basename": "코드규칙",
-      "path": "03.Unity/규칙/코드규칙.md"
     },
     {
       "basename": "규칙 - MOC",
@@ -95,10 +99,6 @@
     {
       "basename": "2024-08-05(월)",
       "path": "02.DailyNote/2024-08-05(월).md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "Guide",
