@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "렌더링 파이프라인",
+      "path": "03.Unity/정리/셰이더/렌더링 파이프라인.md"
+    },
+    {
+      "basename": "데이터드리븐",
+      "path": "03.Unity/정리/데이터드리븐.md"
+    },
+    {
+      "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
+      "path": "03.Unity/정리/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
+    },
+    {
+      "basename": "MVC (모델 뷰 컨트롤러)",
+      "path": "03.Unity/정리/MVC (모델 뷰 컨트롤러).md"
+    },
+    {
+      "basename": "규칙 - MOC",
+      "path": "01.Inbox/MOC/규칙 - MOC.md"
+    },
+    {
+      "basename": "UI - MOC",
+      "path": "01.Inbox/MOC/UI - MOC.md"
+    },
+    {
+      "basename": "DesignPattern - MOC",
+      "path": "01.Inbox/MOC/DesignPattern - MOC.md"
+    },
+    {
+      "basename": "방법론 - MOC",
+      "path": "01.Inbox/MOC/방법론 - MOC.md"
+    },
+    {
+      "basename": "자료구조 - MOC",
+      "path": "01.Inbox/MOC/자료구조 - MOC.md"
+    },
+    {
+      "basename": "MVP",
+      "path": "03.Unity/정리/MVP.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
       "basename": "Array vs List T",
       "path": "03.Unity/자료구조/Array vs List T.md"
     },
@@ -25,10 +69,6 @@
       "path": "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md"
     },
     {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
-    },
-    {
       "basename": "코드규칙",
       "path": "03.Unity/규칙/코드규칙.md"
     },
@@ -37,44 +77,8 @@
       "path": "03.Unity/자료구조/자료구조란.md"
     },
     {
-      "basename": "방법론 - 데이터드리븐",
-      "path": "03.Unity/정리/방법론 - 데이터드리븐.md"
-    },
-    {
       "basename": "Pasted Image 20240808002108_053",
       "path": "01.Inbox/Files/Pasted Image 20240808002108_053.png"
-    },
-    {
-      "basename": "규칙 - MOC",
-      "path": "01.Inbox/MOC/규칙 - MOC.md"
-    },
-    {
-      "basename": "자료구조 - MOC",
-      "path": "01.Inbox/MOC/자료구조 - MOC.md"
-    },
-    {
-      "basename": "방법론 - MOC",
-      "path": "01.Inbox/MOC/방법론 - MOC.md"
-    },
-    {
-      "basename": "UI - UIManager를 통해 UI 관련 오브젝트 관리하기",
-      "path": "03.Unity/정리/UI - UIManager를 통해 UI 관련 오브젝트 관리하기.md"
-    },
-    {
-      "basename": "DesignPattern - MOC",
-      "path": "01.Inbox/MOC/DesignPattern - MOC.md"
-    },
-    {
-      "basename": "UI - MOC",
-      "path": "01.Inbox/MOC/UI - MOC.md"
-    },
-    {
-      "basename": "MVP",
-      "path": "03.Unity/정리/MVP.md"
-    },
-    {
-      "basename": "MVC - 모델 뷰 컨트롤러",
-      "path": "03.Unity/정리/MVC - 모델 뷰 컨트롤러.md"
     },
     {
       "basename": "정리",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240721000121",
       "path": "01.Inbox/Files/Pasted image 20240721000121.png"
-    },
-    {
-      "basename": "240429_mixmaster_기술문서_안종화_1차 완료 1",
-      "path": "01.Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료 1.pdf"
     }
   ],
   "omittedPaths": []
