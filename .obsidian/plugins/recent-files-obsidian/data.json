@@ -5,6 +5,10 @@
       "path": "03.Unity/정리/셰이더/렌더링 파이프라인.md"
     },
     {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
       "basename": "데이터드리븐",
       "path": "03.Unity/정리/데이터드리븐.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "MVP",
       "path": "03.Unity/정리/MVP.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "Array vs List T",
