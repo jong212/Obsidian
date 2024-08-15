@@ -5,6 +5,10 @@
       "path": "03.Unity/정리/MVVM.md"
     },
     {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
       "basename": "Drawing 2024-08-16 00.47.02.excalidraw",
       "path": "Excalidraw/Drawing 2024-08-16 00.47.02.excalidraw.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "3D 팀 - 쿠키런 모험의탑 모작",
       "path": "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "2024-07-23(Tue)",

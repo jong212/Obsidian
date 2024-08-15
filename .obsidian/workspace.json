@@ -6,7 +6,6 @@
       {
         "id": "0af7f1ff3e3d2bfa",
         "type": "tabs",
-        "dimension": 74.51564828614009,
         "children": [
           {
             "id": "74fbc8c4f7b059ea",
@@ -56,17 +55,9 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "a529cf75a8c09711",
-        "type": "tabs",
-        "dimension": 25.48435171385991,
-        "children": [
+          },
           {
-            "id": "f5b303e7a938f4a9",
+            "id": "9779314ac07db0e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,11 +65,12 @@
                 "file": "03.Unity/정리/MVVM.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -308,8 +300,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "337626e09150afa7",
+  "active": "9779314ac07db0e1",
   "lastOpenFiles": [
+    "01.Inbox/Home.md",
+    "03.Unity/정리/MVVM.md",
     "01.Inbox/Files/Pasted image 20240816030550.png",
     "01.Inbox/Files/Pasted image 20240816030513.png",
     "01.Inbox/Files/Pasted image 20240816030349.png",
@@ -320,10 +314,8 @@
     "01.Inbox/Files/Pasted image 20240816013928.png",
     "01.Inbox/Files/Pasted image 20240816013553.png",
     "01.Inbox/Files/Pasted image 20240816013413.png",
-    "01.Inbox/Files/Pasted image 20240816013136.png",
     "Excalidraw/Drawing 2024-08-16 00.47.02.excalidraw.md",
     "Excalidraw/Drawing 2024-08-15 18.25.34.excalidraw.md",
-    "03.Unity/정리/MVVM.md",
     "03.Unity/정리/데이터드리븐.md",
     "03.Unity/정리/셰이더/렌더링 파이프라인.md",
     "03.Unity/Project/2D 개인 - MixMaster 모작.md",
