@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8f82fcde8ad3efe9",
+        "id": "0af7f1ff3e3d2bfa",
         "type": "tabs",
+        "dimension": 74.51564828614009,
         "children": [
           {
-            "id": "7703e9d428b1bece",
+            "id": "74fbc8c4f7b059ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,6 +18,63 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "95844fd031b6946a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.Unity/정리/MVVM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "726f6a709c60e3e8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-16 00.47.02.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "337626e09150afa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.Unity/정리/MVVM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a529cf75a8c09711",
+        "type": "tabs",
+        "dimension": 25.48435171385991,
+        "children": [
+          {
+            "id": "f5b303e7a938f4a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.Unity/정리/MVVM.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -102,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
+                "file": "03.Unity/정리/MVVM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
+                "file": "03.Unity/정리/MVVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
+                "file": "03.Unity/정리/MVVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md"
+                "file": "03.Unity/정리/MVVM.md"
               }
             }
           },
@@ -250,57 +308,57 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7703e9d428b1bece",
+  "active": "337626e09150afa7",
   "lastOpenFiles": [
-    "01.Inbox/Files/Pasted image 20240812232611.png",
-    "01.Inbox/Files/Pasted image 20240812230311.png",
-    "01.Inbox/Home.md",
-    "03.Unity/정리/셰이더/렌더링 파이프라인.md",
+    "01.Inbox/Files/Pasted image 20240816030550.png",
+    "01.Inbox/Files/Pasted image 20240816030513.png",
+    "01.Inbox/Files/Pasted image 20240816030349.png",
+    "01.Inbox/Files/Pasted image 20240816030347.png",
+    "01.Inbox/Files/Pasted image 20240816025425.png",
+    "01.Inbox/Files/Pasted image 20240816022519.png",
+    "01.Inbox/Files/Pasted image 20240816015853.png",
+    "01.Inbox/Files/Pasted image 20240816013928.png",
+    "01.Inbox/Files/Pasted image 20240816013553.png",
+    "01.Inbox/Files/Pasted image 20240816013413.png",
+    "01.Inbox/Files/Pasted image 20240816013136.png",
+    "Excalidraw/Drawing 2024-08-16 00.47.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-15 18.25.34.excalidraw.md",
+    "03.Unity/정리/MVVM.md",
     "03.Unity/정리/데이터드리븐.md",
-    "03.Unity/정리/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
-    "03.Unity/정리/MVC (모델 뷰 컨트롤러).md",
-    "01.Inbox/MOC/규칙 - MOC.md",
-    "01.Inbox/MOC/UI - MOC.md",
-    "01.Inbox/MOC/DesignPattern - MOC.md",
-    "01.Inbox/MOC/방법론 - MOC.md",
-    "01.Inbox/MOC/자료구조 - MOC.md",
-    "03.Unity/정리/MVP.md",
-    "03.Unity/정리/셰이더",
-    "Excalidraw/Drawing 2024-08-11 23.00.53.excalidraw.md",
-    "03.Unity/자료구조/Array vs List T.md",
+    "03.Unity/정리/셰이더/렌더링 파이프라인.md",
     "03.Unity/Project/2D 개인 - MixMaster 모작.md",
-    "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md",
+    "03.Unity/규칙/코드규칙.md",
+    "03.Unity/자료구조/자료구조란.md",
+    "03.Unity/자료구조/Array vs List T.md",
+    "01.Inbox/00.Guide/옵시디언 사용법.md",
+    "01.Inbox/00.Guide/Guide.md",
+    "01.Inbox/00.Guide/옵시디언 관련 유튜브 영상.md",
+    "01.Inbox/MOC/규칙 - MOC.md",
+    "01.Inbox/MOC/자료구조 - MOC.md",
+    "01.Inbox/MOC/방법론 - MOC.md",
+    "01.Inbox/MOC/DesignPattern - MOC.md",
+    "01.Inbox/MOC/UI - MOC.md",
+    "01.Inbox/Template/Daily Note.md",
+    "01.Inbox/Template/정리.md",
+    "01.Inbox/Template/Unity Project.md",
     "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
+    "03.Unity/정리/MVP.md",
+    "03.Unity/정리/MVC (모델 뷰 컨트롤러).md",
+    "03.Unity/정리/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
+    "03.Unity/정리/셰이더/무제 파일.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "03.Unity/정리/셰이더",
     "01.Inbox/Files/기술문서_3D개인프로젝트_SpeedRun_안종화 1.pdf",
     "01.Inbox/Files/기술문서_3D개인프로젝트_SpeedRun_안종화.pdf",
     "01.Inbox/Files/기술문서_3D팀프로젝트_쿠키런모험의탑모작_안종화.pdf",
-    "03.Unity/Project/3D 팀 - 태그게임(미니합반).md",
-    "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md",
-    "03.Unity/규칙/코드규칙.md",
-    "01.Inbox/Files/Pasted image 20240808225109.png",
-    "01.Inbox/Files/Pasted image 20240808225102.png",
-    "01.Inbox/Files/Pasted image 20240808224935.png",
-    "01.Inbox/Files/Pasted image 20240808222309.png",
-    "01.Inbox/Files/Pasted image 20240808222108.png",
-    "01.Inbox/Files/Pasted image 20240808220434.png",
-    "01.Inbox/Files/Pasted image 20240808220156.png",
-    "03.Unity/자료구조/자료구조란.md",
-    "03.Unity/자료구조/스택.md",
-    "01.Inbox/Files/Pasted image 20240808005745.png",
-    "03.Unity/정리/프리팹 개념정리.md",
-    "01.Inbox/Files/Pasted Image 20240808002108_053.png",
-    "Excalidraw/Drawing 2024-08-08 00.19.36.excalidraw.md",
-    "03.Unity/자료구조/메모리구조.md",
     "Excalidraw",
     "03.Unity/자료구조/무제 파일.canvas",
     "03.Unity/규칙",
     "03.Unity/자료구조",
-    "01.Inbox/Template/정리.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "01.Inbox/Files/240429_2DProject_MixMaster_기술문서.pdf의 사본",
-    "01.Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf",
-    "04.취업/자기소개서",
     "무제 파일 1.canvas",
     "Unity/무제 파일.canvas"
   ]
