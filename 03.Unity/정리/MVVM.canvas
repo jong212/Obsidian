@@ -3,42 +3,32 @@
     {
       "id": "4ea8173c4c6be446",
       "type": "text",
-      "text": "View\n1 . 뷰모델아 너 ViewModelBase를 상속받은 거 알고 있어 그러니 너가 상속으로 인해  보유한 PropertyChanged 이벤트에 내 메서드를 등록할게\n",
+      "text": "View\n1 . 나는 ViewModel이 `ViewModelBase`를 상속받고 있음을 알았고 있어. 그러니 상속받은 `PropertyChanged` 이벤트에 내 메서드를 등록할게.\n",
       "styleAttributes": {},
       "x": -1060,
-      "y": -1480,
+      "y": -1645,
       "width": 400,
       "height": 165
     },
     {
       "id": "78faa722cb0bf8fa",
       "type": "text",
-      "text": "View\n4 . VieweModelExtension 님 제가 변경사항에 대해 알려면 결과적으로 Viewmodel의 게터세터의 세터 값이 변경되어야 해요 근데 그 게터세터의 값은 ViewModel에서 직접적으로 수정하지 않고 Extention인 당신에 의해 변경이 된답니다 만약 당신이 \n* 게임로직으로 넘긴 콜백함수가 A-1 처럼 \n* GameLogicManager에서 바로 인크로 실행 된다면 일단은 반환하고\n-  반환된 데이터가Extention에서 콜백함수 매개변수로 적용되어 콜백 실행하고\n- Extenstion에서 값이 바껴도 결국은 뷰모델의 게터세터의 세터가 바뀌는 거라 OnPropertChanged 함수가 실행 되면서\n- 뷰모델 베이스가 반응하고 결국은 뷰의 값이 바뀌는 것이지...\n\n",
+      "text": "ViewModelExtension\n\n4 . 네! 물론이죠. 근데 엄밀히 따져서 말하면 ViewModel에서 직접 수정 되는 것은 아니고 저(ViewModel Extension)를 통해 세터값이 변경 되는 거죠~\n\n그리고 데이터 값이 변경되는 정확한 시점은 게임로직 매니저님에 따라 운명이 갈려요\n\n예를들어 A에서 게임로직 매니저에게 콜백함수를 보냈는데 Invoke를 만난다면? 저 타이밍에 콜백함수가 1회 실행되는 거죠 \n\n요약하자면 게임 시작 시 닉네임이나 레벨같은걸 한 번 초기화 해서 보여주기 위해 Invoke 로직을 사용한 것이죠 의도적으로\n\n\n",
       "styleAttributes": {},
       "x": -1060,
-      "y": -1160,
-      "width": 560,
-      "height": 329
+      "y": -980,
+      "width": 400,
+      "height": 460
     },
     {
       "id": "dda4822713dfc700",
       "type": "text",
-      "text": "ViewModel : ViewModelBase\n\n 2 . 네 저는 이제 게터세터로 데이터가 들어오고 변경사항이 생기면 OnPropertyChanged(nameof(Name)); 함수를 호출하도록 할게요.\n 3 .  근데 뷰 님 뭐 잊으신 거 없어요?\n",
+      "text": "ViewModel : ViewModelBase\n\n 2 . 네, 저는 이제 데이터가 `Getter`와 `Setter`를 통해 들어오면, 변경 사항이 생길 때마다 `OnPropertyChanged(nameof(Name));` 함수를 호출하도록 할게요.\n \n3 . 확장 메서드님! View에서 변경 사항을 감지하려면 결국 제(ViewModel) `Setter` 값이 변경돼야 하는 거 알고 계시죠?\n",
       "styleAttributes": {},
-      "x": -480,
-      "y": -1450,
-      "width": 325,
-      "height": 230
-    },
-    {
-      "id": "4a0bd83c37d3b567",
-      "type": "file",
-      "file": "01.Inbox/Files/Pasted image 20240816181835.png",
-      "styleAttributes": {},
-      "x": -265,
-      "y": -1040,
-      "width": 745,
-      "height": 209
+      "x": -1060,
+      "y": -1380,
+      "width": 400,
+      "height": 325
     },
     {
       "id": "fe1b3cc0b68c3361",
@@ -47,10 +37,20 @@
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -265,
-      "y": -1115,
+      "x": -582,
+      "y": -980,
       "width": 220,
       "height": 50
+    },
+    {
+      "id": "4a0bd83c37d3b567",
+      "type": "file",
+      "file": "01.Inbox/Files/Pasted image 20240816181835.png",
+      "styleAttributes": {},
+      "x": -582,
+      "y": -905,
+      "width": 745,
+      "height": 209
     },
     {
       "id": "97d4873cd3f3e9b2",
@@ -59,8 +59,8 @@
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 700,
-      "y": -1115,
+      "x": -582,
+      "y": -657,
       "width": 220,
       "height": 50
     },
@@ -69,44 +69,68 @@
       "type": "file",
       "file": "01.Inbox/Files/Pasted image 20240816182027.png",
       "styleAttributes": {},
-      "x": 600,
-      "y": -1040,
+      "x": -582,
+      "y": -577,
       "width": 721,
       "height": 234
+    },
+    {
+      "id": "f32459865afe6216",
+      "type": "text",
+      "text": "ViewModelExtension\n\n5 . 그래서 보통\n\nA-1 과 같이 초기화 로직이 필요한 경우 게임로직 매니저에서 바로 콜백함수를 Invoke 시키기도 하고\n\nA-2의 빨간동그라미 초기화 부분 말고 초록 동그라미처럼 게임로직 매니저에서 \n levelUpcallback 이벤트에 콜백함수를 등록해놓고 필요에 따라 원할때 호출시키는 방식도 있다 예를들면 강화 버튼을 클릭했을 때 레벨이 올라야 한다면 아래 함수만 호출하면 되겠지GameLogicManager.Instance.RequestLevelUp()\n\n여기서 인보크와 이벤트등록의 차이는 말 그대로 바로 실행하냐 이벤트를 등록해두고 사용하냐의 차이\n\n\n\n\n\n",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": -260,
+      "width": 400,
+      "height": 580
+    },
+    {
+      "id": "b3ebb702e0b40f3b",
+      "type": "file",
+      "file": "01.Inbox/Files/Pasted image 20240817002910.png",
+      "styleAttributes": {},
+      "x": -599,
+      "y": -245,
+      "width": 761,
+      "height": 578
+    },
+    {
+      "id": "70f984a678b51823",
+      "type": "file",
+      "file": "01.Inbox/Files/Pasted image 20240817003214.png",
+      "styleAttributes": {},
+      "x": -599,
+      "y": 380,
+      "width": 762,
+      "height": 715
+    },
+    {
+      "id": "00d8e0819ce00dd5",
+      "type": "text",
+      "text": "A-2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -582,
+      "y": -310,
+      "width": 220,
+      "height": 50
     }
   ],
   "edges": [
     {
-      "id": "5c90534043d934d2",
-      "styleAttributes": {},
+      "id": "399d847fc84263eb",
       "fromNode": "4ea8173c4c6be446",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "dda4822713dfc700",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
-      "id": "a08b4f245241167e",
-      "styleAttributes": {},
+      "id": "e27fc8591709fd1d",
       "fromNode": "dda4822713dfc700",
       "fromSide": "bottom",
       "toNode": "78faa722cb0bf8fa",
       "toSide": "top"
-    },
-    {
-      "id": "049170a1f50afb14",
-      "styleAttributes": {},
-      "fromNode": "78faa722cb0bf8fa",
-      "fromSide": "right",
-      "toNode": "fe1b3cc0b68c3361",
-      "toSide": "left"
-    },
-    {
-      "id": "8d14934370e3f8a7",
-      "styleAttributes": {},
-      "fromNode": "fe1b3cc0b68c3361",
-      "fromSide": "right",
-      "toNode": "97d4873cd3f3e9b2",
-      "toSide": "left"
     }
   ],
   "metadata": {}
