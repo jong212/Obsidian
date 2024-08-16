@@ -3,8 +3,7 @@
 > [!tip]+ 순서도
 > ![[MVVM.png]]
 
-## View는 자신의 운명을 자신이 결정짓는다
-
+## [View는 자신의 운명을 자신이 결정짓는다]
 MVVM 패턴에서 View는 View와 관련된 요소만을 들고 있어야 하며, 직접 데이터를 처리해서는 안 되는 것으로 알고 있다
 View는 단순히 데이터를 표시하는 역할을 하며, 실제 데이터 처리는 아래와 같은 순서로 처리 된다
 
@@ -38,7 +37,7 @@ View는 단순히 데이터를 표시하는 역할을 하며, 실제 데이터 �
 
 
 
-## ViewModel 동작 순서
+## [ViewModel 동작 순서]
 >[!NOTE] TopLeftUIViewModel.cs 
 >[한 줄 요약 및 핵심]
 >* 뷰모델은 뷰에 관한 데이터를 받고 Onpropertychanged()함수를 통해  데이터를 뷰한테 쏴주는 역할을 한다
@@ -84,7 +83,7 @@ View는 단순히 데이터를 표시하는 역할을 하며, 실제 데이터 �
 ![[Pasted image 20240815231759.png]]
  아래와 같이 Viewmodelbase라는 걸 만들어서 
 ![[Pasted image 20240815231613.png]]
-## VIewModelExtension 동작 순서
+## [VIewModelExtension 동작 순서]
 >[!Note] TopLeftViewModelExtension.cs
 >[한 줄 요약]
 >우선 Extention 이란 확장 메서드를 말하는데 확장 메서드는 C#에서 제공하는 기능으로, **기존 클래스에 새로운 메서드를 추가할 수 있게 해준다** 이를 통해 기존 코드에 변경을 가하지 않고도 메서드를 추가하는 것이 가능하다.
@@ -128,7 +127,7 @@ View는 단순히 데이터를 표시하는 역할을 하며, 실제 데이터 �
 
 
 
-## GameLogicManager 동작 순서 (보완필요)
+## [GameLogicManager 동작 순서 (보완필요)]
 
 
 

@@ -5,8 +5,16 @@
       "path": "03.Unity/정리/MVVM.md"
     },
     {
+      "basename": "무제 파일",
+      "path": "03.Unity/정리/셰이더/무제 파일.md"
+    },
+    {
       "basename": "MVVM",
       "path": "03.Unity/정리/MVVM.canvas"
+    },
+    {
+      "basename": "렌더링 파이프라인",
+      "path": "03.Unity/정리/셰이더/렌더링 파이프라인.md"
     },
     {
       "basename": "Home",
@@ -31,10 +39,6 @@
     {
       "basename": "Pasted Image 20240808002108_053",
       "path": "01.Inbox/Files/Pasted Image 20240808002108_053.png"
-    },
-    {
-      "basename": "렌더링 파이프라인",
-      "path": "03.Unity/정리/셰이더/렌더링 파이프라인.md"
     },
     {
       "basename": "2D 개인 - MixMaster 모작",
@@ -115,10 +119,6 @@
     {
       "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
       "path": "03.Unity/정리/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "03.Unity/정리/셰이더/무제 파일.md"
     },
     {
       "basename": "3D 팀 - 태그게임(미니합반)",
