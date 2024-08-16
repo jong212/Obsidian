@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "4ea8173c4c6be446",
+      "type": "text",
+      "text": "View\n1 . 뷰모델아 너 ViewModelBase를 상속받은 거 알고 있어 그러니 너가 상속으로 인해  보유한 PropertyChanged 이벤트에 내 메서드를 등록할게\n",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": -1480,
+      "width": 400,
+      "height": 165
+    },
+    {
+      "id": "78faa722cb0bf8fa",
+      "type": "text",
+      "text": "View\n4 . VieweModelExtension 님 제가 변경사항에 대해 알려면 결과적으로 Viewmodel의 게터세터의 세터 값이 변경되어야 해요 근데 그 게터세터의 값은 ViewModel에서 직접적으로 수정하지 않고 Extention인 당신에 의해 변경이 된답니다 만약 당신이 \n* 게임로직으로 넘긴 콜백함수가 A-1 처럼 \n* GameLogicManager에서 바로 인크로 실행 된다면 일단은 반환하고\n-  반환된 데이터가Extention에서 콜백함수 매개변수로 적용되어 콜백 실행하고\n- Extenstion에서 값이 바껴도 결국은 뷰모델의 게터세터의 세터가 바뀌는 거라 OnPropertChanged 함수가 실행 되면서\n- 뷰모델 베이스가 반응하고 결국은 뷰의 값이 바뀌는 것이지...\n\n",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": -1160,
+      "width": 560,
+      "height": 329
+    },
+    {
+      "id": "dda4822713dfc700",
+      "type": "text",
+      "text": "ViewModel : ViewModelBase\n\n 2 . 네 저는 이제 게터세터로 데이터가 들어오고 변경사항이 생기면 OnPropertyChanged(nameof(Name)); 함수를 호출하도록 할게요.\n 3 .  근데 뷰 님 뭐 잊으신 거 없어요?\n",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -1450,
+      "width": 325,
+      "height": 230
+    },
+    {
+      "id": "4a0bd83c37d3b567",
+      "type": "file",
+      "file": "01.Inbox/Files/Pasted image 20240816181835.png",
+      "styleAttributes": {},
+      "x": -265,
+      "y": -1040,
+      "width": 745,
+      "height": 209
+    },
+    {
+      "id": "fe1b3cc0b68c3361",
+      "type": "text",
+      "text": "A",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -265,
+      "y": -1115,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "97d4873cd3f3e9b2",
+      "type": "text",
+      "text": "A-1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 700,
+      "y": -1115,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "30bb555757ecc83c",
+      "type": "file",
+      "file": "01.Inbox/Files/Pasted image 20240816182027.png",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -1040,
+      "width": 721,
+      "height": 234
+    }
+  ],
+  "edges": [
+    {
+      "id": "5c90534043d934d2",
+      "styleAttributes": {},
+      "fromNode": "4ea8173c4c6be446",
+      "fromSide": "right",
+      "toNode": "dda4822713dfc700",
+      "toSide": "left"
+    },
+    {
+      "id": "a08b4f245241167e",
+      "styleAttributes": {},
+      "fromNode": "dda4822713dfc700",
+      "fromSide": "bottom",
+      "toNode": "78faa722cb0bf8fa",
+      "toSide": "top"
+    },
+    {
+      "id": "049170a1f50afb14",
+      "styleAttributes": {},
+      "fromNode": "78faa722cb0bf8fa",
+      "fromSide": "right",
+      "toNode": "fe1b3cc0b68c3361",
+      "toSide": "left"
+    },
+    {
+      "id": "8d14934370e3f8a7",
+      "styleAttributes": {},
+      "fromNode": "fe1b3cc0b68c3361",
+      "fromSide": "right",
+      "toNode": "97d4873cd3f3e9b2",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

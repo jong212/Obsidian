@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "id": "8aa24c8e3f5796f6",
+      "type": "text",
+      "text": "dfds\nsdf\nds",
+      "styleAttributes": {},
+      "x": -540,
+      "y": -260,
+      "width": 320,
+      "height": 120
+    },
+    {
+      "id": "637467e4435a0080",
+      "type": "text",
+      "text": "ㄴㄹㄴㅇ",
+      "styleAttributes": {
+        "textAlign": "right"
+      },
+      "x": -700,
+      "y": -440,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
