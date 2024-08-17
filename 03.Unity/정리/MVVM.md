@@ -1,4 +1,11 @@
 
+| Git          | https://github.com/jong212/MVVM.git                                                |
+| ------------ | ---------------------------------------------------------------------------------- |
+| BranchName   | 완성 브랜치명 : SkillButtonClick 체크아웃<br>                                                |
+| RefFile      | https://drive.google.com/file/d/1v1DqIdTd3YwKuXaJer716cylbCKrg8Tz/view?usp=sharing |
+| Memo         |                                                                                    |
+| MOC_Category | [[DesignPattern - MOC]]                                                            |
+
 ## [MVVM 간단 정리]
 > [!tip]+ 순서도
 > ![[MVVM.png]]
