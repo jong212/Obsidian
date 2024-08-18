@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "렌더링 파이프라인",
+      "path": "03.Unity/정리/셰이더/렌더링 파이프라인.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "03.Unity/정리/무제 파일.md"
+    },
+    {
+      "basename": "디자인 패턴의 기초 SOLID 원칙 이해하기",
+      "path": "03.Unity/자료구조/디자인 패턴의 기초 SOLID 원칙 이해하기.md"
+    },
+    {
+      "basename": "MVVM",
+      "path": "03.Unity/정리/MVVM.md"
+    },
+    {
       "basename": "개인 R&D 깃허브에 정리한 내용 모음",
       "path": "03.Unity/정리/개인 R&D 깃허브에 정리한 내용 모음.md"
+    },
+    {
+      "basename": "자료구조란",
+      "path": "03.Unity/자료구조/자료구조란.md"
+    },
+    {
+      "basename": "제네릭",
+      "path": "03.Unity/자료구조/제네릭.md"
+    },
+    {
+      "basename": "정리",
+      "path": "01.Inbox/Template/정리.md"
+    },
+    {
+      "basename": "Unity Project",
+      "path": "01.Inbox/Template/Unity Project.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "코드규칙",
@@ -11,14 +47,6 @@
     {
       "basename": "Singleton",
       "path": "03.Unity/자주 사용하는 파일 모음/Singleton.md"
-    },
-    {
-      "basename": "MVVM",
-      "path": "03.Unity/정리/MVVM.md"
-    },
-    {
-      "basename": "렌더링 파이프라인",
-      "path": "03.Unity/정리/셰이더/렌더링 파이프라인.md"
     },
     {
       "basename": "3D 팀 - 태그게임(미니합반)",
@@ -53,10 +81,6 @@
       "path": "03.Unity/정리/MVC (모델 뷰 컨트롤러).md"
     },
     {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
-    },
-    {
       "basename": "Pasted image 20240817003214",
       "path": "01.Inbox/Files/Pasted image 20240817003214.png"
     },
@@ -71,10 +95,6 @@
     {
       "basename": "Pasted Image 20240808002108_053",
       "path": "01.Inbox/Files/Pasted Image 20240808002108_053.png"
-    },
-    {
-      "basename": "자료구조란",
-      "path": "03.Unity/자료구조/자료구조란.md"
     },
     {
       "basename": "Array vs List T",
@@ -119,14 +139,6 @@
     {
       "basename": "Daily Note",
       "path": "01.Inbox/Template/Daily Note.md"
-    },
-    {
-      "basename": "정리",
-      "path": "01.Inbox/Template/정리.md"
-    },
-    {
-      "basename": "Unity Project",
-      "path": "01.Inbox/Template/Unity Project.md"
     },
     {
       "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20240721012304",
       "path": "01.Inbox/Files/Pasted image 20240721012304.png"
-    },
-    {
-      "basename": "Pasted image 20240721012550",
-      "path": "01.Inbox/Files/Pasted image 20240721012550.png"
-    },
-    {
-      "basename": "Pasted image 20240721012644",
-      "path": "01.Inbox/Files/Pasted image 20240721012644.png"
-    },
-    {
-      "basename": "Pasted image 20240721013456",
-      "path": "01.Inbox/Files/Pasted image 20240721013456.png"
     }
   ],
   "omittedPaths": []

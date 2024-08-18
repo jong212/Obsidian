@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5eecb8b4c4fcb96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.Unity/정리/MVVM.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "196d46f28b65e8ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Unity/정리/개인 R&D 깃허브에 정리한 내용 모음.md",
+                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03.Unity/정리/개인 R&D 깃허브에 정리한 내용 모음.md",
+                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Unity/정리/개인 R&D 깃허브에 정리한 내용 모음.md",
+                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Unity/정리/개인 R&D 깃허브에 정리한 내용 모음.md",
+                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Unity/정리/개인 R&D 깃허브에 정리한 내용 모음.md"
+                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md"
               }
             }
           },
@@ -266,20 +252,31 @@
   },
   "active": "196d46f28b65e8ee",
   "lastOpenFiles": [
-    "03.Unity/규칙/코드규칙.md",
-    "03.Unity/자주 사용하는 파일 모음/Singleton.md",
+    "03.Unity/정리/무제 파일.md",
+    "03.Unity/자료구조/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
+    "01.Inbox/Files/Pasted image 20240819013529.png",
+    "01.Inbox/Files/Pasted image 20240819011505.png",
+    "01.Inbox/Files/Pasted image 20240819010834.png",
+    "01.Inbox/Files/Pasted image 20240819010553.png",
+    "01.Inbox/Files/Pasted image 20240819010430.png",
+    "01.Inbox/Files/Pasted image 20240819010257.png",
+    "01.Inbox/Files/Pasted image 20240818215023.png",
     "03.Unity/정리/MVVM.md",
-    "03.Unity/정리/싱글톤.md",
-    "01.Inbox/Files/Pasted image 20240818015249.png",
-    "01.Inbox/Files/Pasted image 20240818015239.png",
-    "01.Inbox/Files/Pasted image 20240818015238.png",
-    "01.Inbox/Files/Pasted image 20240818014834.png",
-    "01.Inbox/Files/Pasted image 20240818014808.png",
-    "01.Inbox/Files/Pasted image 20240818014547.png",
-    "01.Inbox/Files/Pasted image 20240818014421.png",
-    "03.Unity/자주 사용하는 파일 모음",
     "03.Unity/정리/개인 R&D 깃허브에 정리한 내용 모음.md",
     "03.Unity/정리/셰이더/렌더링 파이프라인.md",
+    "03.Unity/자료구조/자료구조란.md",
+    "03.Unity/자료구조/제네릭.md",
+    "01.Inbox/Template/정리.md",
+    "01.Inbox/Template/Unity Project.md",
+    "01.Inbox/Template/양식 - 코드 콜아웃.md",
+    "01.Inbox/Files/Pasted image 20240818212345.png",
+    "01.Inbox/Files/Pasted image 20240818212049.png",
+    "01.Inbox/Files/Pasted image 20240818211343.png",
+    "01.Inbox/Home.md",
+    "03.Unity/규칙/코드규칙.md",
+    "03.Unity/자주 사용하는 파일 모음/Singleton.md",
+    "03.Unity/정리/싱글톤.md",
+    "03.Unity/자주 사용하는 파일 모음",
     "03.Unity/Project/3D 팀 - 태그게임(미니합반).md",
     "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md",
     "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md",
@@ -287,23 +284,12 @@
     "03.Unity/정리/데이터드리븐.md",
     "03.Unity/정리/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
     "03.Unity/정리/Event.md",
-    "01.Inbox/Files/Pasted image 20240817053029.png",
-    "01.Inbox/Files/Pasted image 20240817052904.png",
-    "01.Inbox/Files/Pasted image 20240817052901.png",
     "03.Unity/정리/셰이더/무제 파일.md",
     "03.Unity/정리/MVVM.canvas",
     "03.Unity/정리/MVC (모델 뷰 컨트롤러).md",
-    "01.Inbox/Home.md",
     "무제 파일.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Drawing 2024-08-16 00.47.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-15 18.25.34.excalidraw.md",
-    "03.Unity/자료구조/자료구조란.md",
-    "03.Unity/자료구조/Array vs List T.md",
-    "01.Inbox/00.Guide/옵시디언 사용법.md",
-    "01.Inbox/00.Guide/Guide.md",
-    "01.Inbox/00.Guide/옵시디언 관련 유튜브 영상.md",
-    "01.Inbox/MOC/규칙 - MOC.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "03.Unity/정리/셰이더",
