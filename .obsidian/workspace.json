@@ -4,19 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "604f7c07d8d6f8f0",
+        "id": "cc173f222b4e9c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "196d46f28b65e8ee",
+            "id": "f431f1688ce58b60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
+                "file": "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5e8832b17878eceb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf"
               }
             }
           }
@@ -102,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
+                "file": "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
+                "file": "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md",
+                "file": "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Unity/정리/셰이더/렌더링 파이프라인.md"
+                "file": "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md"
               }
             }
           },
@@ -250,10 +260,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "196d46f28b65e8ee",
+  "active": "f431f1688ce58b60",
   "lastOpenFiles": [
-    "03.Unity/정리/무제 파일.md",
-    "03.Unity/자료구조/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
+    "03.Unity/Study/렌더링 파이프라인.md",
+    "03.Unity/Github Tip Address.md",
+    "03.Unity/Study/데이터드리븐.md",
+    "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
+    "03.Unity/자주 사용하는 파일 모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md",
+    "03.Unity/자주 사용하는 파일 모음/Singleton.md",
+    "01.Inbox/Files/녹화_2024_08_20_01_02_20_662.gif",
+    "03.Unity/basic/Time.deltaTime.md",
+    "03.Unity/basic",
+    "01.Inbox/MOC/자료구조 - MOC.md",
+    "01.Inbox/MOC/규칙 - MOC.md",
+    "01.Inbox/MOC/기초 - MOC.md",
+    "03.Unity/Study/Factory pattern - TODO.md",
+    "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf",
+    "03.Unity/Study/MVVM.md",
+    "01.Inbox/Home.md",
     "01.Inbox/Files/Pasted image 20240819013529.png",
     "01.Inbox/Files/Pasted image 20240819011505.png",
     "01.Inbox/Files/Pasted image 20240819010834.png",
@@ -261,9 +285,6 @@
     "01.Inbox/Files/Pasted image 20240819010430.png",
     "01.Inbox/Files/Pasted image 20240819010257.png",
     "01.Inbox/Files/Pasted image 20240818215023.png",
-    "03.Unity/정리/MVVM.md",
-    "03.Unity/정리/개인 R&D 깃허브에 정리한 내용 모음.md",
-    "03.Unity/정리/셰이더/렌더링 파이프라인.md",
     "03.Unity/자료구조/자료구조란.md",
     "03.Unity/자료구조/제네릭.md",
     "01.Inbox/Template/정리.md",
@@ -271,35 +292,23 @@
     "01.Inbox/Template/양식 - 코드 콜아웃.md",
     "01.Inbox/Files/Pasted image 20240818212345.png",
     "01.Inbox/Files/Pasted image 20240818212049.png",
-    "01.Inbox/Files/Pasted image 20240818211343.png",
-    "01.Inbox/Home.md",
     "03.Unity/규칙/코드규칙.md",
-    "03.Unity/자주 사용하는 파일 모음/Singleton.md",
     "03.Unity/정리/싱글톤.md",
     "03.Unity/자주 사용하는 파일 모음",
     "03.Unity/Project/3D 팀 - 태그게임(미니합반).md",
     "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md",
     "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md",
     "03.Unity/Project/2D 개인 - MixMaster 모작.md",
-    "03.Unity/정리/데이터드리븐.md",
-    "03.Unity/정리/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
-    "03.Unity/정리/Event.md",
-    "03.Unity/정리/셰이더/무제 파일.md",
-    "03.Unity/정리/MVVM.canvas",
-    "03.Unity/정리/MVC (모델 뷰 컨트롤러).md",
-    "무제 파일.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Drawing 2024-08-16 00.47.02.excalidraw.md",
+    "03.Unity/Study/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
+    "03.Unity/Study/MVVM.canvas",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "03.Unity/정리/셰이더",
+    "03.Unity/Study/셰이더",
     "01.Inbox/Files/기술문서_3D개인프로젝트_SpeedRun_안종화 1.pdf",
     "01.Inbox/Files/기술문서_3D개인프로젝트_SpeedRun_안종화.pdf",
     "01.Inbox/Files/기술문서_3D팀프로젝트_쿠키런모험의탑모작_안종화.pdf",
     "Excalidraw",
     "03.Unity/자료구조/무제 파일.canvas",
-    "03.Unity/규칙",
-    "03.Unity/자료구조",
     "무제 파일.canvas",
     "Untitled.canvas",
     "무제 파일 1.canvas",
