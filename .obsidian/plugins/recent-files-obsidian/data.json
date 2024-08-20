@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "상속",
+      "path": "03.Unity/Study/상속.md"
+    },
+    {
+      "basename": "인터페이스",
+      "path": "03.Unity/Study/인터페이스.md"
+    },
+    {
       "basename": "디자인 패턴의 기초 SOLID 원칙 이해하기",
       "path": "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md"
+    },
+    {
+      "basename": "Time.deltaTime",
+      "path": "03.Unity/basic/Time.deltaTime.md"
+    },
+    {
+      "basename": "Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능",
+      "path": "03.Unity/자주 사용하는 파일 모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "03.Unity/자주 사용하는 파일 모음/Singleton.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
+      "basename": "Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr",
+      "path": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf"
     },
     {
       "basename": "렌더링 파이프라인",
@@ -15,18 +43,6 @@
     {
       "basename": "데이터드리븐",
       "path": "03.Unity/Study/데이터드리븐.md"
-    },
-    {
-      "basename": "Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능",
-      "path": "03.Unity/자주 사용하는 파일 모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md"
-    },
-    {
-      "basename": "Singleton",
-      "path": "03.Unity/자주 사용하는 파일 모음/Singleton.md"
-    },
-    {
-      "basename": "Time.deltaTime",
-      "path": "03.Unity/basic/Time.deltaTime.md"
     },
     {
       "basename": "자료구조 - MOC",
@@ -45,16 +61,8 @@
       "path": "03.Unity/Study/Factory pattern - TODO.md"
     },
     {
-      "basename": "Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr",
-      "path": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf"
-    },
-    {
       "basename": "MVVM",
       "path": "03.Unity/Study/MVVM.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "자료구조란",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-07-21(일)",
       "path": "02.DailyNote/2024-07-21(일).md"
-    },
-    {
-      "basename": "2024-07-22(Mon)",
-      "path": "02.DailyNote/2024-07-22(Mon).md"
-    },
-    {
-      "basename": "240429_mixmaster_기술문서_안종화_1차 완료",
-      "path": "01.Inbox/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf"
     }
   ],
   "omittedPaths": []

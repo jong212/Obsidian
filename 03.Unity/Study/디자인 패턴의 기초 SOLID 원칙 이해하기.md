@@ -127,10 +127,13 @@
 >         }
 >     }
 > }
-> 
 > ```
 
+
 > [!NOTE]- 개방폐쇄 원칙을 지킨경우
+> 
+**확장에는 열려 있음**: 새로운 무기 유형을 추가하고 싶다면, 단순히 새로운 무기 클래스를 작성하고 `IWeapon` 인터페이스를 구현하면 됩니다. 기존의 `Player` 클래스는 수정할 필요가 없습니다.
+예시로 `Gun` 무기를 추가할 때는 다음과 같이 구현할 수 있습니다:
 > ``` csharp
 > using UnityEngine;
 > 
@@ -164,7 +167,9 @@
 >         Debug.Log("Attack with Magic!");
 >     }
 > }
-> 
+> ```
+> ### 객체를 저장하는 IWeapon 변수
+> ``` csharp
 > // 플레이어 클래스는 IWeapon을 사용하여 공격
 > public class Player : MonoBehaviour
 > {
@@ -183,21 +188,46 @@
 > }
 > 
 > ```
+> ### 아래와 같이 확장 가능
+> ```csharp
+> public class Gun : IWeapon
+> {
+>     public void Attack()
+>     {
+>         Debug.Log("Attack with Gun!");
+>     }
+> }
+> ```
+> ### 무기 사용
+> ``` csharp
+> public class GameManager : MonoBehaviour
+> {
+>     public Player player; // 유니티에서 플레이어 오브젝트를 할당
 > 
+>     void Start()
+>     {
+>         // 플레이어에게 무기를 설정
+>         IWeapon sword = new Sword();
+>         IWeapon bow = new Bow();
+>         IWeapon magic = new Magic();
 > 
-
-**확장에는 열려 있음**: 새로운 무기 유형을 추가하고 싶다면, 단순히 새로운 무기 클래스를 작성하고 `IWeapon` 인터페이스를 구현하면 됩니다. 기존의 `Player` 클래스는 수정할 필요가 없습니다.
-예시로 `Gun` 무기를 추가할 때는 다음과 같이 구현할 수 있습니다:
-``` csharp
-public class Gun : IWeapon
-{
-    public void Attack()
-    {
-        Debug.Log("Attack with Gun!");
-    }
-}
-
-```
+>         // 검을 무기로 설정
+>         player.SetWeapon(sword);
+> 
+>         // 플레이어가 공격
+>         player.Attack();
+> 
+>         // 활로 무기 변경
+>         player.SetWeapon(bow);
+>         player.Attack();
+> 
+>         // 마법으로 무기 변경
+>         player.SetWeapon(magic);
+>         player.Attack();
+>     }
+> }
+> ```
+> 
 
 ### 3. 리스코프 치환 원칙
 > [!NOTE]- 리스코프 치환  원칙을 준수한 케이스 
