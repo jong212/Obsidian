@@ -5,6 +5,10 @@
       "path": "03.Unity/Study/Observer pattern.md"
     },
     {
+      "basename": "Factory pattern - TODO",
+      "path": "03.Unity/Study/Factory pattern - TODO.md"
+    },
+    {
       "basename": "디자인 패턴의 기초 SOLID 원칙 이해하기",
       "path": "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "기초 - MOC",
       "path": "01.Inbox/MOC/기초 - MOC.md"
-    },
-    {
-      "basename": "Factory pattern - TODO",
-      "path": "03.Unity/Study/Factory pattern - TODO.md"
     },
     {
       "basename": "MVVM",

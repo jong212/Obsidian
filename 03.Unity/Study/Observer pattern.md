@@ -1,10 +1,10 @@
 
-| Git          |                         |
-| ------------ | ----------------------- |
-| BranchName   |                         |
-| RefFile      |                         |
-| Memo         |                         |
-| MOC_Category | [[DesignPattern - MOC]] |
+| Git          | https://github.com/jong212/designpatterndemo                                                |
+| ------------ | ------------------------------------------------------------------------------------------- |
+| BranchName   | main                                                                                        |
+| RefFile      | https://www.youtube.com/watch?v=j4kVuJQUMtw&list=PL412Ym60h6ut9NcbAIfzVgyy5F4O22oSq&index=6 |
+| Memo         |                                                                                             |
+| MOC_Category | [[DesignPattern - MOC]]                                                                     |
 ## 이벤트를  활용한 옵저버 패턴 간단하게 이해하기
 
 만약 
@@ -162,7 +162,9 @@ C 오브젝트에서 파티클 효과가 나타나오게 하고 싶다면?
 ![[Pasted image 20240821225545.png]]
 
 
+
 ## 장단점
+![[Pasted image 20240821225736.png]]
 
 이벤트를 구현하면 약간의 추가 작업이 필요하지만 이점이 있습니다:
 
