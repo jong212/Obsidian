@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "상속",
-      "path": "03.Unity/Study/상속.md"
+      "basename": "Observer pattern",
+      "path": "03.Unity/Study/Observer pattern.md"
+    },
+    {
+      "basename": "디자인 패턴의 기초 SOLID 원칙 이해하기",
+      "path": "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md"
     },
     {
       "basename": "인터페이스",
       "path": "03.Unity/Study/인터페이스.md"
     },
     {
-      "basename": "디자인 패턴의 기초 SOLID 원칙 이해하기",
-      "path": "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md"
+      "basename": "상속",
+      "path": "03.Unity/Study/상속.md"
     },
     {
       "basename": "Time.deltaTime",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-07-20(토)",
       "path": "02.DailyNote/2024-07-20(토).md"
-    },
-    {
-      "basename": "2024-07-21(일)",
-      "path": "02.DailyNote/2024-07-21(일).md"
     }
   ],
   "omittedPaths": []

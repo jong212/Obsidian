@@ -13,8 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Unity/Study/상속.md",
+                "file": "03.Unity/Study/Observer pattern.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f7623b76a300acd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dca0874eaa9d470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.Unity/Study/Observer pattern.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.5
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -102,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03.Unity/Study/상속.md",
+                "file": "03.Unity/Study/Observer pattern.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Unity/Study/상속.md",
+                "file": "03.Unity/Study/Observer pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Unity/Study/상속.md",
+                "file": "03.Unity/Study/Observer pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Unity/Study/상속.md"
+                "file": "03.Unity/Study/Observer pattern.md"
               }
             }
           },
@@ -252,9 +271,11 @@
   },
   "active": "5e8832b17878eceb",
   "lastOpenFiles": [
-    "03.Unity/Study/인터페이스.md",
-    "03.Unity/Study/상속.md",
+    "01.Inbox/Files/Pasted image 20240821225545.png",
     "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
+    "03.Unity/Study/인터페이스.md",
+    "03.Unity/Study/Observer pattern.md",
+    "03.Unity/Study/상속.md",
     "03.Unity/basic/Time.deltaTime.md",
     "03.Unity/자주 사용하는 파일 모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md",
     "03.Unity/자주 사용하는 파일 모음/Singleton.md",
@@ -289,8 +310,6 @@
     "03.Unity/자주 사용하는 파일 모음",
     "03.Unity/Project/3D 팀 - 태그게임(미니합반).md",
     "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md",
-    "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md",
-    "03.Unity/Project/2D 개인 - MixMaster 모작.md",
     "03.Unity/Study/MVVM.canvas",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
