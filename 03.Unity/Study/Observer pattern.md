@@ -1,10 +1,10 @@
 
-| Git          | https://github.com/jong212/designpatterndemo                                                |
-| ------------ | ------------------------------------------------------------------------------------------- |
-| BranchName   | main                                                                                        |
-| RefFile      | https://www.youtube.com/watch?v=j4kVuJQUMtw&list=PL412Ym60h6ut9NcbAIfzVgyy5F4O22oSq&index=6 |
-| Memo         |                                                                                             |
-| MOC_Category | [[DesignPattern - MOC]]                                                                     |
+| Git          | https://github.com/jong212/designpatterndemo                                                                                                                        |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| BranchName   | main                                                                                                                                                                |
+| RefFile      | https://www.youtube.com/watch?v=j4kVuJQUMtw&list=PL412Ym60h6ut9NcbAIfzVgyy5F4O22oSq&index=6<br><br>[[Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf]] |
+| Memo         |                                                                                                                                                                     |
+| MOC_Category | [[DesignPattern - MOC]]                                                                                                                                             |
 ## 이벤트를  활용한 옵저버 패턴 간단하게 이해하기
 
 만약 
