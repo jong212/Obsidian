@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7623b76a300acd",
+        "id": "c7015b8dcd090796",
         "type": "tabs",
         "children": [
           {
-            "id": "3dca0874eaa9d470",
+            "id": "6d5629535b245f0e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf"
+                "file": "03.Unity/자주 사용하는 파일 모음/상태머신.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf",
+                "file": "03.Unity/자주 사용하는 파일 모음/상태머신.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf",
+                "file": "03.Unity/자주 사용하는 파일 모음/상태머신.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf",
+                "file": "03.Unity/자주 사용하는 파일 모음/상태머신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf"
+                "file": "03.Unity/자주 사용하는 파일 모음/상태머신.md"
               }
             }
           },
@@ -247,21 +250,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3dca0874eaa9d470",
+  "active": "6d5629535b245f0e",
   "lastOpenFiles": [
+    "01.Inbox/Files/statemachine.zip",
+    "01.Inbox/Files/바탕 화면.zip",
+    "01.Inbox/Files/PlayerMoveState.cs",
+    "01.Inbox/Files/PlayerStateMachine.cs",
+    "01.Inbox/Files/PlayerIdleState.cs",
+    "01.Inbox/Files/PlayerState.cs",
+    "01.Inbox/Files/Player.cs",
+    "03.Unity/Study/무제 파일.md",
+    "03.Unity/자주 사용하는 파일 모음/상태머신.md",
+    "03.Unity/Study/오버라이드.md",
+    "03.Unity/Study/상속.md",
+    "01.Inbox/Home.md",
+    "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf",
     "03.Unity/Study/Observer pattern.md",
     "03.Unity/Study/Factory pattern - TODO.md",
     "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
-    "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf",
     "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
     "03.Unity/basic/Time.deltaTime.md",
     "03.Unity/자주 사용하는 파일 모음/Singleton.md",
     "03.Unity/자주 사용하는 파일 모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md",
-    "03.Unity/Study/상속.md",
     "01.Inbox/Files/Pasted image 20240821225736.png",
     "01.Inbox/Files/Pasted image 20240821225545.png",
     "03.Unity/Study/인터페이스.md",
-    "01.Inbox/Home.md",
     "03.Unity/Study/렌더링 파이프라인.md",
     "03.Unity/Github Tip Address.md",
     "03.Unity/Study/데이터드리븐.md",
@@ -283,18 +296,9 @@
     "01.Inbox/Template/정리.md",
     "01.Inbox/Template/Unity Project.md",
     "01.Inbox/Template/양식 - 코드 콜아웃.md",
-    "03.Unity/규칙/코드규칙.md",
-    "03.Unity/정리/싱글톤.md",
     "03.Unity/자주 사용하는 파일 모음",
-    "03.Unity/Project/3D 팀 - 태그게임(미니합반).md",
     "03.Unity/Study/MVVM.canvas",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "03.Unity/Study/셰이더",
-    "01.Inbox/Files/기술문서_3D개인프로젝트_SpeedRun_안종화 1.pdf",
-    "01.Inbox/Files/기술문서_3D개인프로젝트_SpeedRun_안종화.pdf",
-    "01.Inbox/Files/기술문서_3D팀프로젝트_쿠키런모험의탑모작_안종화.pdf",
-    "Excalidraw",
     "03.Unity/자료구조/무제 파일.canvas",
     "무제 파일.canvas",
     "Untitled.canvas",

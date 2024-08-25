@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "상태머신",
+      "path": "03.Unity/자주 사용하는 파일 모음/상태머신.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "03.Unity/Study/무제 파일.md"
+    },
+    {
+      "basename": "오버라이드",
+      "path": "03.Unity/Study/오버라이드.md"
+    },
+    {
+      "basename": "상속",
+      "path": "03.Unity/Study/상속.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
       "basename": "Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr",
       "path": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf"
     },
@@ -33,16 +53,8 @@
       "path": "03.Unity/자주 사용하는 파일 모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md"
     },
     {
-      "basename": "상속",
-      "path": "03.Unity/Study/상속.md"
-    },
-    {
       "basename": "인터페이스",
       "path": "03.Unity/Study/인터페이스.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "렌더링 파이프라인",
@@ -187,18 +199,6 @@
     {
       "basename": "2024-08-05(월)",
       "path": "02.DailyNote/2024-08-05(월).md"
-    },
-    {
-      "basename": "2024-08-02(금)",
-      "path": "02.DailyNote/2024-08-02(금).md"
-    },
-    {
-      "basename": "2024-07-22(월)",
-      "path": "02.DailyNote/2024-07-22(월).md"
-    },
-    {
-      "basename": "2024-07-20(토)",
-      "path": "02.DailyNote/2024-07-20(토).md"
     }
   ],
   "omittedPaths": []
