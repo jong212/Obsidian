@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "9a71d771622a670e",
+        "id": "e9677a73c7ccea63",
         "type": "tabs",
         "children": [
           {
-            "id": "6e3edac09ca35cff",
+            "id": "281aeb0ab0fcae49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Unity/Study/오버라이드.md",
+                "file": "01.Inbox/00.Guide/Guide 문서.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d0beda1d44638c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.Unity/자료구조/List, ArrayList, LinkedList.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 200
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -102,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03.Unity/Study/오버라이드.md",
+                "file": "03.Unity/자료구조/List, ArrayList, LinkedList.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Unity/Study/오버라이드.md",
+                "file": "03.Unity/자료구조/List, ArrayList, LinkedList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Unity/Study/오버라이드.md",
+                "file": "03.Unity/자료구조/List, ArrayList, LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Unity/Study/오버라이드.md"
+                "file": "03.Unity/자료구조/List, ArrayList, LinkedList.md"
               }
             }
           },
@@ -232,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,55 +265,55 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e3edac09ca35cff",
+  "active": "3d0beda1d44638c5",
   "lastOpenFiles": [
+    "01.Inbox/00.Guide/Guide 문서.md",
+    "03.Unity/자료구조/List, ArrayList, LinkedList.md",
+    "01.Inbox/Files/Pasted image 20240829173216.png",
+    "01.Inbox/00.Guide/옵시디언 관련 유튜브 영상.md",
+    "03.Unity/자료구조/제네릭.md",
+    "01.Inbox/00.Guide/옵시디언 사용법.md",
+    "01.Inbox/00.Guide/@@@@.md",
     "01.Inbox/Home.md",
     "04.Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md",
-    "04.Git",
-    "03.Unity/자주 사용하는 파일 모음/상태머신.md",
-    "01.Inbox/Files/statemachine.zip",
-    "01.Inbox/Files/바탕 화면.zip",
-    "01.Inbox/Files/PlayerMoveState.cs",
-    "01.Inbox/Files/PlayerStateMachine.cs",
-    "01.Inbox/Files/PlayerIdleState.cs",
-    "01.Inbox/Files/PlayerState.cs",
-    "01.Inbox/Files/Player.cs",
+    "무제 파일.md",
+    "03.Unity/Study/렌더링 파이프라인.md",
+    "03.Unity/Study/인터페이스.md",
+    "03.Unity/Study/MVVM.canvas",
     "03.Unity/Study/무제 파일.md",
     "03.Unity/Study/오버라이드.md",
+    "04.Git",
     "03.Unity/Study/상속.md",
-    "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf",
+    "03.Unity/자주 사용하는 파일 모음/상태머신.md",
+    "01.Inbox/Files/바탕 화면.zip",
+    "01.Inbox/Files/statemachine.zip",
+    "01.Inbox/Files/PlayerStateMachine.cs",
+    "01.Inbox/Files/PlayerState.cs",
+    "01.Inbox/Files/PlayerMoveState.cs",
+    "01.Inbox/Files/PlayerIdleState.cs",
+    "01.Inbox/Files/Player.cs",
+    "03.Unity/취업/현업자들이 중요하게 생각하는 신입 포폴 내용.md",
     "03.Unity/Study/Observer pattern.md",
-    "03.Unity/Study/Factory pattern - TODO.md",
+    "03.Unity/취업",
     "03.Unity/Study/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
-    "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
-    "03.Unity/basic/Time.deltaTime.md",
-    "03.Unity/자주 사용하는 파일 모음/Singleton.md",
     "03.Unity/자주 사용하는 파일 모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md",
+    "03.Unity/basic/Time.deltaTime.md",
+    "03.Unity/basic",
+    "03.Unity/Study/데이터드리븐.md",
+    "03.Unity/Study/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
+    "03.Unity/Study/MVVM.md",
+    "03.Unity/Study/MVP.md",
+    "03.Unity/Study/MVC (모델 뷰 컨트롤러).md",
+    "01.Inbox/Files/녹화_2024_08_20_01_02_20_662.gif",
     "01.Inbox/Files/Pasted image 20240821225736.png",
     "01.Inbox/Files/Pasted image 20240821225545.png",
-    "03.Unity/Study/인터페이스.md",
-    "03.Unity/Study/렌더링 파이프라인.md",
-    "03.Unity/Github Tip Address.md",
-    "03.Unity/Study/데이터드리븐.md",
-    "01.Inbox/Files/녹화_2024_08_20_01_02_20_662.gif",
-    "03.Unity/basic",
-    "01.Inbox/MOC/자료구조 - MOC.md",
-    "01.Inbox/MOC/규칙 - MOC.md",
-    "01.Inbox/MOC/기초 - MOC.md",
-    "03.Unity/Study/MVVM.md",
     "01.Inbox/Files/Pasted image 20240819013529.png",
     "01.Inbox/Files/Pasted image 20240819011505.png",
     "01.Inbox/Files/Pasted image 20240819010834.png",
     "01.Inbox/Files/Pasted image 20240819010553.png",
     "01.Inbox/Files/Pasted image 20240819010430.png",
     "01.Inbox/Files/Pasted image 20240819010257.png",
-    "01.Inbox/Files/Pasted image 20240818215023.png",
-    "03.Unity/자료구조/자료구조란.md",
-    "03.Unity/자료구조/제네릭.md",
-    "01.Inbox/Template/정리.md",
-    "01.Inbox/Template/Unity Project.md",
-    "01.Inbox/Template/양식 - 코드 콜아웃.md",
-    "03.Unity/Study/MVVM.canvas",
+    "03.Unity/정리/MVVM.canvas",
     "03.Unity/자료구조/무제 파일.canvas",
     "무제 파일.canvas",
     "Untitled.canvas",
