@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "id": "fcc6ca28ae7f80ca",
+      "type": "text",
+      "text": "Player  : Entity",
+      "styleAttributes": {},
+      "x": 320,
+      "y": -110,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8a4526aa64992eef",
+      "type": "text",
+      "text": "Enemy.cs\n\n- **역할:** 다양한 적 캐릭터들이 상속받을 수 있는 클래스입니다. 적들이 가질 공통적인 속성과 행동을 정의합니다.\n- **주요 변수 및 메서드:**\n    - `whatIsPlayer`: 플레이어를 감지하기 위한 레이어 마스크.\n    - `moveSpeed`, `idleTime`, `attackDistance`: 적의 움직임, 대기 시간, 공격 거리 등의 행동 속성을 정의합니다.\n    - `stateMachine`: 적의 상태를 관리하는 상태 머신을 초기화하고 업데이트합니다.\n    - `IsPlayerDetected()`: 레이캐스트를 통해 플레이어를 감지합니다.",
+      "styleAttributes": {},
+      "x": -548,
+      "y": -200,
+      "width": 700,
+      "height": 300
+    },
+    {
+      "id": "d95cbd2dd645f744",
+      "type": "text",
+      "text": "SkeletonBattle.cs : EnemyState\n- **역할:** Skeleton이 전투 상태일 때의 행동을 정의합니다. 이 상태에서는 플레이어의 위치를 감지하여 이동 방향을 설정하고 공격을 준비합니다.\n- **주요 변수 및 메서드:**\n    - `player`: 전투 상태에서 감지된 플레이어의 위치를 참조합니다.\n    - `moveDir`: 플레이어의 위치에 따라 이동 방향을 설정합니다.\n    - `SetVelocity()`: Skeleton이 플레이어 쪽으로 움직이도록 속도를 설정합니다.",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 940,
+      "width": 580,
+      "height": 280
+    },
+    {
+      "id": "04b2162af8c4d6f1",
+      "type": "text",
+      "text": "Entity : Monobehaviour\n\n- **역할:** 이 클래스는 적과 플레이어가 상속받을 수 있는 기본 컴포넌트와 로직들을 포함하고 있어요. 이동, 충돌 감지, 회전 등의 공통 기능을 구현합니다.\n- **주요 변수 및 메서드:**\n    - `anim`, `rb`: 게임 오브젝트의 애니메이터와 물리 엔진(리짓바디) 컴포넌트를 가져옵니다.\n    - `groundCheck`, `wallCheck`: 충돌 감지를 위한 위치를 설정하는 변수들로, 땅과 벽을 감지합니다.\n    - `SetVelocity()`: 오브젝트의 속도를 설정하고, 이동 방향에 따라 오브젝트를 회전시킵니다.\n    - `IsGroundDetected()`, `IsWallDetected()`: 레이캐스트를 통해 땅과 벽의 존재를 감지합니다.\n    - `Flip()`, `FlipController()`: 오브젝트의 방향을 회전시킵니다.\n\n\n\n",
+      "styleAttributes": {
+        "shape": null
+      },
+      "x": -198,
+      "y": -700,
+      "width": 620,
+      "height": 420
+    },
+    {
+      "id": "36ca2030097d8ec5",
+      "type": "text",
+      "text": "\nEnemy_Skeleton : Enemy\n- **역할:** Skeleton 타입의 적을 구현하는 클래스입니다. Skeleton의 다양한 상태(Idle, Move, Battle 등)를 정의하고 초기 상태를 설정합니다.\n- **주요 변수 및 메서드:**\n    - `idleState`, `moveState`, `battleState`: Skeleton의 다양한 상태를 관리하기 위한 상태 클래스입니다.\n    - `stateMachine.Initialize(idleState)`: Skeleton이 시작할 때 Idle 상태로 설정합니다.\n![[Pasted image 20240829231113.png]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -445,
+      "y": 140,
+      "width": 630,
+      "height": 412
+    },
+    {
+      "id": "24612ece394b7861",
+      "type": "text",
+      "text": "객체 초기화",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -575,
+      "y": 660,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "eb791f0ad2fda288",
+      "type": "file",
+      "file": "01.Inbox/Files/Pasted image 20240829232622.png",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 1260,
+      "width": 898,
+      "height": 160
+    },
+    {
+      "id": "dcf379564ab06983",
+      "type": "text",
+      "text": "EnemyState\n- **역할:** 적의 특정 상태를 정의하는 베이스 클래스입니다. 상태가 전환될 때마다 실행되는 공통 로직(Enter, Exit 등)을 구현합니다.\n- **주요 변수 및 메서드:**\n    - `enemyBase`, `stateMachine`: 상태를 가진 적의 기본 정보와 상태 머신을 참조합니다.\n    - `Enter()`, `Exit()`, `Update()`: 상태가 시작, 종료, 업데이트될 때 호출되는 메서드들로, 상태 전환과 애니메이션을 관리합니다.",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -353,
+      "y": 600,
+      "width": 447,
+      "height": 310
+    },
+    {
+      "id": "63f54b209dd2af02",
+      "type": "text",
+      "text": "### 전체 요약:\n\n1. **Entity.cs**\n    \n    - **역할:** 적과 플레이어의 공통 로직을 제공하는 기본 클래스.\n    - **주요 기능:**\n        - 애니메이터와 리지드바디 컴포넌트를 초기화.\n        - 이동 속도 설정 및 방향 전환.\n        - 땅과 벽의 충돌 감지.\n2. **Enemy.cs**\n    \n    - **역할:** 다양한 적 오브젝트가 가지는 공통 속성과 기본 행동을 정의하는 클래스.\n    - **주요 기능:**\n        - 적의 기본 속성(이동 속도, 공격 거리 등)을 설정.\n        - 상태 머신을 초기화하고 상태를 업데이트.\n        - 레이캐스트를 통해 플레이어를 감지.\n3. **Enemy_Skeleton.cs**\n    \n    - **역할:** Skeleton 타입 적의 구체적인 상태(Idle, Move, Battle 등)를 정의하고 관리하는 클래스.\n    - **주요 기능:**\n        - Skeleton의 각 상태를 정의하고 초기 상태를 설정.\n4. **EnemyState.cs**\n    \n    - **역할:** 적의 상태를 정의하는 베이스 클래스. 모든 상태 클래스들의 행동을 정의하는 기본 클래스.\n    - **주요 기능:**\n        - 상태 진입, 유지, 종료 시의 행동을 관리 (`Enter`, `Update`, `Exit` 메서드).\n        - 상태별 애니메이션 제어.\n5. **SkeletonBattleState.cs**\n    \n    - **역할:** Skeleton의 전투 상태에서의 구체적인 행동을 정의하는 상태 클래스.\n    - **주요 기능:**\n        - 전투 상태에서 플레이어의 위치를 따라 이동.\n        - Skeleton의 이동 방향과 속도를 설정.",
+      "styleAttributes": {},
+      "x": -300,
+      "y": 1480,
+      "width": 620,
+      "height": 1240
+    }
+  ],
+  "edges": [
+    {
+      "id": "a1d791932230f202",
+      "styleAttributes": {},
+      "fromNode": "36ca2030097d8ec5",
+      "fromSide": "left",
+      "toNode": "d95cbd2dd645f744",
+      "toSide": "left"
+    },
+    {
+      "id": "4abe4defc62b5db6",
+      "styleAttributes": {},
+      "fromNode": "d95cbd2dd645f744",
+      "fromSide": "top",
+      "toNode": "dcf379564ab06983",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}
