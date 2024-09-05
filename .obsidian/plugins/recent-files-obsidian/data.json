@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
+      "basename": "2024-09-05(목)",
+      "path": "02.DailyNote/2024-09-05(목).md"
+    },
+    {
+      "basename": "2024-07-23(Tue)",
+      "path": "02.DailyNote/2024-07-23(Tue).md"
+    },
+    {
       "basename": "무제 파일",
       "path": "03.Unity/무제 파일.canvas"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "MVVM",
       "path": "03.Unity/Study/디자인패턴/MVVM.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "상태머신",
@@ -191,14 +199,6 @@
     {
       "basename": "MVP",
       "path": "03.Unity/Study/디자인패턴/MVP.md"
-    },
-    {
-      "basename": "2024-07-23(Tue)",
-      "path": "02.DailyNote/2024-07-23(Tue).md"
-    },
-    {
-      "basename": "2024-07-26(금)",
-      "path": "02.DailyNote/2024-07-26(금).md"
     }
   ],
   "omittedPaths": []
