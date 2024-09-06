@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b0679d2d2f31fbf",
+        "id": "05b9be583cba45a2",
         "type": "tabs",
         "children": [
           {
-            "id": "3042fb2d3ac61858",
+            "id": "95166d0b46d43ba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Inbox/Home.md",
-                "mode": "preview",
+                "file": "03.Unity/Study/개인공부/코루틴과 유니테스크의 차이 (기술면접).md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Inbox/Home.md",
+                "file": "03.Unity/Study/개인공부/코루틴과 유니테스크의 차이 (기술면접).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Inbox/Home.md",
+                "file": "03.Unity/Study/개인공부/코루틴과 유니테스크의 차이 (기술면접).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Inbox/Home.md",
+                "file": "03.Unity/Study/개인공부/코루틴과 유니테스크의 차이 (기술면접).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Inbox/Home.md"
+                "file": "03.Unity/Study/개인공부/코루틴과 유니테스크의 차이 (기술면접).md"
               }
             }
           },
@@ -212,9 +212,17 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "296ad601e1d05c5a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "b99ec93446810926",
@@ -250,56 +258,56 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3042fb2d3ac61858",
+  "active": "95166d0b46d43ba0",
   "lastOpenFiles": [
+    "01.Inbox/00.Guide/Guide 문서.md",
+    "03.Unity/Study/개인공부/코루틴과 유니테스크의 차이 (기술면접).md",
+    "01.Inbox/Files/Pasted image 20240907063013.png",
+    "01.Inbox/Files/Pasted image 20240907063011.png",
+    "01.Inbox/Files/Pasted image 20240907062920.png",
+    "01.Inbox/Files/Pasted image 20240907062854.png",
+    "03.Unity/Study/개인공부/렌더링 파이프라인.md",
+    "03.Unity/Study/개인공부/오버라이드.md",
+    "03.Unity/Study/개인공부/무제 파일 1.md",
+    "03.Unity/Study/개인공부/인터페이스.md",
+    "03.Unity/Study/개인공부/데이터드리븐.md",
+    "03.Unity/Study/개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
+    "03.Unity/Study/다양한예제/상태머신.md",
+    "03.Unity/Study/Git/Github Tip Address.md",
+    "03.Unity/Study/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md",
+    "03.Unity/Study/개인공부/Time.deltaTime.md",
+    "03.Unity/Study/규칙/코드규칙.md",
+    "03.Unity/Study/다양한예제/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md",
+    "03.Unity/Study/다양한예제/Singleton.md",
+    "03.Unity/Study/개인공부/상속.md",
+    "03.Unity/Study/개인공부/무제 파일.md",
+    "03.Unity/Project/3D 팀 - 태그게임(미니합반).md",
+    "03.Unity/Project/2D 개인 - MixMaster 모작.md",
+    "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md",
+    "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md",
+    "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
+    "01.Inbox/Home.md",
     "02.DailyNote/2024-09-05(목).md",
+    "03.Unity/무제 파일.canvas",
     "02.DailyNote/2024-07-23(Tue).md",
     "01.Inbox/Files/Pasted image 20240905030838.png",
     "01.Inbox/Files/Pasted image 20240905030812.png",
-    "01.Inbox/Home.md",
-    "03.Unity/무제 파일.canvas",
     "01.Inbox/Files/Pasted image 20240829232622.png",
     "01.Inbox/Files/Pasted image 20240829232508.png",
     "01.Inbox/Files/Pasted image 20240829231113.png",
     "03.Unity/Study/디자인패턴/MVVM.canvas",
-    "03.Unity/Study/Git/Github Tip Address.md",
-    "03.Unity/Study/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md",
-    "03.Unity/Project/3D 팀 - 태그게임(미니합반).md",
-    "03.Unity/Study/기초공부/Time.deltaTime.md",
     "03.Unity/Study/기초공부",
-    "03.Unity/Study/개인공부/오버라이드.md",
-    "03.Unity/Study/개인공부/무제 파일.md",
     "03.Unity/Study/개인공부",
     "03.Unity/Study/디자인패턴",
     "03.Unity/Study/디자인패턴/MVVM.md",
-    "03.Unity/Study/자료구조/List, ArrayList, LinkedList.md",
     "01.Inbox/Files/Pasted image 20240829173216.png",
-    "01.Inbox/00.Guide/Guide 문서.md",
     "03.Unity/Study/Git",
-    "03.Unity/Study/자주 사용하는 파일 모음/상태머신.md",
     "01.Inbox/Files/statemachine.zip",
     "01.Inbox/Files/바탕 화면.zip",
     "01.Inbox/Files/PlayerMoveState.cs",
     "01.Inbox/Files/PlayerStateMachine.cs",
     "01.Inbox/Files/PlayerIdleState.cs",
     "01.Inbox/Files/PlayerState.cs",
-    "03.Unity/Study/개인공부/상속.md",
-    "03.Unity/Study/디자인패턴/Observer pattern.md",
-    "03.Unity/Study/디자인패턴/Factory pattern - TODO.md",
-    "03.Unity/Study/디자인패턴/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
-    "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
-    "03.Unity/Study/자주 사용하는 파일 모음/Singleton.md",
-    "03.Unity/Study/자주 사용하는 파일 모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md",
-    "01.Inbox/Files/Pasted image 20240821225736.png",
-    "01.Inbox/Files/Pasted image 20240821225545.png",
-    "03.Unity/Study/개인공부/인터페이스.md",
-    "03.Unity/Study/개인공부/렌더링 파이프라인.md",
-    "03.Unity/Study/개인공부/데이터드리븐.md",
-    "01.Inbox/Files/녹화_2024_08_20_01_02_20_662.gif",
-    "01.Inbox/MOC/자료구조 - MOC.md",
-    "01.Inbox/MOC/규칙 - MOC.md",
-    "01.Inbox/MOC/기초 - MOC.md",
-    "01.Inbox/Files/Pasted image 20240819013529.png",
     "03.Unity/자료구조/무제 파일.canvas",
     "무제 파일.canvas",
     "Untitled.canvas",

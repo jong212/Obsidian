@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "코루틴과 유니테스크의 차이 (기술면접)",
+      "path": "03.Unity/Study/개인공부/코루틴과 유니테스크의 차이 (기술면접).md"
+    },
+    {
+      "basename": "Guide 문서",
+      "path": "01.Inbox/00.Guide/Guide 문서.md"
+    },
+    {
+      "basename": "렌더링 파이프라인",
+      "path": "03.Unity/Study/개인공부/렌더링 파이프라인.md"
+    },
+    {
+      "basename": "오버라이드",
+      "path": "03.Unity/Study/개인공부/오버라이드.md"
+    },
+    {
+      "basename": "무제 파일 1",
+      "path": "03.Unity/Study/개인공부/무제 파일 1.md"
+    },
+    {
+      "basename": "인터페이스",
+      "path": "03.Unity/Study/개인공부/인터페이스.md"
+    },
+    {
+      "basename": "데이터드리븐",
+      "path": "03.Unity/Study/개인공부/데이터드리븐.md"
+    },
+    {
+      "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
+      "path": "03.Unity/Study/개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
+    },
+    {
+      "basename": "상태머신",
+      "path": "03.Unity/Study/다양한예제/상태머신.md"
+    },
+    {
+      "basename": "Github Tip Address",
+      "path": "03.Unity/Study/Git/Github Tip Address.md"
+    },
+    {
+      "basename": "이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법",
+      "path": "03.Unity/Study/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md"
+    },
+    {
+      "basename": "Time.deltaTime",
+      "path": "03.Unity/Study/개인공부/Time.deltaTime.md"
+    },
+    {
+      "basename": "코드규칙",
+      "path": "03.Unity/Study/규칙/코드규칙.md"
+    },
+    {
+      "basename": "Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능",
+      "path": "03.Unity/Study/다양한예제/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "03.Unity/Study/다양한예제/Singleton.md"
+    },
+    {
+      "basename": "상속",
+      "path": "03.Unity/Study/개인공부/상속.md"
+    },
+    {
+      "basename": "3D 팀 - 태그게임(미니합반)",
+      "path": "03.Unity/Project/3D 팀 - 태그게임(미니합반).md"
+    },
+    {
+      "basename": "2D 개인 - MixMaster 모작",
+      "path": "03.Unity/Project/2D 개인 - MixMaster 모작.md"
+    },
+    {
+      "basename": "2D 개인 - CatchMind (서버,모작)",
+      "path": "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md"
+    },
+    {
+      "basename": "3D 팀 - 쿠키런 모험의탑 모작",
+      "path": "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md"
+    },
+    {
+      "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
+      "path": "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
+    },
+    {
       "basename": "Home",
       "path": "01.Inbox/Home.md"
     },
@@ -11,10 +95,6 @@
     {
       "basename": "2024-07-23(Tue)",
       "path": "02.DailyNote/2024-07-23(Tue).md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "03.Unity/무제 파일.canvas"
     },
     {
       "basename": "Pasted image 20240829232622",
@@ -29,40 +109,8 @@
       "path": "03.Unity/Study/디자인패턴/MVVM.canvas"
     },
     {
-      "basename": "Github Tip Address",
-      "path": "03.Unity/Study/Git/Github Tip Address.md"
-    },
-    {
-      "basename": "이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법",
-      "path": "03.Unity/Study/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md"
-    },
-    {
-      "basename": "3D 팀 - 태그게임(미니합반)",
-      "path": "03.Unity/Project/3D 팀 - 태그게임(미니합반).md"
-    },
-    {
-      "basename": "Time.deltaTime",
-      "path": "03.Unity/Study/기초공부/Time.deltaTime.md"
-    },
-    {
-      "basename": "오버라이드",
-      "path": "03.Unity/Study/개인공부/오버라이드.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "03.Unity/Study/개인공부/무제 파일.md"
-    },
-    {
       "basename": "MVVM",
       "path": "03.Unity/Study/디자인패턴/MVVM.md"
-    },
-    {
-      "basename": "상태머신",
-      "path": "03.Unity/Study/자주 사용하는 파일 모음/상태머신.md"
-    },
-    {
-      "basename": "상속",
-      "path": "03.Unity/Study/개인공부/상속.md"
     },
     {
       "basename": "Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr",
@@ -81,40 +129,12 @@
       "path": "03.Unity/Study/디자인패턴/디자인 패턴의 기초 SOLID 원칙 이해하기.md"
     },
     {
-      "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
-      "path": "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
-    },
-    {
-      "basename": "Singleton",
-      "path": "03.Unity/Study/자주 사용하는 파일 모음/Singleton.md"
-    },
-    {
-      "basename": "Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능",
-      "path": "03.Unity/Study/자주 사용하는 파일 모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md"
-    },
-    {
-      "basename": "인터페이스",
-      "path": "03.Unity/Study/개인공부/인터페이스.md"
-    },
-    {
-      "basename": "렌더링 파이프라인",
-      "path": "03.Unity/Study/개인공부/렌더링 파이프라인.md"
-    },
-    {
-      "basename": "데이터드리븐",
-      "path": "03.Unity/Study/개인공부/데이터드리븐.md"
-    },
-    {
       "basename": "자료구조 - MOC",
       "path": "01.Inbox/MOC/자료구조 - MOC.md"
     },
     {
       "basename": "규칙 - MOC",
       "path": "01.Inbox/MOC/규칙 - MOC.md"
-    },
-    {
-      "basename": "기초 - MOC",
-      "path": "01.Inbox/MOC/기초 - MOC.md"
     },
     {
       "basename": "자료구조란",
@@ -131,26 +151,6 @@
     {
       "basename": "Unity Project",
       "path": "01.Inbox/Template/Unity Project.md"
-    },
-    {
-      "basename": "코드규칙",
-      "path": "03.Unity/Study/규칙/코드규칙.md"
-    },
-    {
-      "basename": "2D 개인 - CatchMind (서버,모작)",
-      "path": "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md"
-    },
-    {
-      "basename": "3D 팀 - 쿠키런 모험의탑 모작",
-      "path": "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md"
-    },
-    {
-      "basename": "2D 개인 - MixMaster 모작",
-      "path": "03.Unity/Project/2D 개인 - MixMaster 모작.md"
-    },
-    {
-      "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
-      "path": "03.Unity/Study/개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
     },
     {
       "basename": "MVC (모델 뷰 컨트롤러)",

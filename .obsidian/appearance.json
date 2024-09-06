@@ -1,9 +1,11 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Mado 11",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "flex-tables",
     "hide-spellcheck-underline",
     "dashboard"
-  ]
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": "Segoe UI"
 }
