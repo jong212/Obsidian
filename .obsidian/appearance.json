@@ -6,5 +6,7 @@
   ],
   "interfaceFontFamily": "",
   "textFontFamily": "Segoe UI",
-  "accentColor": "#2c2020"
+  "accentColor": "#2c2020",
+  "baseFontSizeAction": false,
+  "baseFontSize": 19
 }
