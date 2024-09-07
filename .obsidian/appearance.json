@@ -1,11 +1,10 @@
 {
-  "cssTheme": "Mado 11",
+  "cssTheme": "PLN",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "flex-tables",
-    "hide-spellcheck-underline",
-    "dashboard"
+    "flex-tables"
   ],
   "interfaceFontFamily": "",
-  "textFontFamily": "Segoe UI"
+  "textFontFamily": "Segoe UI",
+  "accentColor": "#2c2020"
 }

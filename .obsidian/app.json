@@ -13,5 +13,6 @@
     "downscalePercent": 100
   },
   "defaultViewMode": "preview",
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": true
 }

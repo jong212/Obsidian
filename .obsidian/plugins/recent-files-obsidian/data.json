@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "List",
+      "path": "03.Unity/Study/취업질문/List.md"
+    },
+    {
+      "basename": "코드규칙",
+      "path": "03.Unity/Study/규칙/코드규칙.md"
+    },
+    {
+      "basename": "다형성",
+      "path": "03.Unity/Study/개인공부/다형성.md"
+    },
+    {
+      "basename": "인터페이스와 추상클래스의 차이 (기술면접)",
+      "path": "03.Unity/Study/개인공부/인터페이스와 추상클래스의 차이 (기술면접).md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
+      "basename": "인터페이스",
+      "path": "03.Unity/Study/개인공부/인터페이스.md"
+    },
+    {
       "basename": "코루틴과 유니테스크의 차이 (기술면접)",
       "path": "03.Unity/Study/개인공부/코루틴과 유니테스크의 차이 (기술면접).md"
+    },
+    {
+      "basename": "오버라이드",
+      "path": "03.Unity/Study/개인공부/오버라이드.md"
     },
     {
       "basename": "Guide 문서",
@@ -11,18 +39,6 @@
     {
       "basename": "렌더링 파이프라인",
       "path": "03.Unity/Study/개인공부/렌더링 파이프라인.md"
-    },
-    {
-      "basename": "오버라이드",
-      "path": "03.Unity/Study/개인공부/오버라이드.md"
-    },
-    {
-      "basename": "무제 파일 1",
-      "path": "03.Unity/Study/개인공부/무제 파일 1.md"
-    },
-    {
-      "basename": "인터페이스",
-      "path": "03.Unity/Study/개인공부/인터페이스.md"
     },
     {
       "basename": "데이터드리븐",
@@ -49,20 +65,12 @@
       "path": "03.Unity/Study/개인공부/Time.deltaTime.md"
     },
     {
-      "basename": "코드규칙",
-      "path": "03.Unity/Study/규칙/코드규칙.md"
-    },
-    {
       "basename": "Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능",
       "path": "03.Unity/Study/다양한예제/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md"
     },
     {
       "basename": "Singleton",
       "path": "03.Unity/Study/다양한예제/Singleton.md"
-    },
-    {
-      "basename": "상속",
-      "path": "03.Unity/Study/개인공부/상속.md"
     },
     {
       "basename": "3D 팀 - 태그게임(미니합반)",
@@ -83,10 +91,6 @@
     {
       "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
       "path": "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "2024-09-05(목)",
@@ -191,14 +195,6 @@
     {
       "basename": "UI - MOC",
       "path": "01.Inbox/MOC/UI - MOC.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "01.Inbox/Template/Daily Note.md"
-    },
-    {
-      "basename": "MVP",
-      "path": "03.Unity/Study/디자인패턴/MVP.md"
     }
   ],
   "omittedPaths": []
