@@ -1,12 +1,12 @@
 {
-  "cssTheme": "PLN",
-  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "flex-tables"
   ],
   "interfaceFontFamily": "",
-  "textFontFamily": "Segoe UI",
-  "accentColor": "#2c2020",
+  "textFontFamily": "Inter",
+  "accentColor": "#102d2e",
   "baseFontSizeAction": false,
   "baseFontSize": 19
 }
