@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LIST",
+      "path": "03.Unity/Study/기술 면접 공부/LIST.md"
+    },
+    {
+      "basename": "해시테이블 딕셔너리 차이",
+      "path": "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md"
+    },
+    {
       "basename": "Time.deltaTime",
       "path": "03.Unity/Study/개인공부/Time.deltaTime.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "명언",
       "path": "01.Inbox/01.Memo/명언.md"
-    },
-    {
-      "basename": "LIST",
-      "path": "03.Unity/Study/기술 면접 공부/LIST.md"
     },
     {
       "basename": "Awake Start 차이",
@@ -195,10 +199,6 @@
     {
       "basename": "규칙 - MOC",
       "path": "01.Inbox/MOC/규칙 - MOC.md"
-    },
-    {
-      "basename": "자료구조란",
-      "path": "03.Unity/Study/자료구조/자료구조란.md"
     }
   ],
   "omittedPaths": []
