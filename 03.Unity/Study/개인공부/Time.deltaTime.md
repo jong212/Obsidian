@@ -5,7 +5,7 @@
 | RefFile      |                                                        |
 | Memo         | Time.deltaTime이란 **마지막 프레임이 완료된 후 경과한 시간**을 반환합니다.<br> |
 | MOC_Category | [[기초 - MOC]]                                           |
-
+d
 ## 이해하기 까지 GPT에게 물어봤더 과정
 
 > [!NOTE]- Time.deltaTime개념이 뭔지 GPT한테 물어봄
