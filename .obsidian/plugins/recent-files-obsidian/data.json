@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "MVVM",
+      "path": "03.Unity/Study/디자인패턴/MVVM.md"
+    },
+    {
+      "basename": "MVVM",
+      "path": "03.Unity/Study/디자인패턴/MVVM.canvas"
+    },
+    {
+      "basename": "객체지향",
+      "path": "03.Unity/Study/기술 면접 공부/객체지향.md"
+    },
+    {
       "basename": "LIST",
       "path": "03.Unity/Study/기술 면접 공부/LIST.md"
     },
     {
+      "basename": "List",
+      "path": "03.Unity/Study/취업질문/List.md"
+    },
+    {
       "basename": "해시테이블 딕셔너리 차이",
       "path": "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "Time.deltaTime",
@@ -39,10 +59,6 @@
     {
       "basename": "다른 개발자와 비교했을 때 장점",
       "path": "03.Unity/Study/기술 면접 공부/다른 개발자와 비교했을 때 장점.md"
-    },
-    {
-      "basename": "객체지향 4가지 특징",
-      "path": "03.Unity/Study/기술 면접 공부/객체지향 4가지 특징.md"
     },
     {
       "basename": "사용한 디자인 패턴 뭐 있는지",
@@ -85,10 +101,6 @@
       "path": "01.Inbox/MOC/자료구조 - MOC.md"
     },
     {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
-    },
-    {
       "basename": "코루틴과 유니테스크의 차이",
       "path": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md"
     },
@@ -103,10 +115,6 @@
     {
       "basename": "파인만 학습법",
       "path": "01.Inbox/01.Memo/파인만 학습법.md"
-    },
-    {
-      "basename": "List",
-      "path": "03.Unity/Study/취업질문/List.md"
     },
     {
       "basename": "Guide 문서",
@@ -173,14 +181,6 @@
       "path": "01.Inbox/Files/Pasted image 20240829232508.png"
     },
     {
-      "basename": "MVVM",
-      "path": "03.Unity/Study/디자인패턴/MVVM.canvas"
-    },
-    {
-      "basename": "MVVM",
-      "path": "03.Unity/Study/디자인패턴/MVVM.md"
-    },
-    {
       "basename": "Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr",
       "path": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "디자인 패턴의 기초 SOLID 원칙 이해하기",
       "path": "03.Unity/Study/디자인패턴/디자인 패턴의 기초 SOLID 원칙 이해하기.md"
-    },
-    {
-      "basename": "규칙 - MOC",
-      "path": "01.Inbox/MOC/규칙 - MOC.md"
     }
   ],
   "omittedPaths": []
