@@ -14,5 +14,6 @@
   "minimal-style@@link-external-color@@dark": "#B8ACAC",
   "minimal-style@@link-color@@dark": "#B8ACAC",
   "minimal-style@@link-color-hover@@dark": "#BAE0DF",
-  "minimal-style@@link-external-color-hover@@dark": "#BAE0DF"
+  "minimal-style@@link-external-color-hover@@dark": "#BAE0DF",
+  "minimal-style@@ax3@@dark": "#548CC2"
 }
