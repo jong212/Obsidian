@@ -1,72 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "해시테이블 딕셔너리 차이",
-      "path": "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md"
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
+      "basename": "Link",
+      "path": "03.Unity/Study/이것저것LinkMemo/Link.md"
+    },
+    {
+      "basename": "Github Tip Address",
+      "path": "03.Unity/Study/Git/Github Tip Address.md"
+    },
+    {
+      "basename": "이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법",
+      "path": "03.Unity/Study/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md"
+    },
+    {
+      "basename": "코드규칙",
+      "path": "03.Unity/Study/규칙/코드규칙.md"
+    },
+    {
+      "basename": "상태머신",
+      "path": "03.Unity/Study/다양한예제/상태머신.md"
     },
     {
       "basename": "3D 개인 - MixMaster 네트워크 프로젝트",
       "path": "03.Unity/Project/3D 개인 - MixMaster 네트워크 프로젝트.md"
     },
     {
-      "basename": "사용한 디자인 패턴 뭐 있는지",
-      "path": "03.Unity/Study/기술 면접 공부/사용한 디자인 패턴 뭐 있는지.md"
+      "basename": "Astar",
+      "path": "03.Unity/Study/알고리즘/Astar.md"
     },
     {
-      "basename": "다형성",
-      "path": "03.Unity/Study/기술 면접 공부/다형성.md"
+      "basename": "해시테이블 딕셔너리 차이",
+      "path": "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md"
     },
     {
-      "basename": "Awake Start 차이",
-      "path": "03.Unity/Study/기술 면접 공부/Awake Start 차이.md"
-    },
-    {
-      "basename": "SQL VS NOSQL",
-      "path": "03.Unity/Study/기술 면접 공부/SQL VS NOSQL.md"
-    },
-    {
-      "basename": "LIST",
-      "path": "03.Unity/Study/기술 면접 공부/LIST.md"
-    },
-    {
-      "basename": "면접 질문 총괄 PDF",
-      "path": "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md"
-    },
-    {
-      "basename": "클래스와 구조체 차이",
-      "path": "03.Unity/Study/기술 면접 공부/클래스와 구조체 차이.md"
-    },
-    {
-      "basename": "클래스 구조체 차이",
-      "path": "03.Unity/Study/기술 면접 공부/클래스 구조체 차이.md"
-    },
-    {
-      "basename": "오버로딩과 오버라이딩 차이",
-      "path": "03.Unity/Study/기술 면접 공부/오버로딩과 오버라이딩 차이.md"
-    },
-    {
-      "basename": "전역변수 지역변수 차이",
-      "path": "03.Unity/Study/기술 면접 공부/전역변수 지역변수 차이.md"
-    },
-    {
-      "basename": "인터페이스와 추상클래스의 차이",
-      "path": "03.Unity/Study/기술 면접 공부/인터페이스와 추상클래스의 차이.md"
-    },
-    {
-      "basename": "다른 개발자와 비교했을 때 장점",
-      "path": "03.Unity/Study/기술 면접 공부/다른 개발자와 비교했을 때 장점.md"
-    },
-    {
-      "basename": "코루틴과 유니테스크의 차이",
-      "path": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md"
-    },
-    {
-      "basename": "메모리 구조 - 스택과 힙 파헤치기",
-      "path": "03.Unity/Study/기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
+      "basename": "앵퍼 피봇 기본 개념 TO DO",
+      "path": "03.Unity/Study/개인공부/앵퍼 피봇 기본 개념 TO DO.md"
     },
     {
       "basename": "Behavior Tree - TODO",
@@ -89,8 +61,16 @@
       "path": "03.Unity/Study/디자인패턴/MVVM.md"
     },
     {
+      "basename": "LIST",
+      "path": "03.Unity/Study/기술 면접 공부/LIST.md"
+    },
+    {
       "basename": "Time.deltaTime",
       "path": "03.Unity/Study/개인공부/Time.deltaTime.md"
+    },
+    {
+      "basename": "면접 질문 총괄 PDF",
+      "path": "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md"
     },
     {
       "basename": "데이터드리븐",
@@ -105,6 +85,34 @@
       "path": "01.Inbox/01.Memo/명언.md"
     },
     {
+      "basename": "Awake Start 차이",
+      "path": "03.Unity/Study/기술 면접 공부/Awake Start 차이.md"
+    },
+    {
+      "basename": "SQL VS NOSQL",
+      "path": "03.Unity/Study/기술 면접 공부/SQL VS NOSQL.md"
+    },
+    {
+      "basename": "다른 개발자와 비교했을 때 장점",
+      "path": "03.Unity/Study/기술 면접 공부/다른 개발자와 비교했을 때 장점.md"
+    },
+    {
+      "basename": "사용한 디자인 패턴 뭐 있는지",
+      "path": "03.Unity/Study/기술 면접 공부/사용한 디자인 패턴 뭐 있는지.md"
+    },
+    {
+      "basename": "클래스 구조체 차이",
+      "path": "03.Unity/Study/기술 면접 공부/클래스 구조체 차이.md"
+    },
+    {
+      "basename": "전역변수 지역변수 차이",
+      "path": "03.Unity/Study/기술 면접 공부/전역변수 지역변수 차이.md"
+    },
+    {
+      "basename": "메모리 구조 - 스택과 힙 파헤치기",
+      "path": "03.Unity/Study/기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md"
+    },
+    {
       "basename": "오버라이드",
       "path": "03.Unity/Study/개인공부/오버라이드.md"
     },
@@ -113,12 +121,28 @@
       "path": "03.Unity/Study/개인공부/인터페이스.md"
     },
     {
-      "basename": "코드규칙",
-      "path": "03.Unity/Study/규칙/코드규칙.md"
+      "basename": "다형성",
+      "path": "03.Unity/Study/기술 면접 공부/다형성.md"
+    },
+    {
+      "basename": "오버로딩과 오버라이딩 차이",
+      "path": "03.Unity/Study/기술 면접 공부/오버로딩과 오버라이딩 차이.md"
     },
     {
       "basename": "자료구조 - MOC",
       "path": "01.Inbox/MOC/자료구조 - MOC.md"
+    },
+    {
+      "basename": "코루틴과 유니테스크의 차이",
+      "path": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md"
+    },
+    {
+      "basename": "인터페이스와 추상클래스의 차이",
+      "path": "03.Unity/Study/기술 면접 공부/인터페이스와 추상클래스의 차이.md"
+    },
+    {
+      "basename": "클래스와 구조체 차이",
+      "path": "03.Unity/Study/기술 면접 공부/클래스와 구조체 차이.md"
     },
     {
       "basename": "파인만 학습법",
@@ -135,18 +159,6 @@
     {
       "basename": "렌더링 파이프라인",
       "path": "03.Unity/Study/개인공부/렌더링 파이프라인.md"
-    },
-    {
-      "basename": "상태머신",
-      "path": "03.Unity/Study/다양한예제/상태머신.md"
-    },
-    {
-      "basename": "Github Tip Address",
-      "path": "03.Unity/Study/Git/Github Tip Address.md"
-    },
-    {
-      "basename": "이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법",
-      "path": "03.Unity/Study/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md"
     },
     {
       "basename": "Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능",
@@ -183,22 +195,6 @@
     {
       "basename": "2024-07-23(Tue)",
       "path": "02.DailyNote/2024-07-23(Tue).md"
-    },
-    {
-      "basename": "Pasted image 20240829232622",
-      "path": "01.Inbox/Files/Pasted image 20240829232622.png"
-    },
-    {
-      "basename": "Pasted image 20240829232508",
-      "path": "01.Inbox/Files/Pasted image 20240829232508.png"
-    },
-    {
-      "basename": "Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr",
-      "path": "01.Inbox/Files/Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf"
-    },
-    {
-      "basename": "Observer pattern",
-      "path": "03.Unity/Study/디자인패턴/Observer pattern.md"
     }
   ],
   "omittedPaths": []
