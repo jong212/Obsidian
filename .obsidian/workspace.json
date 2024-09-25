@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "33984b15ec92351a",
+        "id": "5a04d670acf69fa9",
         "type": "tabs",
         "children": [
           {
-            "id": "83e74ff3d56646c8",
+            "id": "fd1e48a621008c56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Inbox/Home.md",
-                "mode": "preview",
+                "file": "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Inbox/Home.md",
+                "file": "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Inbox/Home.md",
+                "file": "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Inbox/Home.md",
+                "file": "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Inbox/Home.md"
+                "file": "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md"
               }
             }
           },
@@ -258,9 +258,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83e74ff3d56646c8",
+  "active": "fd1e48a621008c56",
   "lastOpenFiles": [
+    "03.Unity/Study/기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
+    "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md",
     "03.Unity/Study/이것저것LinkMemo/Link.md",
+    "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md",
+    "03.Unity/Study/취업질문/List.md",
+    "03.Unity/Study/코드구조분석/플레이어가 집기를 누를 때 상호작용이 가능한지 여부를 순회하는 과정.md",
+    "01.Inbox/Home.md",
+    "01.Inbox/Files/Pasted image 20240925031617.png",
+    "01.Inbox/Files/Pasted image 20240925031502.png",
+    "01.Inbox/Files/Pasted image 20240925030703.png",
+    "01.Inbox/Files/Pasted image 20240925024626.png",
+    "01.Inbox/Files/Pasted image 20240925022404.png",
+    "01.Inbox/Files/Pasted image 20240925021906.png",
+    "01.Inbox/Files/Pasted image 20240925021808.png",
+    "01.Inbox/Files/Pasted image 20240925020716.png",
+    "01.Inbox/Files/Pasted image 20240925020625.png",
+    "01.Inbox/Files/Pasted image 20240925012102.png",
+    "03.Unity/Study/코드구조분석",
     "03.Unity/Study/개인공부/스크립터블 오브젝트.md",
     "03.Unity/Study/Git/Github Tip Address.md",
     "03.Unity/Study/이것저것LinkMemo",
@@ -269,45 +286,28 @@
     "03.Unity/Study/다양한예제/상태머신.md",
     "03.Unity/Project/3D 개인 - MixMaster 네트워크 프로젝트.md",
     "03.Unity/Study/알고리즘/Astar.md",
-    "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md",
     "03.Unity/Study/개인공부/앵퍼 피봇 기본 개념 TO DO.md",
     "03.Unity/Study/알고리즘",
-    "01.Inbox/Files/Pasted image 20240920161036.png",
-    "01.Inbox/Files/Pasted image 20240920155856.png",
     "03.Unity/Study/자료구조/HashSet.md",
     "03.Unity/Study/개인공부/UI  - 피봇 앵커 개념정리.md",
-    "01.Inbox/Home.md",
     "03.Unity/Study/디자인패턴/Behavior Tree - TODO.md",
     "03.Unity/Study/디자인패턴/MVC (모델 뷰 컨트롤러).md",
     "03.Unity/Study/디자인패턴/MVC/MVC (유튜브 공부).md",
     "03.Unity/Study/개인공부/UI ToolKit (TODO).md",
-    "01.Inbox/Files/Pasted image 20240916203022.png",
     "03.Unity/Study/디자인패턴/MVVM.canvas",
     "03.Unity/Study/디자인패턴/MVVM.md",
     "03.Unity/Study/디자인패턴/MVC",
     "03.Unity/Study/기술 면접 공부/객체지향.md",
     "03.Unity/Study/기술 면접 공부/LIST.md",
     "03.Unity/Study/개인공부/Time.deltaTime.md",
-    "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md",
     "01.Inbox/Files/면접 질문 총괄 (1).pdf",
     "03.Unity/Study/개인공부/데이터드리븐.md",
-    "03.Unity/Study/개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
-    "01.Inbox/01.Memo/명언.md",
-    "03.Unity/Study/기술 면접 공부/Awake Start 차이.md",
     "03.Unity/Study/기술 면접 공부",
-    "01.Inbox/Files/Pasted image 20240909000233.png",
-    "01.Inbox/Files/Pasted image 20240909000026.png",
-    "01.Inbox/Files/Pasted image 20240908235928.png",
-    "01.Inbox/Files/Pasted image 20240908234709.png",
-    "01.Inbox/Files/Pasted image 20240908233013.png",
-    "01.Inbox/Files/Pasted image 20240908233005.png",
-    "01.Inbox/Files/Pasted image 20240908232807.png",
     "01.Inbox/Files/녹화_2024_09_08_19_42_12_654.mp4",
     "01.Inbox/01.Memo",
     "03.Unity/Study/취업질문",
     "03.Unity/무제 파일.canvas",
     "03.Unity/Study/기초공부",
-    "03.Unity/Study/개인공부",
     "03.Unity/자료구조/무제 파일.canvas",
     "무제 파일.canvas",
     "Untitled.canvas",
