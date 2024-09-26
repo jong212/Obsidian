@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cedd50ada950fec9",
+        "id": "5bfde5a7e6795628",
         "type": "tabs",
         "children": [
           {
-            "id": "cd35abb4806fb600",
+            "id": "776e2a8135598d23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md",
-                "mode": "preview",
+                "file": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 352.5
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md",
+                "file": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md",
+                "file": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md",
+                "file": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md"
+                "file": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md"
               }
             }
           },
@@ -240,8 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,34 +258,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cd35abb4806fb600",
+  "active": "776e2a8135598d23",
   "lastOpenFiles": [
-    "03.Unity/Study/기술 면접 공부/클래스 구조체 차이.md",
-    "03.Unity/Study/기술 면접 공부/인터페이스와 추상클래스의 차이.md",
-    "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md",
-    "03.Unity/Study/기술 면접 공부/객체지향.md",
-    "03.Unity/Study/기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
+    "03.Unity/Study/기술 면접 공부/다른 개발자와 비교했을 때 장점.md",
+    "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
+    "01.Inbox/Files/Pasted image 20240927015317.png",
+    "03.Unity/Study/기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md",
+    "03.Unity/Study/기술 면접 공부/전역변수 지역변수 차이.md",
     "03.Unity/Study/기술 면접 공부/클래스와 구조체 차이.md",
-    "03.Unity/Study/개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
-    "03.Unity/Study/개인공부/데이터드리븐.md",
-    "03.Unity/Study/개인공부/렌더링 파이프라인.md",
-    "03.Unity/Study/개인공부/인터페이스.md",
-    "03.Unity/Study/개인공부/오버라이드.md",
-    "03.Unity/Study/개인공부/Time.deltaTime.md",
-    "03.Unity/Study/개인공부/UI ToolKit (TODO).md",
-    "03.Unity/Study/개인공부/앵퍼 피봇 기본 개념 TO DO.md",
-    "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md",
-    "03.Unity/Project/2D 개인 - MixMaster 모작.md",
-    "03.Unity/Project/3D 팀 - 태그게임(미니합반).md",
-    "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
-    "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md",
-    "03.Unity/Project/3D 개인 - MixMaster 네트워크 프로젝트.md",
-    "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md",
+    "03.Unity/Study/기술 면접 공부/객체지향.md",
+    "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md",
     "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md",
-    "01.Inbox/Files/Pasted image 20240926145144.png",
+    "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md",
+    "03.Unity/Study/기술 면접 공부/SQL VS NOSQL.md",
+    "03.Unity/Study/기술 면접 공부/Awake Start 차이.md",
+    "03.Unity/Study/기술 면접 공부/인터페이스와 추상클래스의 차이.md",
+    "03.Unity/Study/기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
     "01.Inbox/Home.md",
+    "01.Inbox/Files/Pasted image 20240926145144.png",
+    "03.Unity/Study/이것저것LinkMemo/Link.md",
+    "03.Unity/Study/취업질문/List.md",
     "03.Unity/Study/코드구조분석/플레이어가 집기를 누를 때 상호작용이 가능한지 여부를 순회하는 과정.md",
-    "03.Unity/Study/코드구조분석",
     "01.Inbox/Files/Pasted image 20240925031617.png",
     "01.Inbox/Files/Pasted image 20240925031502.png",
     "01.Inbox/Files/Pasted image 20240925030703.png",
@@ -295,20 +287,26 @@
     "01.Inbox/Files/Pasted image 20240925021906.png",
     "01.Inbox/Files/Pasted image 20240925021808.png",
     "01.Inbox/Files/Pasted image 20240925020716.png",
-    "01.Inbox/Files/Pasted image 20240925020625.png",
-    "03.Unity/Study/이것저것LinkMemo/Link.md",
+    "03.Unity/Study/코드구조분석",
+    "03.Unity/Study/개인공부/스크립터블 오브젝트.md",
+    "03.Unity/Study/Git/Github Tip Address.md",
     "03.Unity/Study/이것저것LinkMemo",
+    "03.Unity/Study/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md",
+    "03.Unity/Study/규칙/코드규칙.md",
+    "03.Unity/Study/다양한예제/상태머신.md",
+    "03.Unity/Project/3D 개인 - MixMaster 네트워크 프로젝트.md",
     "03.Unity/Study/알고리즘/Astar.md",
+    "03.Unity/Study/개인공부/앵퍼 피봇 기본 개념 TO DO.md",
     "03.Unity/Study/알고리즘",
     "03.Unity/Study/디자인패턴/MVVM.canvas",
-    "03.Unity/Study/취업질문",
-    "03.Unity/Study/무제 폴더",
-    "03.Unity/Study/인프런",
+    "03.Unity/Study/디자인패턴/MVC",
     "01.Inbox/Files/면접 질문 총괄 (1).pdf",
     "03.Unity/Study/기술 면접 공부",
     "01.Inbox/Files/녹화_2024_09_08_19_42_12_654.mp4",
     "01.Inbox/01.Memo",
+    "03.Unity/Study/취업질문",
     "03.Unity/무제 파일.canvas",
+    "03.Unity/Study/기초공부",
     "03.Unity/자료구조/무제 파일.canvas",
     "무제 파일.canvas",
     "Untitled.canvas",

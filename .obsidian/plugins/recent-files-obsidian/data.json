@@ -1,124 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "코루틴과 유니테스크의 차이",
-      "path": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md"
-    },
-    {
-      "basename": "클래스 구조체 차이",
-      "path": "03.Unity/Study/기술 면접 공부/클래스 구조체 차이.md"
-    },
-    {
-      "basename": "인터페이스와 추상클래스의 차이",
-      "path": "03.Unity/Study/기술 면접 공부/인터페이스와 추상클래스의 차이.md"
-    },
-    {
-      "basename": "객체지향",
-      "path": "03.Unity/Study/기술 면접 공부/객체지향.md"
-    },
-    {
-      "basename": "정적 바인딩 vs 동적바인딩",
-      "path": "03.Unity/Study/기술 면접 공부/정적 바인딩 vs 동적바인딩.md"
-    },
-    {
-      "basename": "클래스와 구조체 차이",
-      "path": "03.Unity/Study/기술 면접 공부/클래스와 구조체 차이.md"
-    },
-    {
-      "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
-      "path": "03.Unity/Study/개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
-    },
-    {
-      "basename": "데이터드리븐",
-      "path": "03.Unity/Study/개인공부/데이터드리븐.md"
-    },
-    {
-      "basename": "렌더링 파이프라인",
-      "path": "03.Unity/Study/개인공부/렌더링 파이프라인.md"
-    },
-    {
-      "basename": "인터페이스",
-      "path": "03.Unity/Study/개인공부/인터페이스.md"
-    },
-    {
-      "basename": "오버라이드",
-      "path": "03.Unity/Study/개인공부/오버라이드.md"
-    },
-    {
-      "basename": "Time.deltaTime",
-      "path": "03.Unity/Study/개인공부/Time.deltaTime.md"
-    },
-    {
-      "basename": "UI ToolKit (TODO)",
-      "path": "03.Unity/Study/개인공부/UI ToolKit (TODO).md"
-    },
-    {
-      "basename": "앵퍼 피봇 기본 개념 TO DO",
-      "path": "03.Unity/Study/개인공부/앵퍼 피봇 기본 개념 TO DO.md"
-    },
-    {
-      "basename": "2D 개인 - CatchMind (서버,모작)",
-      "path": "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md"
-    },
-    {
-      "basename": "2D 개인 - MixMaster 모작",
-      "path": "03.Unity/Project/2D 개인 - MixMaster 모작.md"
-    },
-    {
-      "basename": "3D 팀 - 태그게임(미니합반)",
-      "path": "03.Unity/Project/3D 팀 - 태그게임(미니합반).md"
-    },
-    {
-      "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
-      "path": "03.Unity/Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
-    },
-    {
-      "basename": "3D 팀 - 쿠키런 모험의탑 모작",
-      "path": "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md"
-    },
-    {
-      "basename": "3D 개인 - MixMaster 네트워크 프로젝트",
-      "path": "03.Unity/Project/3D 개인 - MixMaster 네트워크 프로젝트.md"
-    },
-    {
-      "basename": "면접 질문 총괄 PDF",
-      "path": "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md"
-    },
-    {
-      "basename": "해시테이블 딕셔너리 차이",
-      "path": "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
-    },
-    {
-      "basename": "사용한 디자인 패턴 뭐 있는지",
-      "path": "03.Unity/Study/기술 면접 공부/사용한 디자인 패턴 뭐 있는지.md"
-    },
-    {
-      "basename": "다형성",
-      "path": "03.Unity/Study/기술 면접 공부/다형성.md"
-    },
-    {
-      "basename": "Awake Start 차이",
-      "path": "03.Unity/Study/기술 면접 공부/Awake Start 차이.md"
-    },
-    {
-      "basename": "SQL VS NOSQL",
-      "path": "03.Unity/Study/기술 면접 공부/SQL VS NOSQL.md"
-    },
-    {
-      "basename": "LIST",
-      "path": "03.Unity/Study/기술 면접 공부/LIST.md"
-    },
-    {
-      "basename": "오버로딩과 오버라이딩 차이",
-      "path": "03.Unity/Study/기술 면접 공부/오버로딩과 오버라이딩 차이.md"
-    },
-    {
-      "basename": "전역변수 지역변수 차이",
-      "path": "03.Unity/Study/기술 면접 공부/전역변수 지역변수 차이.md"
+      "basename": "슈퍼센트 분석",
+      "path": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md"
     },
     {
       "basename": "다른 개발자와 비교했을 때 장점",
@@ -129,48 +13,60 @@
       "path": "03.Unity/Study/기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md"
     },
     {
-      "basename": "Behavior Tree - TODO",
-      "path": "03.Unity/Study/디자인패턴/Behavior Tree - TODO.md"
+      "basename": "전역변수 지역변수 차이",
+      "path": "03.Unity/Study/기술 면접 공부/전역변수 지역변수 차이.md"
     },
     {
-      "basename": "MVC (모델 뷰 컨트롤러)",
-      "path": "03.Unity/Study/디자인패턴/MVC (모델 뷰 컨트롤러).md"
+      "basename": "클래스와 구조체 차이",
+      "path": "03.Unity/Study/기술 면접 공부/클래스와 구조체 차이.md"
     },
     {
-      "basename": "MVVM",
-      "path": "03.Unity/Study/디자인패턴/MVVM.canvas"
+      "basename": "객체지향",
+      "path": "03.Unity/Study/기술 면접 공부/객체지향.md"
     },
     {
-      "basename": "MVVM",
-      "path": "03.Unity/Study/디자인패턴/MVVM.md"
+      "basename": "코루틴과 유니테스크의 차이",
+      "path": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md"
     },
     {
-      "basename": "명언",
-      "path": "01.Inbox/01.Memo/명언.md"
+      "basename": "해시테이블 딕셔너리 차이",
+      "path": "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md"
     },
     {
-      "basename": "코드규칙",
-      "path": "03.Unity/Study/규칙/코드규칙.md"
+      "basename": "면접 질문 총괄 PDF",
+      "path": "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md"
     },
     {
-      "basename": "자료구조 - MOC",
-      "path": "01.Inbox/MOC/자료구조 - MOC.md"
+      "basename": "SQL VS NOSQL",
+      "path": "03.Unity/Study/기술 면접 공부/SQL VS NOSQL.md"
     },
     {
-      "basename": "파인만 학습법",
-      "path": "01.Inbox/01.Memo/파인만 학습법.md"
+      "basename": "Awake Start 차이",
+      "path": "03.Unity/Study/기술 면접 공부/Awake Start 차이.md"
+    },
+    {
+      "basename": "인터페이스와 추상클래스의 차이",
+      "path": "03.Unity/Study/기술 면접 공부/인터페이스와 추상클래스의 차이.md"
+    },
+    {
+      "basename": "정적 바인딩 vs 동적바인딩",
+      "path": "03.Unity/Study/기술 면접 공부/정적 바인딩 vs 동적바인딩.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
+      "basename": "Link",
+      "path": "03.Unity/Study/이것저것LinkMemo/Link.md"
     },
     {
       "basename": "List",
       "path": "03.Unity/Study/취업질문/List.md"
     },
     {
-      "basename": "Guide 문서",
-      "path": "01.Inbox/00.Guide/Guide 문서.md"
-    },
-    {
-      "basename": "상태머신",
-      "path": "03.Unity/Study/다양한예제/상태머신.md"
+      "basename": "플레이어가 집기를 누를 때 상호작용이 가능한지 여부를 순회하는 과정",
+      "path": "03.Unity/Study/코드구조분석/플레이어가 집기를 누를 때 상호작용이 가능한지 여부를 순회하는 과정.md"
     },
     {
       "basename": "Github Tip Address",
@@ -181,6 +77,106 @@
       "path": "03.Unity/Study/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md"
     },
     {
+      "basename": "코드규칙",
+      "path": "03.Unity/Study/규칙/코드규칙.md"
+    },
+    {
+      "basename": "상태머신",
+      "path": "03.Unity/Study/다양한예제/상태머신.md"
+    },
+    {
+      "basename": "3D 개인 - MixMaster 네트워크 프로젝트",
+      "path": "03.Unity/Project/3D 개인 - MixMaster 네트워크 프로젝트.md"
+    },
+    {
+      "basename": "Astar",
+      "path": "03.Unity/Study/알고리즘/Astar.md"
+    },
+    {
+      "basename": "앵퍼 피봇 기본 개념 TO DO",
+      "path": "03.Unity/Study/개인공부/앵퍼 피봇 기본 개념 TO DO.md"
+    },
+    {
+      "basename": "Behavior Tree - TODO",
+      "path": "03.Unity/Study/디자인패턴/Behavior Tree - TODO.md"
+    },
+    {
+      "basename": "MVC (모델 뷰 컨트롤러)",
+      "path": "03.Unity/Study/디자인패턴/MVC (모델 뷰 컨트롤러).md"
+    },
+    {
+      "basename": "UI ToolKit (TODO)",
+      "path": "03.Unity/Study/개인공부/UI ToolKit (TODO).md"
+    },
+    {
+      "basename": "MVVM",
+      "path": "03.Unity/Study/디자인패턴/MVVM.canvas"
+    },
+    {
+      "basename": "MVVM",
+      "path": "03.Unity/Study/디자인패턴/MVVM.md"
+    },
+    {
+      "basename": "LIST",
+      "path": "03.Unity/Study/기술 면접 공부/LIST.md"
+    },
+    {
+      "basename": "Time.deltaTime",
+      "path": "03.Unity/Study/개인공부/Time.deltaTime.md"
+    },
+    {
+      "basename": "데이터드리븐",
+      "path": "03.Unity/Study/개인공부/데이터드리븐.md"
+    },
+    {
+      "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
+      "path": "03.Unity/Study/개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
+    },
+    {
+      "basename": "명언",
+      "path": "01.Inbox/01.Memo/명언.md"
+    },
+    {
+      "basename": "사용한 디자인 패턴 뭐 있는지",
+      "path": "03.Unity/Study/기술 면접 공부/사용한 디자인 패턴 뭐 있는지.md"
+    },
+    {
+      "basename": "클래스 구조체 차이",
+      "path": "03.Unity/Study/기술 면접 공부/클래스 구조체 차이.md"
+    },
+    {
+      "basename": "오버라이드",
+      "path": "03.Unity/Study/개인공부/오버라이드.md"
+    },
+    {
+      "basename": "인터페이스",
+      "path": "03.Unity/Study/개인공부/인터페이스.md"
+    },
+    {
+      "basename": "다형성",
+      "path": "03.Unity/Study/기술 면접 공부/다형성.md"
+    },
+    {
+      "basename": "오버로딩과 오버라이딩 차이",
+      "path": "03.Unity/Study/기술 면접 공부/오버로딩과 오버라이딩 차이.md"
+    },
+    {
+      "basename": "자료구조 - MOC",
+      "path": "01.Inbox/MOC/자료구조 - MOC.md"
+    },
+    {
+      "basename": "파인만 학습법",
+      "path": "01.Inbox/01.Memo/파인만 학습법.md"
+    },
+    {
+      "basename": "Guide 문서",
+      "path": "01.Inbox/00.Guide/Guide 문서.md"
+    },
+    {
+      "basename": "렌더링 파이프라인",
+      "path": "03.Unity/Study/개인공부/렌더링 파이프라인.md"
+    },
+    {
       "basename": "Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능",
       "path": "03.Unity/Study/다양한예제/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md"
     },
@@ -189,16 +185,20 @@
       "path": "03.Unity/Study/다양한예제/Singleton.md"
     },
     {
-      "basename": "2024-09-05(목)",
-      "path": "02.DailyNote/2024-09-05(목).md"
+      "basename": "3D 팀 - 태그게임(미니합반)",
+      "path": "03.Unity/Project/3D 팀 - 태그게임(미니합반).md"
     },
     {
-      "basename": "2024-07-23(Tue)",
-      "path": "02.DailyNote/2024-07-23(Tue).md"
+      "basename": "2D 개인 - MixMaster 모작",
+      "path": "03.Unity/Project/2D 개인 - MixMaster 모작.md"
     },
     {
-      "basename": "Pasted image 20240829232622",
-      "path": "01.Inbox/Files/Pasted image 20240829232622.png"
+      "basename": "2D 개인 - CatchMind (서버,모작)",
+      "path": "03.Unity/Project/2D 개인 - CatchMind (서버,모작).md"
+    },
+    {
+      "basename": "3D 팀 - 쿠키런 모험의탑 모작",
+      "path": "03.Unity/Project/3D 팀 - 쿠키런 모험의탑 모작.md"
     }
   ],
   "omittedPaths": []
