@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "정리",
+      "path": "01.Inbox/Template/정리.md"
+    },
+    {
+      "basename": "정적 바인딩 vs 동적바인딩",
+      "path": "03.Unity/Study/기술 면접 공부/정적 바인딩 vs 동적바인딩.md"
+    },
+    {
+      "basename": "클래스와 구조체 차이",
+      "path": "03.Unity/Study/기술 면접 공부/클래스와 구조체 차이.md"
+    },
+    {
       "basename": "슈퍼센트 분석",
       "path": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "01.Inbox/Template/Daily Note.md"
+    },
+    {
+      "basename": "Unity Project",
+      "path": "01.Inbox/Template/Unity Project.md"
+    },
+    {
+      "basename": "큐 스택",
+      "path": "03.Unity/Study/기술 면접 공부/큐 스택.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.Inbox/Home.md"
+    },
+    {
+      "basename": "규칙 - MOC",
+      "path": "01.Inbox/MOC/규칙 - MOC.md"
+    },
+    {
+      "basename": "파인만 학습법",
+      "path": "01.Inbox/01.Memo/파인만 학습법.md"
+    },
+    {
+      "basename": "명언",
+      "path": "01.Inbox/01.Memo/명언.md"
     },
     {
       "basename": "2024-09-27(금)",
@@ -61,16 +101,8 @@
       "path": "03.Unity/Study/기술 면접 공부/오버로딩과 오버라이딩 차이.md"
     },
     {
-      "basename": "정적 바인딩 vs 동적바인딩",
-      "path": "03.Unity/Study/기술 면접 공부/정적 바인딩 vs 동적바인딩.md"
-    },
-    {
       "basename": "해시테이블 딕셔너리 차이",
       "path": "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md"
-    },
-    {
-      "basename": "클래스와 구조체 차이",
-      "path": "03.Unity/Study/기술 면접 공부/클래스와 구조체 차이.md"
     },
     {
       "basename": "인터페이스와 추상클래스의 차이",
@@ -83,14 +115,6 @@
     {
       "basename": "코루틴과 유니테스크의 차이",
       "path": "03.Unity/Study/기술 면접 공부/코루틴과 유니테스크의 차이.md"
-    },
-    {
-      "basename": "큐 스택",
-      "path": "03.Unity/Study/기술 면접 공부/큐 스택.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.Inbox/Home.md"
     },
     {
       "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
@@ -169,36 +193,12 @@
       "path": "03.Unity/Study/디자인패턴/MVVM.md"
     },
     {
-      "basename": "명언",
-      "path": "01.Inbox/01.Memo/명언.md"
-    },
-    {
       "basename": "코드규칙",
       "path": "03.Unity/Study/규칙/코드규칙.md"
     },
     {
       "basename": "자료구조 - MOC",
       "path": "01.Inbox/MOC/자료구조 - MOC.md"
-    },
-    {
-      "basename": "파인만 학습법",
-      "path": "01.Inbox/01.Memo/파인만 학습법.md"
-    },
-    {
-      "basename": "Guide 문서",
-      "path": "01.Inbox/00.Guide/Guide 문서.md"
-    },
-    {
-      "basename": "상태머신",
-      "path": "03.Unity/Study/다양한예제/상태머신.md"
-    },
-    {
-      "basename": "Github Tip Address",
-      "path": "03.Unity/Study/Git/Github Tip Address.md"
-    },
-    {
-      "basename": "이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법",
-      "path": "03.Unity/Study/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md"
     }
   ],
   "omittedPaths": []

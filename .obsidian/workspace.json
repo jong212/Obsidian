@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10a3ae69104c6892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "039c8865afdc3304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
+                "file": "01.Inbox/Template/정리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
+                "file": "01.Inbox/Template/정리.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
+                "file": "01.Inbox/Template/정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
+                "file": "01.Inbox/Template/정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md"
+                "file": "01.Inbox/Template/정리.md"
               }
             }
           },
@@ -234,9 +220,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "610514d53daba3ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e3a85e238c16322",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       },
       {
         "id": "b99ec93446810926",
@@ -268,15 +270,25 @@
       "publish:변경사항 출판": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "039c8865afdc3304",
   "lastOpenFiles": [
-    "02.DailyNote/2024-09-27(금).md",
+    "03.Unity/Study/기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
+    "03.Unity/Study/기술 면접 공부/클래스와 구조체 차이.md",
     "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
+    "01.Inbox/Template/정리.md",
+    "01.Inbox/Template/Daily Note.md",
+    "01.Inbox/Template/Unity Project.md",
+    "03.Unity/Study/기술 면접 공부/큐 스택.md",
+    "01.Inbox/Home.md",
+    "01.Inbox/MOC/규칙 - MOC.md",
+    "01.Inbox/01.Memo/파인만 학습법.md",
+    "01.Inbox/01.Memo/명언.md",
+    "02.DailyNote/2024-09-27(금).md",
     "02.DailyNote/2024-07-20(토).md",
     "03.Unity/Study/기술 면접 공부/슈센 NoShare.md",
     "02.DailyNote/2024-07-22(Mon).md",
@@ -301,16 +313,6 @@
     "03.Unity/Study/디자인패턴/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
     "03.Unity/Study/취업질문/List.md",
     "03.Unity/Study/기술 면접 공부/LIST.md",
-    "03.Unity/Study/기술 면접 공부/객체지향.md",
-    "03.Unity/Study/기술 면접 공부/SQL VS NOSQL.md",
-    "03.Unity/Study/기술 면접 공부/다른 개발자와 비교했을 때 장점.md",
-    "03.Unity/Study/기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md",
-    "03.Unity/Study/기술 면접 공부/다형성.md",
-    "03.Unity/Study/기술 면접 공부/사용한 디자인 패턴 뭐 있는지.md",
-    "03.Unity/Study/기술 면접 공부/오버로딩과 오버라이딩 차이.md",
-    "03.Unity/Study/기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
-    "03.Unity/Study/기술 면접 공부/해시테이블 딕셔너리 차이.md",
-    "03.Unity/Study/기술 면접 공부/클래스와 구조체 차이.md",
     "03.Unity/Study/코드구조분석",
     "03.Unity/Study/이것저것LinkMemo",
     "03.Unity/Study/알고리즘",

@@ -1,12 +1,13 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "flex-tables"
   ],
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
-  "accentColor": "#102d2e",
-  "baseFontSizeAction": false,
-  "baseFontSize": 16
+  "accentColor": "",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16,
+  "monospaceFontFamily": "Inter"
 }
