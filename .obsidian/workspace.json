@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "402cf1a8b38865ca",
+        "id": "b4c9d1b4b6c38b0b",
         "type": "tabs",
         "children": [
           {
-            "id": "039c8865afdc3304",
+            "id": "6a4c1e64eff11287",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Inbox/Template/정리.md",
+                "file": "개인공부/오버라이드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "메모리",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.Inbox/Template/정리.md",
+                "file": "개인공부/오버라이드.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Inbox/Template/정리.md",
+                "file": "개인공부/오버라이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Inbox/Template/정리.md",
+                "file": "개인공부/오버라이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Inbox/Template/정리.md"
+                "file": "개인공부/오버라이드.md"
               }
             }
           },
@@ -271,59 +271,97 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "039c8865afdc3304",
+  "floating": {
+    "id": "6aff678982be9ee2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a5202fa07ff26a70",
+        "type": "window",
+        "children": [
+          {
+            "id": "5a38f79d3f137593",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a1f43654e6d908c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01.SiteSettings/Template/정리.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 548,
+        "y": 189,
+        "width": 1338,
+        "height": 728,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6a4c1e64eff11287",
   "lastOpenFiles": [
-    "03.Unity/Study/기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
-    "03.Unity/Study/기술 면접 공부/클래스와 구조체 차이.md",
-    "03.Unity/Study/기술 면접 공부/슈퍼센트 분석.md",
-    "01.Inbox/Template/정리.md",
-    "01.Inbox/Template/Daily Note.md",
-    "01.Inbox/Template/Unity Project.md",
-    "03.Unity/Study/기술 면접 공부/큐 스택.md",
-    "01.Inbox/Home.md",
-    "01.Inbox/MOC/규칙 - MOC.md",
-    "01.Inbox/01.Memo/파인만 학습법.md",
-    "01.Inbox/01.Memo/명언.md",
-    "02.DailyNote/2024-09-27(금).md",
-    "02.DailyNote/2024-07-20(토).md",
-    "03.Unity/Study/기술 면접 공부/슈센 NoShare.md",
+    "01.SiteSettings/Template/정리.md",
+    "개인공부/오버라이드.md",
+    "개인공부/Time.deltaTime.md",
+    "기술 면접 공부/오버로딩과 오버라이딩 차이.md",
+    "기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
+    "취업질문/List.md",
+    "TO DO/UI ToolKit (TODO).md",
+    "TO DO/앵퍼 피봇 기본 개념 TO DO.md",
+    "TO DO",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "01.SiteSettings/00.Guide/Guide 문서.md",
+    "01.SiteSettings/Home.md",
+    "기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md",
+    "publish.js",
+    "새 텍스트 문서.txt",
+    "publish.css",
+    "Project/3D 개인 - MixMaster 네트워크 프로젝트.md",
+    "01.SiteSettings/MOC/자료구조 - MOC.md",
+    "publish.css.txt",
+    "01.SiteSettings/Template/Daily Note.md",
+    "기술 면접 공부/클래스와 구조체 차이.md",
+    "기술 면접 공부/슈퍼센트 분석.md",
+    "01.SiteSettings/Template/Unity Project.md",
+    "기술 면접 공부/큐 스택.md",
+    "01.SiteSettings/MOC/규칙 - MOC.md",
+    "01.SiteSettings/01.Memo/파인만 학습법.md",
+    "01.SiteSettings/01.Memo/명언.md",
+    "01.SiteSettings/02.DailyNote/2024-09-27(금).md",
+    "01.SiteSettings/02.DailyNote/2024-07-20(토).md",
+    "기술 면접 공부/슈센 NoShare.md",
     "02.DailyNote/2024-07-22(Mon).md",
-    "02.DailyNote/2024-07-21(일).md",
-    "02.DailyNote/2024-07-23(Tue).md",
-    "02.DailyNote/2024-07-22(월).md",
-    "02.DailyNote/2024-07-26(금).md",
-    "02.DailyNote/2024-08-02(금).md",
-    "02.DailyNote/2024-08-05(월).md",
-    "02.DailyNote/2024-09-05(목).md",
-    "01.Inbox/Files/image.png",
-    "01.Inbox/Files/1.png",
-    "01.Inbox/Files/2.png",
-    "01.Inbox/Files/3.png",
-    "01.Inbox/Files/4.png",
-    "01.Inbox/Files/5.png",
-    "01.Inbox/Files/Pasted image 20240927153431.png",
-    "01.Inbox/Files/Pasted image 20240927153408.png",
-    "01.Inbox/Files/Pasted image 20240927153358.png",
-    "01.Inbox/Files/Pasted image 20240927153345.png",
-    "03.Unity/Study/기술 면접 공부/면접 질문 총괄 PDF.md",
-    "03.Unity/Study/디자인패턴/디자인 패턴의 기초 SOLID 원칙 이해하기.md",
-    "03.Unity/Study/취업질문/List.md",
-    "03.Unity/Study/기술 면접 공부/LIST.md",
-    "03.Unity/Study/코드구조분석",
-    "03.Unity/Study/이것저것LinkMemo",
-    "03.Unity/Study/알고리즘",
-    "03.Unity/Study/디자인패턴/MVVM.canvas",
-    "03.Unity/Study/취업질문",
+    "01.SiteSettings/Files/image.png",
+    "01.SiteSettings/Files/1.png",
+    "01.SiteSettings/Files/2.png",
+    "01.SiteSettings/Files/3.png",
+    "01.SiteSettings/Files/4.png",
+    "01.SiteSettings/Files/5.png",
+    "01.SiteSettings/Files/Pasted image 20240927153431.png",
+    "01.SiteSettings/Files/Pasted image 20240927153408.png",
+    "01.SiteSettings/Files/Pasted image 20240927153358.png",
+    "코드구조분석",
+    "이것저것LinkMemo",
+    "알고리즘",
+    "디자인패턴/MVVM.canvas",
+    "취업질문",
     "03.Unity/Study/무제 폴더",
-    "03.Unity/Study/인프런",
-    "01.Inbox/Files/면접 질문 총괄 (1).pdf",
-    "03.Unity/Study/기술 면접 공부",
-    "01.Inbox/Files/녹화_2024_09_08_19_42_12_654.mp4",
-    "01.Inbox/01.Memo",
     "03.Unity/무제 파일.canvas",
     "03.Unity/자료구조/무제 파일.canvas",
     "무제 파일.canvas",
