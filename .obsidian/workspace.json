@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b4c9d1b4b6c38b0b",
+        "id": "a1bbd530b8005566",
         "type": "tabs",
         "children": [
           {
-            "id": "6a4c1e64eff11287",
+            "id": "cc70738fe6aa2fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.SiteSettings/Template/정리.md",
+                "file": "개인공부/데이터드리븐.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.SiteSettings/Template/정리.md",
+                "file": "개인공부/데이터드리븐.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.SiteSettings/Template/정리.md",
+                "file": "개인공부/데이터드리븐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.SiteSettings/Template/정리.md",
+                "file": "개인공부/데이터드리븐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.SiteSettings/Template/정리.md"
+                "file": "개인공부/데이터드리븐.md"
               }
             }
           },
@@ -237,8 +237,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 10
+        ]
       },
       {
         "id": "b99ec93446810926",
@@ -256,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,49 +273,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "6aff678982be9ee2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a5202fa07ff26a70",
-        "type": "window",
-        "children": [
-          {
-            "id": "5a38f79d3f137593",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4a1f43654e6d908c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01.SiteSettings/Template/정리.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 548,
-        "y": 189,
-        "width": 1338,
-        "height": 728,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6a4c1e64eff11287",
+  "active": "cc70738fe6aa2fb7",
   "lastOpenFiles": [
-    "개인공부/오버라이드.md",
+    "01.SiteSettings/Files/Pasted image 20240929003352.png",
+    "01.SiteSettings/Files/Pasted image 20240929002630.png",
+    "01.SiteSettings/Files/Pasted image 20240928234731.png",
+    "01.SiteSettings/Files/Pasted image 20240928232847.png",
+    "01.SiteSettings/Files/Pasted image 20240928232234.png",
+    "01.SiteSettings/Files/Pasted image 20240928232043.png",
+    "개인공부/렌더링 파이프라인.md",
+    "개인공부/데이터드리븐.md",
     "01.SiteSettings/Template/정리.md",
+    "01.SiteSettings/Home.md",
     "개인공부/Time.deltaTime.md",
+    "다양한예제/상태머신.md",
+    "디자인패턴/Observer pattern.md",
+    "개인공부/오버라이드.md",
+    "기초 - MOC.md",
+    "TO DO/인터페이스.md",
     "기술 면접 공부/오버로딩과 오버라이딩 차이.md",
     "기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
     "취업질문/List.md",
@@ -327,7 +300,6 @@
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "01.SiteSettings/00.Guide/Guide 문서.md",
-    "01.SiteSettings/Home.md",
     "기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md",
     "publish.js",
     "새 텍스트 문서.txt",
@@ -340,22 +312,10 @@
     "기술 면접 공부/슈퍼센트 분석.md",
     "01.SiteSettings/Template/Unity Project.md",
     "기술 면접 공부/큐 스택.md",
-    "01.SiteSettings/MOC/규칙 - MOC.md",
-    "01.SiteSettings/01.Memo/파인만 학습법.md",
-    "01.SiteSettings/01.Memo/명언.md",
-    "01.SiteSettings/02.DailyNote/2024-09-27(금).md",
-    "01.SiteSettings/02.DailyNote/2024-07-20(토).md",
-    "기술 면접 공부/슈센 NoShare.md",
-    "02.DailyNote/2024-07-22(Mon).md",
     "01.SiteSettings/Files/image.png",
     "01.SiteSettings/Files/1.png",
     "01.SiteSettings/Files/2.png",
     "01.SiteSettings/Files/3.png",
-    "01.SiteSettings/Files/4.png",
-    "01.SiteSettings/Files/5.png",
-    "01.SiteSettings/Files/Pasted image 20240927153431.png",
-    "01.SiteSettings/Files/Pasted image 20240927153408.png",
-    "01.SiteSettings/Files/Pasted image 20240927153358.png",
     "코드구조분석",
     "이것저것LinkMemo",
     "알고리즘",

@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "데이터드리븐",
+      "path": "개인공부/데이터드리븐.md"
+    },
+    {
+      "basename": "렌더링 파이프라인",
+      "path": "개인공부/렌더링 파이프라인.md"
+    },
+    {
       "basename": "정리",
       "path": "01.SiteSettings/Template/정리.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.SiteSettings/Home.md"
+    },
+    {
+      "basename": "Time.deltaTime",
+      "path": "개인공부/Time.deltaTime.md"
+    },
+    {
+      "basename": "상태머신",
+      "path": "다양한예제/상태머신.md"
+    },
+    {
+      "basename": "Observer pattern",
+      "path": "디자인패턴/Observer pattern.md"
     },
     {
       "basename": "오버라이드",
       "path": "개인공부/오버라이드.md"
     },
     {
-      "basename": "Time.deltaTime",
-      "path": "개인공부/Time.deltaTime.md"
+      "basename": "기초 - MOC",
+      "path": "기초 - MOC.md"
+    },
+    {
+      "basename": "인터페이스",
+      "path": "TO DO/인터페이스.md"
     },
     {
       "basename": "오버로딩과 오버라이딩 차이",
@@ -43,10 +71,6 @@
     {
       "basename": "Guide 문서",
       "path": "01.SiteSettings/00.Guide/Guide 문서.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.SiteSettings/Home.md"
     },
     {
       "basename": "메모리 구조 - 스택과 힙 파헤치기",
@@ -157,18 +181,6 @@
       "path": "개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
     },
     {
-      "basename": "데이터드리븐",
-      "path": "개인공부/데이터드리븐.md"
-    },
-    {
-      "basename": "렌더링 파이프라인",
-      "path": "개인공부/렌더링 파이프라인.md"
-    },
-    {
-      "basename": "인터페이스",
-      "path": "개인공부/인터페이스.md"
-    },
-    {
       "basename": "2D 개인 - CatchMind (서버,모작)",
       "path": "Project/2D 개인 - CatchMind (서버,모작).md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "3D 팀 - 쿠키런 모험의탑 모작",
       "path": "Project/3D 팀 - 쿠키런 모험의탑 모작.md"
-    },
-    {
-      "basename": "Awake Start 차이",
-      "path": "기술 면접 공부/Awake Start 차이.md"
-    },
-    {
-      "basename": "Behavior Tree - TODO",
-      "path": "디자인패턴/Behavior Tree - TODO.md"
-    },
-    {
-      "basename": "MVC (모델 뷰 컨트롤러)",
-      "path": "디자인패턴/MVC (모델 뷰 컨트롤러).md"
     }
   ],
   "omittedPaths": []
