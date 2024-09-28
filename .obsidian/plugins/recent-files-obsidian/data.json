@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "오버라이드",
-      "path": "개인공부/오버라이드.md"
-    },
-    {
       "basename": "정리",
       "path": "01.SiteSettings/Template/정리.md"
+    },
+    {
+      "basename": "오버라이드",
+      "path": "개인공부/오버라이드.md"
     },
     {
       "basename": "Time.deltaTime",

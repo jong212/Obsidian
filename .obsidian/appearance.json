@@ -6,7 +6,7 @@
   ],
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
-  "accentColor": "",
+  "accentColor": "#67636e",
   "baseFontSizeAction": true,
   "baseFontSize": 16,
   "monospaceFontFamily": "Inter"

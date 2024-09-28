@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인공부/오버라이드.md",
-                "mode": "source",
+                "file": "01.SiteSettings/Template/정리.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "개인공부/오버라이드.md",
+                "file": "01.SiteSettings/Template/정리.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인공부/오버라이드.md",
+                "file": "01.SiteSettings/Template/정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인공부/오버라이드.md",
+                "file": "01.SiteSettings/Template/정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인공부/오버라이드.md"
+                "file": "01.SiteSettings/Template/정리.md"
               }
             }
           },
@@ -315,8 +315,8 @@
   },
   "active": "6a4c1e64eff11287",
   "lastOpenFiles": [
-    "01.SiteSettings/Template/정리.md",
     "개인공부/오버라이드.md",
+    "01.SiteSettings/Template/정리.md",
     "개인공부/Time.deltaTime.md",
     "기술 면접 공부/오버로딩과 오버라이딩 차이.md",
     "기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
