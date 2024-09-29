@@ -1,11 +1,16 @@
 
-| Git          | https://github.com/jong212/designpatterndemo                                                                                                                        |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| BranchName   | main                                                                                                                                                                |
-| RefFile      | https://www.youtube.com/watch?v=j4kVuJQUMtw&list=PL412Ym60h6ut9NcbAIfzVgyy5F4O22oSq&index=6<br><br>[[Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf]] |
-| Memo         |                                                                                                                                                                     |
-| MOC_Category | [[DesignPattern - MOC]]                                                                                                                                             |
-## 이벤트를  활용한 옵저버 패턴 간단하게 이해하기
+| 카테고리       | [[DesignPattern - MOC]]                                                                                                                                         |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 공부목적       |                                                                                                                                                                 |
+| 느낀점        |                                                                                                                                                                 |
+| 참고사이트      | https://www.youtube.com/watch?v=j4kVuJQUMtw&list=PL412Ym60h6ut9NcbAIfzVgyy5F4O22oSq&index=6<br>[[Level_up_your_code_with_Game_Programming_Pattern-3-ko_kr.pdf]] |
+| 깃주소 및 브랜치명 | https://github.com/jong212/designpatterndemo<br>main                                                                                                            |
+## 옵저버 패턴(Observer Pattern)
+
+ -한 객체의 상태가 바뀌면 그 책체에 의존하는 다른 객체한테 연락이 가고 자동으로 내용이 갱신되는 방식으로
+  일대다(one-to-many) 의존성을 정의한다.
+ -한 객체의 상태가 변경되면 그 객체에 의존하는 모든 객체에 연락을 한다.
+### 이벤트를  활용한 옵저버 패턴 간단하게 이해하기
 
 만약 
 A라는 버튼을 클릭 했을 때 
@@ -17,10 +22,10 @@ C 오브젝트에서 파티클 효과가 나타나오게 하고 싶다면?
 
 간략히 설명하면 위 구조가 옵저버 패턴의 한 예시 이다.
 
-## 코드를 통해 이해하기
+### 코드를 통해 이해하기
 
-> [!NOTE]
-> A 오브젝트는  주체이기 때문에 이벤트 핸들러(Clicked) 생성
+> [!NOTE]- 코드 전문 펼쳐보기
+> // A 오브젝트는 주체이기 때문에 이벤트 핸들러(Clicked) 생성
 > ``` csharp
 > using System.Collections;
 > using System.Collections.Generic;
@@ -38,7 +43,7 @@ C 오브젝트에서 파티클 효과가 나타나오게 하고 싶다면?
 > 
 >         void Start()
 >         {
->             m_Collider = GetComponent<Collider>();
+>             m_Collider = GetComponent< Collider>();
 >         }
 > 
 >         public void ClickButton()
@@ -91,7 +96,7 @@ C 오브젝트에서 파티클 효과가 나타나오게 하고 싶다면?
 > 
 >         private void Awake()
 >         {
->             source = GetComponent<AudioSource>();
+>             source = GetComponent< AudioSource>();
 > 
 >             if (subjectToObserve != null)
 >             {
@@ -157,14 +162,10 @@ C 오브젝트에서 파티클 효과가 나타나오게 하고 싶다면?
 > 
 > ```
 
-
 이제 아래 주체자의 아래 이벤트만 실행되면 등록 해놓았던 콜백함수가 실행 된다
 ![[Pasted image 20240821225545.png]]
-
-
-
-## 장단점
-![[Pasted image 20240821225736.png]]
+### 옵저버 패턴 장단점
+![[Pasted image 20240821225736.png||500]]
 
 이벤트를 구현하면 약간의 추가 작업이 필요하지만 이점이 있습니다:
 

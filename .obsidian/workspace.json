@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1bbd530b8005566",
+        "id": "38f80c3ee2938ccf",
         "type": "tabs",
         "children": [
           {
-            "id": "cc70738fe6aa2fb7",
+            "id": "0d7b6067ed1f8438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기술 면접 공부/코루틴과 유니테스크의 차이.md",
-                "mode": "source",
+                "file": "기술 면접 공부/박싱 언박싱.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "메모리",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "기술 면접 공부/코루틴과 유니테스크의 차이.md",
+                "file": "기술 면접 공부/박싱 언박싱.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기술 면접 공부/코루틴과 유니테스크의 차이.md",
+                "file": "기술 면접 공부/박싱 언박싱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기술 면접 공부/코루틴과 유니테스크의 차이.md",
+                "file": "기술 면접 공부/박싱 언박싱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기술 면접 공부/코루틴과 유니테스크의 차이.md"
+                "file": "기술 면접 공부/박싱 언박싱.md"
               }
             }
           },
@@ -273,55 +273,55 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cc70738fe6aa2fb7",
+  "active": "0d7b6067ed1f8438",
   "lastOpenFiles": [
-    "기술 면접 공부/인터페이스와 추상클래스의 차이.md",
-    "기술 면접 공부/코루틴과 유니테스크의 차이.md",
-    "기술 면접 공부/다형성.md",
-    "기술 면접 공부/객체지향.md",
+    "기술 면접 공부/면접 질문 총괄 PDF.md",
+    "기술 면접 공부/박싱 언박싱.md",
+    "개인공부/렌더링 파이프라인.md",
+    "기술 면접 공부/UGUI.md",
     "기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
+    "이것저것LinkMemo/Link.md",
+    "회사 분석/슈퍼센트.md",
+    "Project/2D 개인 - MixMaster 모작.md",
+    "Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
+    "Project/3D 팀 - 쿠키런 모험의탑 모작.md",
+    "Project/3D 개인 - MixMaster 네트워크 프로젝트.md",
+    "Project/3D 팀 - 태그게임(미니합반).md",
+    "다양한예제/Singleton.md",
+    "다양한예제/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md",
+    "다양한예제/상태머신.md",
+    "개인공부/코드규칙.md",
+    "코드구조분석/플레이어가 집기를 누를 때 상호작용이 가능한지 여부를 순회하는 과정.md",
+    "알고리즘/Astar.md",
+    "기술 면접 공부/다형성.md",
     "기술 면접 공부/클래스와 구조체 차이.md",
-    "기술 면접 공부/오버로딩과 오버라이딩 차이.md",
     "기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md",
     "기술 면접 공부/전역변수 지역변수 차이.md",
     "기술 면접 공부/사용한 디자인 패턴 뭐 있는지 TODO.md",
-    "기술 면접 공부/SQL VS NOSQL.md",
     "기술 면접 공부/LIST.md",
-    "기술 면접 공부/면접 질문 총괄 PDF.md",
-    "기술 면접 공부/다른 개발자와 비교했을 때 장점.md",
+    "기술 면접 공부/SQL VS NOSQL.md",
     "기술 면접 공부/Awake Start 차이.md",
-    "기술 면접 공부/해시테이블 딕셔너리 차이.md",
-    "기술 면접 공부/큐 스택.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "디자인패턴/MVVM.canvas",
+    "01.SiteSettings/Files/statemachine/PlayerStateMachine.cs",
+    "01.SiteSettings/Files/statemachine/PlayerState.cs",
+    "01.SiteSettings/Files/statemachine/PlayerMoveState.cs",
+    "01.SiteSettings/Files/statemachine/PlayerIdleState.cs",
+    "01.SiteSettings/Files/statemachine/Player.cs",
+    "01.SiteSettings/Files/statemachine",
+    "01.SiteSettings/Files/Pasted image 20240928232234.png",
     "회사 분석",
-    "회사 분석/슈퍼센트 분석.md",
-    "기술 면접 공부/슈센 NoShare.md",
-    "01.SiteSettings/Template/정리.md",
-    "개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
-    "개인공부/오버라이드.md",
-    "개인공부/데이터드리븐.md",
     "01.SiteSettings/Files/Pasted image 20240929003352.png",
     "01.SiteSettings/Files/Pasted image 20240929002630.png",
     "01.SiteSettings/Files/Pasted image 20240928234731.png",
     "01.SiteSettings/Files/Pasted image 20240928232847.png",
-    "01.SiteSettings/Files/Pasted image 20240928232234.png",
     "01.SiteSettings/Files/Pasted image 20240928232043.png",
-    "개인공부/렌더링 파이프라인.md",
-    "01.SiteSettings/Home.md",
-    "개인공부/Time.deltaTime.md",
     "TO DO",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "publish.js",
     "새 텍스트 문서.txt",
-    "publish.css",
-    "publish.css.txt",
     "01.SiteSettings/Files/image.png",
     "01.SiteSettings/Files/1.png",
     "01.SiteSettings/Files/2.png",
-    "코드구조분석",
-    "이것저것LinkMemo",
-    "알고리즘",
-    "디자인패턴/MVVM.canvas",
-    "취업질문",
     "03.Unity/무제 파일.canvas",
     "03.Unity/자료구조/무제 파일.canvas",
     "무제 파일.canvas",

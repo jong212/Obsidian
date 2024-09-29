@@ -5,15 +5,22 @@
 | RefFile      | https://drive.google.com/file/d/1v1DqIdTd3YwKuXaJer716cylbCKrg8Tz/view?usp=sharing |
 | Memo         |                                                                                    |
 | MOC_Category | [[DesignPattern - MOC]]                                                            |
+## MVVM 패턴
+MVVM(Model-View-ViewModel) 패턴은 UI와 비즈니스 로직을 분리하는 구조로, 유연한 데이터 바인딩을 가능하게 합니다.
+* View (뷰): 사용자가 보는 화면으로, 데이터를 직접 처리하지 않고 단순히 표시하는 역할을 합니다. 데이터를 ViewModel로부터 전달받아 UI에 반영합니다. View는 자신의 역할인 데이터 표현에 충실하며, 처리 로직을 담당하지 않습니다.
+* ViewModel (뷰모델): View와 Model 사이의 중재자 역할을 하며, View에 필요한 데이터를 제공하고 변경 사항을 알려줍니다. 주로 INotifyPropertyChanged 인터페이스를 구현하여 데이터가 변경되면 View에 알림을 보냅니다. ViewModel은 View를 직접 참조하지 않고, 데이터를 수정하거나 전달하는 역할만 합니다.
+* Model (모델): 실제 비즈니스 로직이나 데이터 구조를 담고 있는 부분입니다. ViewModel을 통해 데이터를 제공받으며, 데이터 변경에 따른 비즈니스 로직을 처리합니다.
 
-## [MVVM 간단 정리]
-> [!tip]+ 순서도
+### MVVM 로직 처리 순서 요약
+>[!Tip]- 펼처보기
 > ![[MVVM.png]]
 
-## [View는 자신의 운명을 자신이 결정짓는다]
-MVVM 패턴에서 View는 View와 관련된 요소만을 들고 있어야 하며, 직접 데이터를 처리해서는 안 되는 것으로 알고 있다
-View는 단순히 데이터를 표시하는 역할을 하며, 실제 데이터 처리는 아래와 같은 순서로 처리 된다
+## View, ViewModel, Model
+###  View는 데이터를 처리하는 것이 아니라 전달받아 반영하는 역할이다
+* MVVM 패턴에서 View는 View와 관련된 요소만을 들고 있어야 하기 때문에 직접 데이터를 처리해선 안 된다
+* View는 단순히 데이터를 표시하는 역할을 하며, 실제 데이터 처리는 아래와 같은 순서로 처리 된다
 
+GameLogicManager 
 특히, 게임 로직에서 데이터를 처리할 때는 `GameLogicManager`를 통해 `ViewModelExtension`에서 데이터가 처리되고, 이 과정에서 `Setter`가 호출되어 값이 변경됩니다. 결국 View는 이 변경된 데이터를 전달받아 화면에 반영하는 역할을 한다
 
 즉, **View는 데이터를 처리하는 것이 아니라, 전달받아 표시하는 역할을 맡고 있다.**  
@@ -130,15 +137,7 @@ View는 단순히 데이터를 표시하는 역할을 하며, 실제 데이터 �
 ### MVVM 에서 뷰모델익스텐션이 하는 역할
 
 >[!Tip] 요청하고 받는 부분이 있다
-
-
-
-
 ## [GameLogicManager 동작 순서 (보완필요)]
-
-
-
-
 ## 스크립트 파일 분석
 ### GameLogicManager.cs
 아래 그림에서 SubProfileUI 오브젝트는 딱 텍스트 컴포넌트만 들고 있는게 특징이다 

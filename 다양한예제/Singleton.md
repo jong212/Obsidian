@@ -1,4 +1,4 @@
-제네릭 싱글톤
+## 제네릭 싱글톤 스크립트 
 
 ```csharp
 using System.Collections;
