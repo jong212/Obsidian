@@ -4,17 +4,15 @@
   "calendar",
   "dataview",
   "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
   "graph-analysis",
   "obsidian-git",
   "better-export-pdf",
-  "advanced-canvas",
   "code-styler",
   "editing-toolbar",
   "obsidian-outliner",
   "periodic-notes",
   "obsidian-plugin-update-tracker",
   "recent-files-obsidian",
-  "drawio-obsidian",
-  "homepage"
+  "homepage",
+  "obsidian-diagrams-net"
 ]
