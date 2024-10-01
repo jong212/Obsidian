@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e065f931e009ae28",
+        "id": "81e6c6eeead7a3b7",
         "type": "tabs",
         "children": [
           {
-            "id": "e59224cfa4d0295c",
+            "id": "973216ca4dd51031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/선택 정렬.md",
+                "file": "기술 면접 공부/면접 질문 총괄 PDF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,28 +32,15 @@
       {
         "id": "a16f1400e2fc1904",
         "type": "tabs",
-        "dimension": 73.61477572559367,
+        "dimension": 75.75150300601203,
         "children": [
           {
-            "id": "fe4f92a1da251813",
+            "id": "93151bb6c8b2a118",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "a8f860bbab199fc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.SiteSettings/Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -71,13 +58,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d6bc7a0f326cfd7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
       {
         "id": "1a983c21befd67f9",
         "type": "tabs",
-        "dimension": 26.385224274406333,
+        "dimension": 24.248496993987978,
         "children": [
           {
             "id": "107ed32ad057770a",
@@ -91,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 282.5
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -107,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "알고리즘/선택 정렬.md",
+                "file": "기술 면접 공부/면접 질문 총괄 PDF.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +133,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224425,
+                  "scale": 0.2588386562181628,
                   "close": true
                 }
               }
@@ -150,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/선택 정렬.md",
+                "file": "기술 면접 공부/면접 질문 총괄 PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/선택 정렬.md",
+                "file": "기술 면접 공부/면접 질문 총괄 PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/선택 정렬.md"
+                "file": "기술 면접 공부/면접 질문 총괄 PDF.md"
               }
             }
           },
@@ -242,8 +237,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 10
+        ]
       },
       {
         "id": "b99ec93446810926",
@@ -261,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,59 +273,57 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e59224cfa4d0295c",
+  "active": "973216ca4dd51031",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "알고리즘/버블정렬.md",
     "알고리즘/선택 정렬.md",
-    "01.SiteSettings/Files/Diagram 1.svg",
-    "01.SiteSettings/Files/Diagram.svg",
+    "알고리즘/삽입정렬.md",
+    "01.SiteSettings/Files/Pasted image 20241002005119.png",
+    "디자인패턴/MVC (모델 뷰 컨트롤러).md",
+    "알고리즘/Astar.md",
+    "01.SiteSettings/Files/Pasted image 20241001200511.png",
+    "01.SiteSettings/Files/Pasted image 20241001140235.png",
+    "01.SiteSettings/Files/Pasted image 20241001134122.png",
+    "01.SiteSettings/Files/Pasted image 20241001134058.png",
+    "01.SiteSettings/Files/Pasted image 20241001134025.png",
+    "기술 면접 공부/빅오표기법.md",
     "01.SiteSettings/Home.md",
-    "01.SiteSettings/Files/Diagram 1.svg.xml",
-    "무제 파일 1.md",
-    "무제 파일 2.md",
-    "Untitled Diagram.svg",
-    "무제 파일.canvas",
-    "01.SiteSettings/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf",
-    "기술 면접 공부/면접 질문 총괄 PDF.md",
-    "01.SiteSettings/Files/Diagram.svg.xml",
+    "무제 파일.md",
     "Excalidraw/Drawing 2024-09-30 13.38.06.excalidraw.md",
     "Excalidraw",
-    "기술 면접 공부/빅오표기법.md",
     "01.SiteSettings/Files/Pasted image 20240930102845.png",
-    "기술 면접 공부/오버로딩과 오버라이딩 차이.md",
-    "기술 면접 공부/해시테이블 딕셔너리 차이.md",
-    "기술 면접 공부/UGUI.md",
-    "기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md",
-    "회사 분석/슈퍼센트.md",
-    "기술 면접 공부/클래스와 구조체 차이.md",
-    "기술 면접 공부/큐 스택.md",
-    "기술 면접 공부/코루틴과 유니테스크의 차이.md",
-    "기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
-    "기술 면접 공부/전역변수 지역변수 차이.md",
-    "기술 면접 공부/인터페이스와 추상클래스의 차이.md",
-    "기술 면접 공부/사용한 디자인 패턴 뭐 있는지 TODO.md",
+    "01.SiteSettings/Files/Diagram.svg.xml",
+    "01.SiteSettings/Files/Diagram.svg",
+    "01.SiteSettings/Files/Diagram 1.svg.xml",
+    "01.SiteSettings/Files/Diagram 1.svg",
     "기술 면접 공부/박싱 언박싱.md",
-    "기술 면접 공부/다형성.md",
-    "기술 면접 공부/객체지향 특징 4가지.md",
-    "기술 면접 공부/객체지향 설계의 5원칙 SOLID.md",
-    "기술 면접 공부/SQL VS NOSQL.md",
-    "기술 면접 공부/LIST.md",
-    "기술 면접 공부",
-    "개인공부",
-    "TO DO",
-    "회사 분석",
-    "코드구조분석",
-    "이것저것LinkMemo",
+    "기술 면접 공부/면접 질문 총괄 PDF.md",
+    "개인공부/렌더링 파이프라인.md",
+    "기술 면접 공부/UGUI.md",
+    "기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
+    "이것저것LinkMemo/Link.md",
+    "회사 분석/슈퍼센트.md",
+    "Project/2D 개인 - MixMaster 모작.md",
+    "Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
+    "Project/3D 팀 - 쿠키런 모험의탑 모작.md",
+    "Project/3D 개인 - MixMaster 네트워크 프로젝트.md",
+    "Project/3D 팀 - 태그게임(미니합반).md",
+    "다양한예제/Singleton.md",
+    "다양한예제/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md",
+    "다양한예제/상태머신.md",
+    "개인공부/코드규칙.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "디자인패턴/MVVM.canvas",
-    "01.SiteSettings/Files/녹화_2024_08_20_01_02_20_662.gif",
-    "01.SiteSettings/Files/test_0.svg",
-    "01.SiteSettings/Files/test.svg",
-    "01.SiteSettings/Files/image.png",
-    "01.SiteSettings/Files/ffff.svg",
-    "01.SiteSettings/Files/Pasted image 20240927153408.png",
-    "03.Unity/Study/디자인패턴/MVVM.canvas",
+    "01.SiteSettings/Files/statemachine/PlayerStateMachine.cs",
+    "01.SiteSettings/Files/statemachine/PlayerState.cs",
+    "01.SiteSettings/Files/statemachine/PlayerMoveState.cs",
+    "01.SiteSettings/Files/statemachine/PlayerIdleState.cs",
+    "01.SiteSettings/Files/statemachine/Player.cs",
+    "01.SiteSettings/Files/statemachine",
+    "회사 분석",
     "03.Unity/무제 파일.canvas",
     "03.Unity/자료구조/무제 파일.canvas",
+    "무제 파일.canvas",
     "Untitled.canvas",
     "무제 파일 1.canvas",
     "Unity/무제 파일.canvas"

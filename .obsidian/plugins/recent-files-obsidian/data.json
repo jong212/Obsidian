@@ -1,56 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "선택 정렬",
-      "path": "알고리즘/선택 정렬.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
-    },
-    {
-      "basename": "Diagram 1",
-      "path": "01.SiteSettings/Files/Diagram 1.svg"
-    },
-    {
-      "basename": "Diagram",
-      "path": "01.SiteSettings/Files/Diagram.svg"
-    },
-    {
-      "basename": "Home",
-      "path": "01.SiteSettings/Home.md"
-    },
-    {
-      "basename": "240429_mixmaster_기술문서_안종화_1차 완료",
-      "path": "01.SiteSettings/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf"
-    },
-    {
       "basename": "면접 질문 총괄 PDF",
       "path": "기술 면접 공부/면접 질문 총괄 PDF.md"
     },
     {
-      "basename": "Drawing 2024-09-30 13.38.06.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-30 13.38.06.excalidraw.md"
+      "basename": "버블정렬",
+      "path": "알고리즘/버블정렬.md"
+    },
+    {
+      "basename": "선택 정렬",
+      "path": "알고리즘/선택 정렬.md"
+    },
+    {
+      "basename": "삽입정렬",
+      "path": "알고리즘/삽입정렬.md"
+    },
+    {
+      "basename": "MVC (모델 뷰 컨트롤러)",
+      "path": "디자인패턴/MVC (모델 뷰 컨트롤러).md"
+    },
+    {
+      "basename": "Astar",
+      "path": "알고리즘/Astar.md"
     },
     {
       "basename": "빅오표기법",
       "path": "기술 면접 공부/빅오표기법.md"
     },
     {
-      "basename": "오버로딩과 오버라이딩 차이",
-      "path": "기술 면접 공부/오버로딩과 오버라이딩 차이.md"
+      "basename": "Home",
+      "path": "01.SiteSettings/Home.md"
     },
     {
-      "basename": "해시테이블 딕셔너리 차이",
-      "path": "기술 면접 공부/해시테이블 딕셔너리 차이.md"
+      "basename": "박싱 언박싱",
+      "path": "기술 면접 공부/박싱 언박싱.md"
+    },
+    {
+      "basename": "렌더링 파이프라인",
+      "path": "개인공부/렌더링 파이프라인.md"
+    },
+    {
+      "basename": "정적 바인딩 vs 동적바인딩",
+      "path": "기술 면접 공부/정적 바인딩 vs 동적바인딩.md"
+    },
+    {
+      "basename": "Link",
+      "path": "이것저것LinkMemo/Link.md"
+    },
+    {
+      "basename": "슈퍼센트",
+      "path": "회사 분석/슈퍼센트.md"
+    },
+    {
+      "basename": "2D 개인 - MixMaster 모작",
+      "path": "Project/2D 개인 - MixMaster 모작.md"
+    },
+    {
+      "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
+      "path": "Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
+    },
+    {
+      "basename": "3D 팀 - 쿠키런 모험의탑 모작",
+      "path": "Project/3D 팀 - 쿠키런 모험의탑 모작.md"
+    },
+    {
+      "basename": "3D 개인 - MixMaster 네트워크 프로젝트",
+      "path": "Project/3D 개인 - MixMaster 네트워크 프로젝트.md"
+    },
+    {
+      "basename": "3D 팀 - 태그게임(미니합반)",
+      "path": "Project/3D 팀 - 태그게임(미니합반).md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "다양한예제/Singleton.md"
+    },
+    {
+      "basename": "Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능",
+      "path": "다양한예제/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md"
+    },
+    {
+      "basename": "상태머신",
+      "path": "다양한예제/상태머신.md"
+    },
+    {
+      "basename": "코드규칙",
+      "path": "개인공부/코드규칙.md"
+    },
+    {
+      "basename": "플레이어가 집기를 누를 때 상호작용이 가능한지 여부를 순회하는 과정",
+      "path": "코드구조분석/플레이어가 집기를 누를 때 상호작용이 가능한지 여부를 순회하는 과정.md"
+    },
+    {
+      "basename": "다형성",
+      "path": "기술 면접 공부/다형성.md"
+    },
+    {
+      "basename": "클래스와 구조체 차이",
+      "path": "기술 면접 공부/클래스와 구조체 차이.md"
     },
     {
       "basename": "메모리 구조 - 스택과 힙 파헤치기",
       "path": "기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md"
     },
     {
-      "basename": "슈퍼센트",
-      "path": "회사 분석/슈퍼센트.md"
+      "basename": "전역변수 지역변수 차이",
+      "path": "기술 면접 공부/전역변수 지역변수 차이.md"
+    },
+    {
+      "basename": "사용한 디자인 패턴 뭐 있는지 TODO",
+      "path": "기술 면접 공부/사용한 디자인 패턴 뭐 있는지 TODO.md"
+    },
+    {
+      "basename": "LIST",
+      "path": "기술 면접 공부/LIST.md"
+    },
+    {
+      "basename": "SQL VS NOSQL",
+      "path": "기술 면접 공부/SQL VS NOSQL.md"
+    },
+    {
+      "basename": "Awake Start 차이",
+      "path": "기술 면접 공부/Awake Start 차이.md"
+    },
+    {
+      "basename": "큐 스택",
+      "path": "기술 면접 공부/큐 스택.md"
+    },
+    {
+      "basename": "자료구조 - MOC",
+      "path": "01.SiteSettings/MOC/자료구조 - MOC.md"
+    },
+    {
+      "basename": "기초 - MOC",
+      "path": "01.SiteSettings/MOC/기초 - MOC.md"
+    },
+    {
+      "basename": "규칙 - MOC",
+      "path": "01.SiteSettings/MOC/규칙 - MOC.md"
+    },
+    {
+      "basename": "Github Tip Address",
+      "path": "Git/Github Tip Address.md"
+    },
+    {
+      "basename": "이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법",
+      "path": "Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md"
+    },
+    {
+      "basename": "정리",
+      "path": "01.SiteSettings/Template/정리.md"
+    },
+    {
+      "basename": "명언",
+      "path": "01.SiteSettings/01.Memo/명언.md"
+    },
+    {
+      "basename": "파인만 학습법",
+      "path": "01.SiteSettings/01.Memo/파인만 학습법.md"
+    },
+    {
+      "basename": "2D 개인 - CatchMind (서버,모작)",
+      "path": "Project/2D 개인 - CatchMind (서버,모작).md"
+    },
+    {
+      "basename": "자료구조란",
+      "path": "TO DO/자료구조란.md"
+    },
+    {
+      "basename": "제네릭",
+      "path": "TO DO/제네릭.md"
+    },
+    {
+      "basename": "List, ArrayList, LinkedList",
+      "path": "TO DO/List, ArrayList, LinkedList.md"
+    },
+    {
+      "basename": "MVP",
+      "path": "TO DO/MVP.md"
+    },
+    {
+      "basename": "MVVM",
+      "path": "디자인패턴/MVVM.md"
+    },
+    {
+      "basename": "MVVM",
+      "path": "디자인패턴/MVVM.canvas"
+    },
+    {
+      "basename": "Observer pattern",
+      "path": "디자인패턴/Observer pattern.md"
+    },
+    {
+      "basename": "객체지향 설계의 5원칙 SOLID",
+      "path": "기술 면접 공부/객체지향 설계의 5원칙 SOLID.md"
+    },
+    {
+      "basename": "객체지향 특징 4가지",
+      "path": "기술 면접 공부/객체지향 특징 4가지.md"
     }
   ],
   "omittedPaths": []
