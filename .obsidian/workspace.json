@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "81e6c6eeead7a3b7",
+        "id": "244e2ba3dd7b10d4",
         "type": "tabs",
         "children": [
           {
-            "id": "973216ca4dd51031",
+            "id": "f67ae722fc9900ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기술 면접 공부/면접 질문 총괄 PDF.md",
+                "file": "개인공부/개인공부 삭제 ㄴ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 203.5
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "기술 면접 공부/면접 질문 총괄 PDF.md",
+                "file": "개인공부/개인공부 삭제 ㄴ.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기술 면접 공부/면접 질문 총괄 PDF.md",
+                "file": "개인공부/개인공부 삭제 ㄴ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기술 면접 공부/면접 질문 총괄 PDF.md",
+                "file": "개인공부/개인공부 삭제 ㄴ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기술 면접 공부/면접 질문 총괄 PDF.md"
+                "file": "개인공부/개인공부 삭제 ㄴ.md"
               }
             }
           },
@@ -268,13 +268,17 @@
       "publish:변경사항 출판": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "973216ca4dd51031",
+  "active": "f67ae722fc9900ba",
   "lastOpenFiles": [
+    "01.SiteSettings/Files/Diagram 2.svg.xml",
+    "01.SiteSettings/Files/Diagram 2.svg",
+    "01.SiteSettings/Home.md",
+    "개인공부/개인공부 삭제 ㄴ.md",
+    "기술 면접 공부/면접 질문 총괄 PDF.md",
     "알고리즘/버블정렬.md",
     "알고리즘/선택 정렬.md",
     "알고리즘/삽입정렬.md",
@@ -287,7 +291,6 @@
     "01.SiteSettings/Files/Pasted image 20241001134058.png",
     "01.SiteSettings/Files/Pasted image 20241001134025.png",
     "기술 면접 공부/빅오표기법.md",
-    "01.SiteSettings/Home.md",
     "무제 파일.md",
     "Excalidraw/Drawing 2024-09-30 13.38.06.excalidraw.md",
     "Excalidraw",
@@ -297,7 +300,6 @@
     "01.SiteSettings/Files/Diagram 1.svg.xml",
     "01.SiteSettings/Files/Diagram 1.svg",
     "기술 면접 공부/박싱 언박싱.md",
-    "기술 면접 공부/면접 질문 총괄 PDF.md",
     "개인공부/렌더링 파이프라인.md",
     "기술 면접 공부/UGUI.md",
     "기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
@@ -311,8 +313,6 @@
     "다양한예제/Singleton.md",
     "다양한예제/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md",
     "다양한예제/상태머신.md",
-    "개인공부/코드규칙.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "디자인패턴/MVVM.canvas",
     "01.SiteSettings/Files/statemachine/PlayerStateMachine.cs",
     "01.SiteSettings/Files/statemachine/PlayerState.cs",

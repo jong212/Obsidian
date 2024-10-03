@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "개인공부 삭제 ㄴ",
+      "path": "개인공부/개인공부 삭제 ㄴ.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01.SiteSettings/Home.md"
+    },
+    {
       "basename": "면접 질문 총괄 PDF",
       "path": "기술 면접 공부/면접 질문 총괄 PDF.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "빅오표기법",
       "path": "기술 면접 공부/빅오표기법.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01.SiteSettings/Home.md"
     },
     {
       "basename": "박싱 언박싱",
@@ -195,10 +199,6 @@
     {
       "basename": "객체지향 설계의 5원칙 SOLID",
       "path": "기술 면접 공부/객체지향 설계의 5원칙 SOLID.md"
-    },
-    {
-      "basename": "객체지향 특징 4가지",
-      "path": "기술 면접 공부/객체지향 특징 4가지.md"
     }
   ],
   "omittedPaths": []
