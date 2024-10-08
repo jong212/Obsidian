@@ -3,14 +3,14 @@
   "homepages": {
     "Main Homepage": {
       "value": "01.SiteSettings/Home",
-      "kind": "File",
+      "kind": "Graph view",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
-      "view": "Reading view",
+      "view": "Default view",
       "revertView": true,
       "openWhenEmpty": true,
-      "refreshDataview": false,
+      "refreshDataview": true,
       "autoCreate": false,
       "autoScroll": false,
       "pin": false,
