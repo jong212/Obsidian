@@ -9,28 +9,8 @@
       "path": "Project/3D 개인 - MixMaster 네트워크 프로젝트.md"
     },
     {
-      "basename": "2D 개인 - CatchMind (서버,모작)",
-      "path": "Project/2D 개인 - CatchMind (서버,모작).md"
-    },
-    {
-      "basename": "2D 개인 - MixMaster 모작",
-      "path": "Project/2D 개인 - MixMaster 모작.md"
-    },
-    {
-      "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
-      "path": "개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
-    },
-    {
-      "basename": "데이터드리븐",
-      "path": "개인공부/데이터드리븐.md"
-    },
-    {
-      "basename": "MVVM",
-      "path": "디자인패턴/MVVM.md"
-    },
-    {
-      "basename": "MVC (모델 뷰 컨트롤러)",
-      "path": "디자인패턴/MVC (모델 뷰 컨트롤러).md"
+      "basename": "Home",
+      "path": "01.SiteSettings/Home.md"
     },
     {
       "basename": "회전과 방향벡터",
@@ -53,10 +33,6 @@
       "path": "01.SiteSettings/Template/Unity Project.md"
     },
     {
-      "basename": "Home",
-      "path": "01.SiteSettings/Home.md"
-    },
-    {
       "basename": "슈퍼센트",
       "path": "회사 분석/슈퍼센트.md"
     },
@@ -71,6 +47,10 @@
     {
       "basename": "버블정렬",
       "path": "알고리즘/버블정렬.md"
+    },
+    {
+      "basename": "MVC (모델 뷰 컨트롤러)",
+      "path": "디자인패턴/MVC (모델 뷰 컨트롤러).md"
     },
     {
       "basename": "Astar",
@@ -91,6 +71,10 @@
     {
       "basename": "Link",
       "path": "이것저것LinkMemo/Link.md"
+    },
+    {
+      "basename": "2D 개인 - MixMaster 모작",
+      "path": "Project/2D 개인 - MixMaster 모작.md"
     },
     {
       "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
@@ -193,12 +177,24 @@
       "path": "01.SiteSettings/01.Memo/파인만 학습법.md"
     },
     {
+      "basename": "2D 개인 - CatchMind (서버,모작)",
+      "path": "Project/2D 개인 - CatchMind (서버,모작).md"
+    },
+    {
       "basename": "자료구조란",
       "path": "TO DO/자료구조란.md"
     },
     {
       "basename": "제네릭",
       "path": "TO DO/제네릭.md"
+    },
+    {
+      "basename": "List, ArrayList, LinkedList",
+      "path": "TO DO/List, ArrayList, LinkedList.md"
+    },
+    {
+      "basename": "MVP",
+      "path": "TO DO/MVP.md"
     }
   ],
   "omittedPaths": []
