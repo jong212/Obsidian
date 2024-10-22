@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "객체지향 설계의 5원칙 SOLID",
+      "path": "기술 면접 공부/객체지향 설계의 5원칙 SOLID.md"
+    },
+    {
+      "basename": "옵시디언 관련 유튜브 영상",
+      "path": "01.SiteSettings/00.Guide/옵시디언 관련 유튜브 영상.md"
+    },
+    {
+      "basename": "Guide 문서",
+      "path": "01.SiteSettings/00.Guide/Guide 문서.md"
+    },
+    {
+      "basename": "클래스와 구조체 차이",
+      "path": "기술 면접 공부/클래스와 구조체 차이.md"
+    },
+    {
       "basename": "개인공부 삭제 ㄴ",
       "path": "개인공부/개인공부 삭제 ㄴ.md"
     },
@@ -113,10 +129,6 @@
       "path": "기술 면접 공부/다형성.md"
     },
     {
-      "basename": "클래스와 구조체 차이",
-      "path": "기술 면접 공부/클래스와 구조체 차이.md"
-    },
-    {
       "basename": "메모리 구조 - 스택과 힙 파헤치기",
       "path": "기술 면접 공부/메모리 구조 - 스택과 힙 파헤치기.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "제네릭",
       "path": "TO DO/제네릭.md"
-    },
-    {
-      "basename": "List, ArrayList, LinkedList",
-      "path": "TO DO/List, ArrayList, LinkedList.md"
-    },
-    {
-      "basename": "MVP",
-      "path": "TO DO/MVP.md"
     }
   ],
   "omittedPaths": []

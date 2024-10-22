@@ -3,7 +3,8 @@
 | 공부목적  |                                                                                             |
 | 느낀점   |                                                                                             |
 | 참고사이트 | https://www.youtube.com/watch?v=iyeRmq24HVk&list=PL412Ym60h6ut9NcbAIfzVgyy5F4O22oSq&index=7 |
-## SOLID 원칙이란
+## <center>SOLID 원칙</center>
+### SOLID 원칙이 뭘까?
 객체지향 설계에서 지켜줘야 할 5개의 소프트웨어 개발 원칙( **S**RP, **O**CP, **L**SP, **I**SP, **D**IP )을 말한다.
 - **S**RP(Single Responsibility Principle): 단일 책임 원칙
 - **O**CP(Open Closed Priciple): 개방 폐쇄 원칙
@@ -12,47 +13,12 @@
 - **D**IP(Dependency Inversion Principle): 의존 역전 원칙
 
 ### 1. 단일 책임원칙 
-![[Pasted image 20240818211343.png|500]]
-예를들어 Audio Source는 오디오와 관련 된 기능만 담당 한다던가 MeshRenderer 는 메시와 관련 된 기능을 한다던가 이런식으로 모든 클래스는 하나의 책임만을 가져야 한다는 게 단일 책임 원칙이다 메시렌더러인데 오디오를 출력한다던가 이런 게 단일 책임원칙을 위배하는 것이다
-> [!NOTE]- 단일 책임 원칙을 위배 하는 예시
-> 단일 책임 원칙을 지키지 않는 경우, 클래스가 여러 가지 일을 동시에 하려고 합니다. 예를 들어, 플레이어의 이동과 데이터를 저장하는 기능을 하나의 클래스가 모두 처리하는 경우입니다.
-> ```csharp 
-> using UnityEngine;
-> 
-> public class PlayerController : MonoBehaviour
-> {
->     public float speed = 5f;
->     
->     // Update 함수에서 이동 및 데이터 저장 모두 수행
->     void Update()
->     {
->         // 플레이어 이동 처리
->         float moveHorizontal = Input.GetAxis("Horizontal");
->         float moveVertical = Input.GetAxis("Vertical");
-> 
->         Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
->         transform.Translate(movement * speed * Time.deltaTime);
-> 
->         // 데이터 저장 처리
->         if (Input.GetKeyDown(KeyCode.S))
->         {
->             SavePlayerData();
->         }
->     }
-> 
->     // 데이터를 저장하는 함수
->     void SavePlayerData()
->     {
->         PlayerPrefs.SetFloat("PlayerX", transform.position.x);
->         PlayerPrefs.SetFloat("PlayerY", transform.position.y);
->         PlayerPrefs.SetFloat("PlayerZ", transform.position.z);
->         Debug.Log("Player Data Saved");
->     }
-> }
-> 
-> ```
+* 하나의 클래스는 하나의 목적을 위해  생성한다.
 
-> [!NOTE]- 단일 책임 원칙을 잘 지킨 예시
+예를들어 Audio Source는 오디오와 관련 된 기능만 담당 한다던가 MeshRenderer 는 메시와 관련 된 기능을 한다던가 이런식으로 모든 클래스는 하나의 책임만을 가져야 한다는 게 단일 책임 원칙이다 메시렌더러인데 오디오를 출력한다던가 이런 게 단일 책임원칙을 위배하는 것이다
+![[Pasted image 20240818211343.png|500]]
+
+> [!Tip]- 단일 책임 원칙을 잘 지킨 예시
 > 클래스는 하나의 책임만 가집니다. 이동과 데이터 저장이 분리되어 있으므로, 각각의 클래스가 독립적으로 변경될 수 있고, 유지보수와 확장이 용이해집니다. 예를 들어, 데이터를 저장하는 방식(예: 클라우드 저장으로 변경)이 달라지더라도 `PlayerMovement` 클래스는 변경할 필요가 없습니다.
 > ``` csharp
 > using UnityEngine;
@@ -101,37 +67,50 @@
 > 
 > ```
 
+> [!Warning]- 단일 책임 원칙을 위배 하는 예시
+> 단일 책임 원칙을 지키지 않는 경우, 클래스가 여러 가지 일을 동시에 하려고 합니다. 예를 들어, 플레이어의 이동과 데이터를 저장하는 기능을 하나의 클래스가 모두 처리하는 경우입니다.
+> ```csharp 
+> using UnityEngine;
+> 
+> public class PlayerController : MonoBehaviour
+> {
+>     public float speed = 5f;
+>     
+>     // Update 함수에서 이동 및 데이터 저장 모두 수행
+>     void Update()
+>     {
+>         // 플레이어 이동 처리
+>         float moveHorizontal = Input.GetAxis("Horizontal");
+>         float moveVertical = Input.GetAxis("Vertical");
+> 
+>         Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
+>         transform.Translate(movement * speed * Time.deltaTime);
+> 
+>         // 데이터 저장 처리
+>         if (Input.GetKeyDown(KeyCode.S))
+>         {
+>             SavePlayerData();
+>         }
+>     }
+> 
+>     // 데이터를 저장하는 함수
+>     void SavePlayerData()
+>     {
+>         PlayerPrefs.SetFloat("PlayerX", transform.position.x);
+>         PlayerPrefs.SetFloat("PlayerY", transform.position.y);
+>         PlayerPrefs.SetFloat("PlayerZ", transform.position.z);
+>         Debug.Log("Player Data Saved");
+>     }
+> } 
+> ```
+　
 ### 2. 개방폐쇄원칙
-개방-폐쇄 원칙은 SOLID 원칙 중 하나로, "확장에는 열려 있고, 수정에는 닫혀 있어야 한다"는 원칙입니다. 
+* 개방-폐쇄 원칙은 SOLID 원칙 중 하나로, =="확장에는 열려 있고, 수정에는 닫혀 있어야 한다"는 원칙==입니다. 
 
 이 원칙은 객체 지향 설계에서 매우 중요한 개념으로, 기존의 코드를 수정하지 않고 새로운 기능을 추가할 수 있도록 설계해야 한다는 뜻입니다.
 ![[Pasted image 20240818215023.png|500]]
-> [!NOTE]- 개방폐쇄 원칙을 치키지 않은  경우
-> 아래 예시는 개방-폐쇄 원칙을 지키지 않은 코드입니다. 새로운 무기 유형을 추가할 때마다 기존 코드를 수정해야 합니다.
-> ``` csharp
-> using UnityEngine;
-> 
-> public class Player : MonoBehaviour
-> {
->     public void Attack(string weaponType)
->     {
->         if (weaponType == "Sword")
->         {
->             Debug.Log("Attack with Sword!");
->         }
->         else if (weaponType == "Bow")
->         {
->             Debug.Log("Attack with Bow!");
->         }
->         else if (weaponType == "Magic")
->         {
->             Debug.Log("Attack with Magic!");
->         }
->     }
-> }
-> ```
 
-> [!NOTE]- 개방폐쇄 원칙을 지킨경우
+> [!Tip]- 개방폐쇄 원칙을 지킨경우
 > 
 **확장에는 열려 있음**: 새로운 무기 유형을 추가하고 싶다면, 단순히 새로운 무기 클래스를 작성하고 `IWeapon` 인터페이스를 구현하면 됩니다. 기존의 `Player` 클래스는 수정할 필요가 없습니다.
 예시로 `Gun` 무기를 추가할 때는 다음과 같이 구현할 수 있습니다:
@@ -230,8 +209,54 @@
 > ```
 > 
 
+> [!Warning]- 개방폐쇄 원칙을 치키지 않은  경우
+> 아래 예시는 개방-폐쇄 원칙을 지키지 않은 코드입니다. 새로운 무기 유형을 추가할 때마다 기존 코드를 수정해야 합니다.
+> ``` csharp
+> using UnityEngine;
+> 
+> public class Player : MonoBehaviour
+> {
+>     public void Attack(string weaponType)
+>     {
+>         if (weaponType == "Sword")
+>         {
+>             Debug.Log("Attack with Sword!");
+>         }
+>         else if (weaponType == "Bow")
+>         {
+>             Debug.Log("Attack with Bow!");
+>         }
+>         else if (weaponType == "Magic")
+>         {
+>             Debug.Log("Attack with Magic!");
+>         }
+>     }
+> }
+> ```
+　
 ### 3. 리스코프 치환 원칙
-> [!NOTE]- 리스코프 치환  원칙을 준수한 케이스 
+- 서브 타입(상속받은 하위 클래스)은 어디서나 자신의 기반 타입(상위 클래스)으로 교체할 수 있어야 한다.
+
+즉, 자식 클래스의 공통된 기능들만 부모 클래스에 작성하라는 말이다.
+
+예를들어 자동차, 기차 클래스가 각각 있다고 했을 때 둘의 공통점은 탈 것이다 
+그리하여 기반 클래스를 Vehicle로 하고 메드를 아래와 같이 선언 한다면 어떻게 될까?
+![[Pasted image 20240819010257.png|500]]
+
+자동차 클래스에서는 기반 클래스에서 상속받은 앞 뒤 좌 우 메서드를 다 사용할 수 있겠지만 
+기차 클래스에서는 앞으로 전진만 가능하기 때문에 아래와 같이 불 필요한 메서드가 생기기 마련이다
+
+기반 클래스의 모든 메서드를 사용하지 않는(무력화) 상황은 리스코프치환원칙에 위반 된다
+![[Pasted image 20240819010430.png|500]]
+
+이럴 땐 ==인터페이스를== 사용해야한다 
+
+앞,뒤 를 묶는 인터페이스와 좌,우를 묶는 인터페이스 이렇게 나누고 필요한 인터페이스만 아래와 같이 적용하면 된다.
+
+인터페이스는 여러개 상속 가능한 장점이 있다.
+![[Pasted image 20240819010553.png|500]]
+
+> [!Tip]- 리스코프 치환  원칙을 준수한 케이스 
 > 
 > 
 > 리스코프 치환 원칙(Liskov Substitution Principle, LSP)은 객체 지향 프로그래밍의 SOLID 원칙 중 하나로, "서브 클래스는 반드시 자신의 기반 클래스에서 정의된 기능을 수행할 수 있어야 한다"는 원칙입니다. 이를 준수하려면 서브 클래스가 기반 클래스의 행동을 변경하거나 깨지 않도록 해야 합니다.
@@ -309,7 +334,7 @@
 > 
 > 이러한 예시를 통해 유니티에서 리스코프 치환 원칙을 준수하는 코드를 작성할 수 있습니다.
 
-> [!NOTE]- LSP를 준수하지 않는 예시 
+> [!Warning]- LSP를 준수하지 않는 예시 
 > 리스코프 치환 원칙(LSP)을 준수하지 않는 예시에서는 서브 클래스가 기반 클래스의 동작을 변경하거나 깨트리는 경우가 발생합니다. 이러한 경우, 서브 클래스는 기반 클래스와 교체될 수 없으며, 예상치 못한 행동이 발생하게 됩니다.
 > #### 1. 기반 클래스 예시: `Enemy.cs`
 > 
@@ -384,22 +409,42 @@
 > 3. **예외 발생**: 서브 클래스가 기반 클래스의 기대와 다른 동작을 하여 예외를 던지면, 안전한 객체 치환이 불가능해집니다.
 > 
 > 이러한 방식으로 리스코프 치환 원칙을 준수하지 않는 경우, 코드가 불안정해지며 유지보수와 확장이 어려워질 수 있습니다.
-
-**리스코프 치환 원칙을 잘 준수하는 방법**
-예를들어 자동차, 기차 클래스가 각각 있다고 했을 때 둘의 공통점은 탈 것이다 
-그리하여 기반 클래스를 Vehicle로 하고 메드를 아래와 같이 선언 한다면 어떻게 될까?
-![[Pasted image 20240819010257.png|500]]
-자동차 클래스에서는 기반 클래스에서 상속받은 앞 뒤 좌 우 메서드를 다 사용할 수 있겠지만 
-기차 클래스에서는 앞으로 전진만 가능하기 때문에 아래와 같이 불 필요한 메서드가 생기기 마련이다
-기반 클래스의 모든 메서드를 사용하지 않는(무력화) 상황은 리스코프치환원칙에 위반 된다
-![[Pasted image 20240819010430.png|500]]
-이럴 땐 ==인터페이스를== 사용해야한다 
-앞,뒤 를 묶는 인터페이스와 좌,우를 묶는 인터페이스 이렇게 나누고 필요한 인터페이스만 아래와 같이 적용하면 된다.
-인터페이스는 여러개 상속 가능한 장점이 있다.
-![[Pasted image 20240819010553.png|500]]
+　
 ### 4.인터페이스 분리 원칙
 유닛을 만든다고 했을 때 아래와 같이 인터페이스 하나에 기능을 몰빵하면 안 됨
 ![[Pasted image 20240819011505.png|500]]
 아래와 같이 큰 카테고리 별로 인터페이스를 나누는 게 좋음
 ![[Pasted image 20240819010834.png|800]]
 
+### 5. 의존성 역전의 원칙 (DIP: Dependency Inversion Principle)
+
+- 실제 사용 관계는 바뀌지 않으며, 추상을 매개로 메시지를 주고받음으로써 관계를 최대한 느슨하게 만든다.
+
+즉, 클래스를 직접 참조해 구현하지말고 상위 요소를 참조하라는 말이다.
+
+예를들어, 문을 여는 스위치를 구현한다고 해보자.
+
+![](https://blog.kakaocdn.net/dn/cIBuua/btsHBXm27aC/SEuKh13SKv3vMGDHxmZ1D0/img.png)
+
+위 사진 처럼 Switch를 구현했을 때, 전등 On/Off 하는 기능을 추가해야 한다면 ? 
+
+Switch 클래스에 Light 클래스를 연결하고 Toggle함수를 수정해야된다.
+
+이 말은 스위치 기능에서  Switch 클래스의 의존성 높아진다는 의미이다.
+
+DIP는 의존성을 Switch 클래스가 아닌 각각의 기능 클래스로 역전시킨다는 의미라고 생각하면된다.
+
+![](https://blog.kakaocdn.net/dn/dMHwqo/btsHCvcnjWt/6Y96E4CJHELHr7U1OOJXF1/img.png)![](https://blog.kakaocdn.net/dn/ej4v6Q/btsHBhs4mgE/QrEIB4Mx10F75XnIMZKq6k/img.png)
+
+Interface를 활용하여 기능이 추가되도 Switch 클래스는 수정없이 스크립트만 추가하면되도록 구현할 수 있다.
+
+앞에서 설명한 4가지의 원칙보다 DIP가 예제처럼 확실한 상황이 아닐 확률이 높기 때문에 가장 사용하기 어렵다고 생각한다.
+
+*** 
+### **글을 마치며**
+
+이렇게 SOLID 원칙에 대해 유니티 프로젝트를 예로 설명해봤다.
+
+실무에서는 SOLID 원칙에 대해 생각하면서 코딩을 하지 않고, 이미 몸에 베어져 있기 때문에 코드를 작성하면 SOLID 원칙을 지키는 코드를 작성한다고 한다.
+
+앞으로 코드를 작성하면서 이 부분에 대해 계속 고민하면서 코드를 작성해야겠다.

@@ -5,7 +5,6 @@
   "dataview",
   "table-editor-obsidian",
   "graph-analysis",
-  "obsidian-git",
   "better-export-pdf",
   "code-styler",
   "editing-toolbar",
@@ -14,5 +13,6 @@
   "obsidian-plugin-update-tracker",
   "recent-files-obsidian",
   "homepage",
-  "obsidian-diagrams-net"
+  "obsidian-diagrams-net",
+  "obsidian-git"
 ]
