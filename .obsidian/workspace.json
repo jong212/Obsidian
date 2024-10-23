@@ -53,13 +53,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "메모/파인만 학습법.md",
+                "file": "Others/Template/Update Publish Files.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "파인만 학습법"
+              "title": "Update Publish Files"
             }
           },
           {
@@ -409,9 +409,12 @@
   },
   "active": "04efed7e5bfd959f",
   "lastOpenFiles": [
+    "Home.md",
+    "Others/Template/Update Publish Files.md",
+    "01.프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
+    "메모/파인만 학습법.md",
     "01.프로젝트 모음/3D 개인 - MixMaster 네트워크 프로젝트.md",
     "02.개인공부/Z 개인공부 삭제 ㄴ.md",
-    "01.프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
     "01.프로젝트 모음/2D 개인 - MixMaster 모작.md",
     "01.프로젝트 모음/2D 개인 - CatchMind (서버,모작).md",
     "02.개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
@@ -436,11 +439,8 @@
     "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md",
     "02.개인공부/객체지향.md",
     "Others/Template/정리.md",
-    "Home.md",
     "00.DailyNote/2024-09-27(금).md",
     "무제 파일.md",
-    "00.DailyNote/2024-10-23.md",
-    "메모/명언.md",
     "메모",
     "Home",
     "Others/Files/Pasted image 20241023124435.png",

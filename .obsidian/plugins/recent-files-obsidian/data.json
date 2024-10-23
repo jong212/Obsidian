@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Update Publish Files",
+      "path": "Others/Template/Update Publish Files.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
+      "path": "01.프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
+    },
+    {
       "basename": "파인만 학습법",
       "path": "메모/파인만 학습법.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Z 개인공부 삭제 ㄴ",
       "path": "02.개인공부/Z 개인공부 삭제 ㄴ.md"
-    },
-    {
-      "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
-      "path": "01.프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
     },
     {
       "basename": "2D 개인 - MixMaster 모작",
@@ -87,10 +95,6 @@
     {
       "basename": "정리",
       "path": "Others/Template/정리.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "2024-09-27(금)",
@@ -195,10 +199,6 @@
     {
       "basename": "정적 바인딩 vs 동적바인딩",
       "path": "02.개인공부/정적 바인딩 vs 동적바인딩.md"
-    },
-    {
-      "basename": "3D 팀 - 쿠키런 모험의탑 모작",
-      "path": "01.프로젝트 모음/3D 팀 - 쿠키런 모험의탑 모작.md"
     }
   ],
   "omittedPaths": []
