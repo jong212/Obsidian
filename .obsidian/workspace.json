@@ -53,13 +53,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사 분석/면접 질문 총괄 PDF.md",
+                "file": "02.개인공부/박싱 언박싱.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "면접 질문 총괄 PDF"
+              "title": "박싱 언박싱"
             }
           },
           {
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 226.5,
+    "collapsed": true
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -193,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "회사 분석/면접 질문 총괄 PDF.md",
+                "file": "02.개인공부/박싱 언박싱.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,7 +258,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "면접 질문 총괄 PDF 그래프"
+              "title": "박싱 언박싱 그래프"
             }
           },
           {
@@ -396,10 +397,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fe4f92a1da251813",
+  "active": "04efed7e5bfd959f",
   "lastOpenFiles": [
     "02.개인공부/렌더링 파이프라인.md",
     "02.개인공부/데이터드리븐.md",
+    "회사 분석/면접 질문 총괄 PDF.md",
     "02.개인공부/다형성.md",
     "02.개인공부/객체지향 특징 4가지.md",
     "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md",
@@ -426,7 +428,6 @@
     "Others/Files/Pasted image 20241023124435.png",
     "02.개인공부/오버라이드.md",
     "Others/00.MOC/기초 - MOC.md",
-    "Others/00.MOC/규칙 - MOC.md",
     "01.SiteSettings/Files/Diagram 4.svg.xml",
     "01.SiteSettings/Files/Diagram 4.svg",
     "Others/Files/Diagram 3.svg.xml",
