@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "01.SiteSettings/Template",
+  "templates_folder": "Others/Template",
   "templates_pairs": [
     [
       "",
