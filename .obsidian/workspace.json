@@ -4,25 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "08de40c13a6a9a31",
+        "id": "bc1c057d08877e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "e625f1bf204a7dae",
+            "id": "bc0b9d9d8cfdde9e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "3b05bce6e7cef577",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기술 면접 공부/객체지향 설계의 5원칙 SOLID.md",
-                "mode": "preview",
+                "file": "기술 면접 공부/다형성.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "객체지향 설계의 5원칙 SOLID"
+              "title": "다형성"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,18 +45,33 @@
       {
         "id": "a16f1400e2fc1904",
         "type": "tabs",
-        "dimension": 75.75150300601203,
+        "dimension": 73.61477572559367,
         "children": [
           {
-            "id": "93151bb6c8b2a118",
+            "id": "fe4f92a1da251813",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "a8f860bbab199fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.SiteSettings/Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           },
           {
@@ -66,7 +92,7 @@
             }
           },
           {
-            "id": "d6bc7a0f326cfd7a",
+            "id": "52b97acabaa528f0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,7 +106,7 @@
       {
         "id": "1a983c21befd67f9",
         "type": "tabs",
-        "dimension": 24.248496993987978,
+        "dimension": 26.385224274406333,
         "children": [
           {
             "id": "107ed32ad057770a",
@@ -96,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 351.5
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -112,24 +138,52 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "개인공부/개인공부 삭제 ㄴ.md",
+                "file": "기술 면접 공부/다형성.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "",
+                      "query": "tag:#basic  ",
                       "color": {
                         "a": 1,
-                        "rgb": 14701138
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#datastructure  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#DesignPattern  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#rule  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#UI  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
                       }
                     }
                   ],
@@ -138,17 +192,17 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2588386562181628,
-                  "close": true
+                  "scale": 0.7132754626224439,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "개인공부 삭제 ㄴ 그래프"
+              "title": "다형성 그래프"
             }
           },
           {
@@ -157,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인공부/개인공부 삭제 ㄴ.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +221,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "개인공부 삭제 ㄴ의 백링크"
+              "title": "Test의 백링크"
             }
           },
           {
@@ -176,12 +230,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인공부/개인공부 삭제 ㄴ.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "개인공부 삭제 ㄴ의 나가는 링크"
+              "title": "Test의 나가는 링크"
             }
           },
           {
@@ -191,7 +245,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -203,34 +257,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인공부/개인공부 삭제 ㄴ.md"
+                "file": "기술 면접 공부/객체지향 설계 원칙 5개 (SOLID).md"
               },
               "icon": "lucide-list",
-              "title": "개인공부 삭제 ㄴ 개요"
+              "title": "객체지향 설계 원칙 5개 (SOLID) 개요"
             }
           },
           {
             "id": "3fd330d4b0ff6ded",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "c9e195e66a74d83a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "a0fab28666850188",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -250,47 +284,17 @@
             }
           },
           {
-            "id": "610514d53daba3ac",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
-          },
-          {
             "id": "4e3a85e238c16322",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           },
           {
-            "id": "beb9e5a901536897",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
-          },
-          {
-            "id": "91946beb66571ada",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
-          },
-          {
-            "id": "9fb8b16e2527cb04",
+            "id": "93289e362b3d2e51",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -299,8 +303,7 @@
               "title": "Graph Analysis"
             }
           }
-        ],
-        "currentTab": 13
+        ]
       },
       {
         "id": "b99ec93446810926",
@@ -320,13 +323,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 210.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
@@ -334,62 +336,63 @@
       "publish:변경사항 출판": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
+      "graph:그래프 뷰 열기": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "9fb8b16e2527cb04",
+  "active": "3b05bce6e7cef577",
   "lastOpenFiles": [
-    "01.SiteSettings/00.Guide/옵시디언 관련 유튜브 영상.md",
-    "01.SiteSettings/00.Guide/Guide 문서.md",
-    "기술 면접 공부/객체지향 설계의 5원칙 SOLID.md",
-    "기술 면접 공부/클래스와 구조체 차이.md",
+    "기술 면접 공부/객체지향 특징 4가지.md",
+    "기술 면접 공부/다형성.md",
+    "기술 면접 공부/객체지향 설계 원칙 5개 (SOLID).md",
+    "기술 면접 공부/객체지향.md",
+    "01.SiteSettings/Template/정리.md",
+    "01.SiteSettings/Template/Daily Note.md",
+    "01.SiteSettings/Files/Pasted image 20241023124435.png",
+    "개인공부/렌더링 파이프라인.md",
+    "개인공부/오버라이드.md",
+    "01.SiteSettings/MOC/기초 - MOC.md",
+    "01.SiteSettings/MOC/규칙 - MOC.md",
+    "01.SiteSettings/MOC/UI - MOC.md",
+    "TO DO/Factory pattern - TODO.md",
+    "01.SiteSettings/MOC/방법론 - MOC.md",
+    "01.SiteSettings/MOC/자료구조 - MOC.md",
+    "01.SiteSettings/MOC/DesignPattern - MOC.md",
+    "개인공부/데이터드리븐.md",
+    "개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
+    "01.SiteSettings/Home.md",
     "개인공부/개인공부 삭제 ㄴ.md",
+    "회사 분석/스노우 파이프.md",
+    "회사 분석/슈퍼센트.md",
+    "Test.md",
+    "conflict-files-obsidian-git.md",
+    "Project/3D 팀 - 태그게임(미니합반).md",
+    "01.SiteSettings/Files/Diagram 4.svg.xml",
+    "01.SiteSettings/Files/Diagram 4.svg",
     "Project/3D 개인 - MixMaster 네트워크 프로젝트.md",
+    "Project/2D 개인 - CatchMind (서버,모작).md",
     "01.SiteSettings/Files/Diagram 3.svg.xml",
     "01.SiteSettings/Files/Diagram 3.svg",
-    "01.SiteSettings/Home.md",
-    "수학 공부/회전과 방향벡터.md",
-    "수학 공부/몬스터 오브젝트가 플레이어 방향으로 특정 길이만큼 Ray쏘는법.md",
     "수학 공부",
+    "무제 파일.canvas",
+    "graph-screenshot/graph-screenshot-2024-10-08-10-30-25.png",
+    "graph-screenshot/graph-screenshot-2024-10-08-10-27-53.png",
+    "graph-screenshot",
+    "TagsRoutes/logs",
+    "TagsRoutes",
     "01.SiteSettings/Files/Diagram 2.svg.xml",
     "01.SiteSettings/Files/Diagram 2.svg",
-    "기술 면접 공부/면접 질문 총괄 PDF.md",
-    "알고리즘/버블정렬.md",
-    "알고리즘/선택 정렬.md",
-    "알고리즘/삽입정렬.md",
     "01.SiteSettings/Files/Pasted image 20241002005119.png",
-    "디자인패턴/MVC (모델 뷰 컨트롤러).md",
-    "알고리즘/Astar.md",
     "01.SiteSettings/Files/Pasted image 20241001200511.png",
     "01.SiteSettings/Files/Pasted image 20241001140235.png",
     "01.SiteSettings/Files/Pasted image 20241001134122.png",
-    "01.SiteSettings/Files/Pasted image 20241001134058.png",
-    "01.SiteSettings/Files/Pasted image 20241001134025.png",
-    "기술 면접 공부/빅오표기법.md",
-    "무제 파일.md",
-    "Excalidraw/Drawing 2024-09-30 13.38.06.excalidraw.md",
-    "Excalidraw",
-    "01.SiteSettings/Files/Pasted image 20240930102845.png",
-    "01.SiteSettings/Files/Diagram.svg.xml",
-    "01.SiteSettings/Files/Diagram.svg",
     "01.SiteSettings/Files/Diagram 1.svg.xml",
-    "기술 면접 공부/박싱 언박싱.md",
-    "개인공부/렌더링 파이프라인.md",
-    "기술 면접 공부/UGUI.md",
-    "기술 면접 공부/정적 바인딩 vs 동적바인딩.md",
-    "이것저것LinkMemo/Link.md",
-    "회사 분석/슈퍼센트.md",
-    "Project/2D 개인 - MixMaster 모작.md",
-    "Project/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
+    "01.SiteSettings/Files/240429_mixmaster_기술문서_안종화_1차 완료.pdf",
+    "01.SiteSettings/Files/Diagram.svg.xml",
     "디자인패턴/MVVM.canvas",
-    "01.SiteSettings/Files/statemachine/PlayerStateMachine.cs",
-    "01.SiteSettings/Files/statemachine/PlayerState.cs",
-    "01.SiteSettings/Files/statemachine/PlayerMoveState.cs",
-    "01.SiteSettings/Files/statemachine/PlayerIdleState.cs",
+    "03.Unity/Study/디자인패턴/MVVM.canvas",
     "03.Unity/무제 파일.canvas",
     "03.Unity/자료구조/무제 파일.canvas",
-    "무제 파일.canvas",
     "Untitled.canvas",
     "무제 파일 1.canvas",
     "Unity/무제 파일.canvas"
