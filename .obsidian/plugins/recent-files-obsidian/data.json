@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "파인만 학습법",
+      "path": "메모/파인만 학습법.md"
+    },
+    {
+      "basename": "3D 개인 - MixMaster 네트워크 프로젝트",
+      "path": "01.프로젝트 모음/3D 개인 - MixMaster 네트워크 프로젝트.md"
+    },
+    {
+      "basename": "Z 개인공부 삭제 ㄴ",
+      "path": "02.개인공부/Z 개인공부 삭제 ㄴ.md"
+    },
+    {
+      "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
+      "path": "01.프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
+    },
+    {
+      "basename": "2D 개인 - MixMaster 모작",
+      "path": "01.프로젝트 모음/2D 개인 - MixMaster 모작.md"
+    },
+    {
+      "basename": "2D 개인 - CatchMind (서버,모작)",
+      "path": "01.프로젝트 모음/2D 개인 - CatchMind (서버,모작).md"
+    },
+    {
+      "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
+      "path": "02.개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
+    },
+    {
+      "basename": "오버라이드 @ 여기부터 아래는 알트 + E 정리 안 했음 해야함",
+      "path": "02.개인공부/오버라이드 @ 여기부터 아래는 알트 + E 정리 안 했음 해야함.md"
+    },
+    {
+      "basename": "큐 스택",
+      "path": "02.개인공부/큐 스택.md"
+    },
+    {
+      "basename": "오버로딩과 오버라이딩 차이",
+      "path": "02.개인공부/오버로딩과 오버라이딩 차이.md"
+    },
+    {
+      "basename": "스택 힙 차이 (메모리)",
+      "path": "02.개인공부/스택 힙 차이 (메모리).md"
+    },
+    {
       "basename": "박싱 언박싱",
       "path": "02.개인공부/박싱 언박싱.md"
     },
     {
       "basename": "렌더링 파이프라인",
       "path": "02.개인공부/렌더링 파이프라인.md"
+    },
+    {
+      "basename": "사용한 디자인 패턴 뭐 있는지 TODO",
+      "path": "메모/TO DO/사용한 디자인 패턴 뭐 있는지 TODO.md"
+    },
+    {
+      "basename": "빅오표기법 TO DO",
+      "path": "메모/TO DO/빅오표기법 TO DO.md"
     },
     {
       "basename": "데이터드리븐",
@@ -37,10 +89,6 @@
       "path": "Others/Template/정리.md"
     },
     {
-      "basename": "Z 개인공부 삭제 ㄴ",
-      "path": "02.개인공부/Z 개인공부 삭제 ㄴ.md"
-    },
-    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -61,20 +109,12 @@
       "path": "02.개인공부/SQL VS NOSQL.md"
     },
     {
-      "basename": "스택 힙 차이 (메모리)",
-      "path": "02.개인공부/스택 힙 차이 (메모리).md"
-    },
-    {
       "basename": "Guide 문서",
       "path": "Others/01.Guide/Guide 문서.md"
     },
     {
       "basename": "Daily Note",
       "path": "Others/Template/Daily Note.md"
-    },
-    {
-      "basename": "오버라이드",
-      "path": "02.개인공부/오버라이드.md"
     },
     {
       "basename": "기초 - MOC",
@@ -105,10 +145,6 @@
       "path": "Others/00.MOC/DesignPattern - MOC.md"
     },
     {
-      "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
-      "path": "02.개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
-    },
-    {
       "basename": "스노우 파이프",
       "path": "회사 분석/스노우 파이프.md"
     },
@@ -119,18 +155,6 @@
     {
       "basename": "3D 팀 - 태그게임(미니합반)",
       "path": "01.프로젝트 모음/3D 팀 - 태그게임(미니합반).md"
-    },
-    {
-      "basename": "3D 개인 - MixMaster 네트워크 프로젝트",
-      "path": "01.프로젝트 모음/3D 개인 - MixMaster 네트워크 프로젝트.md"
-    },
-    {
-      "basename": "2D 개인 - CatchMind (서버,모작)",
-      "path": "01.프로젝트 모음/2D 개인 - CatchMind (서버,모작).md"
-    },
-    {
-      "basename": "2D 개인 - MixMaster 모작",
-      "path": "01.프로젝트 모음/2D 개인 - MixMaster 모작.md"
     },
     {
       "basename": "MVVM",
@@ -169,28 +193,12 @@
       "path": "알고리즘/Astar.md"
     },
     {
-      "basename": "빅오표기법",
-      "path": "02.개인공부/빅오표기법.md"
-    },
-    {
       "basename": "정적 바인딩 vs 동적바인딩",
       "path": "02.개인공부/정적 바인딩 vs 동적바인딩.md"
     },
     {
-      "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
-      "path": "01.프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
-    },
-    {
       "basename": "3D 팀 - 쿠키런 모험의탑 모작",
       "path": "01.프로젝트 모음/3D 팀 - 쿠키런 모험의탑 모작.md"
-    },
-    {
-      "basename": "Singleton",
-      "path": "다양한예제/Singleton.md"
-    },
-    {
-      "basename": "Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능",
-      "path": "다양한예제/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md"
     }
   ],
   "omittedPaths": []

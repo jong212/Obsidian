@@ -53,13 +53,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.개인공부/박싱 언박싱.md",
+                "file": "메모/파인만 학습법.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "박싱 언박싱"
+              "title": "파인만 학습법"
             }
           },
           {
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 247.5
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -353,13 +352,24 @@
             "id": "93289e362b3d2e51",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "c28929c9fa6d9f03",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
         "id": "b99ec93446810926",
@@ -399,7 +409,26 @@
   },
   "active": "04efed7e5bfd959f",
   "lastOpenFiles": [
+    "01.프로젝트 모음/3D 개인 - MixMaster 네트워크 프로젝트.md",
+    "02.개인공부/Z 개인공부 삭제 ㄴ.md",
+    "01.프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
+    "01.프로젝트 모음/2D 개인 - MixMaster 모작.md",
+    "01.프로젝트 모음/2D 개인 - CatchMind (서버,모작).md",
+    "02.개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
+    "02.개인공부/오버라이드 @ 여기부터 아래는 알트 + E 정리 안 했음 해야함.md",
+    "02.개인공부/큐 스택.md",
+    "02.개인공부/오버로딩과 오버라이딩 차이.md",
+    "02.개인공부/스택 힙 차이 (메모리).md",
+    "02.개인공부/박싱 언박싱.md",
     "02.개인공부/렌더링 파이프라인.md",
+    "메모/TO DO/사용한 디자인 패턴 뭐 있는지 TODO.md",
+    "메모/TO DO/빅오표기법 TO DO.md",
+    "Others/Files/Pasted image 20241024012929.png",
+    "Others/Files/Pasted image 20241024012734.png",
+    "Others/Files/Pasted image 20241023235246.png",
+    "Others/Files/Pasted image 20241023235229.png",
+    "Others/Files/Pasted image 20241023234617.png",
+    "Others/Files/Pasted image 20241023234326.png",
     "02.개인공부/데이터드리븐.md",
     "회사 분석/면접 질문 총괄 PDF.md",
     "02.개인공부/다형성.md",
@@ -407,27 +436,14 @@
     "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md",
     "02.개인공부/객체지향.md",
     "Others/Template/정리.md",
-    "02.개인공부/Z 개인공부 삭제 ㄴ.md",
     "Home.md",
     "00.DailyNote/2024-09-27(금).md",
     "무제 파일.md",
     "00.DailyNote/2024-10-23.md",
     "메모/명언.md",
-    "메모/무제 파일.md",
-    "메모/무제 파일 1.md",
     "메모",
-    "메모/이것 저것 링크 메모.md",
-    "02.개인공부/SQL VS NOSQL.md",
     "Home",
-    "Home/Index.md",
-    "02.개인공부/스택 힙 차이 (메모리).md",
-    "Others/01.Guide/Guide 문서.md",
-    "기술 면접 공부/그래서.md",
-    "기술 면접 공부/ㄹ.md",
-    "Others/Template/Daily Note.md",
     "Others/Files/Pasted image 20241023124435.png",
-    "02.개인공부/오버라이드.md",
-    "Others/00.MOC/기초 - MOC.md",
     "01.SiteSettings/Files/Diagram 4.svg.xml",
     "01.SiteSettings/Files/Diagram 4.svg",
     "Others/Files/Diagram 3.svg.xml",
@@ -435,16 +451,10 @@
     "수학 공부",
     "무제 파일.canvas",
     "graph-screenshot/graph-screenshot-2024-10-08-10-30-25.png",
-    "graph-screenshot/graph-screenshot-2024-10-08-10-27-53.png",
     "graph-screenshot",
     "TagsRoutes/logs",
     "TagsRoutes",
     "Others/Files/Diagram 2.svg.xml",
-    "Others/Files/Diagram 2.svg",
-    "Others/Files/Pasted image 20241002005119.png",
-    "Others/Files/Pasted image 20241001200511.png",
-    "Others/Files/Pasted image 20241001140235.png",
-    "Others/Files/Pasted image 20241001134122.png",
     "Others/Files/Diagram 1.svg.xml",
     "DesignPattern/MVVM.canvas",
     "03.Unity/Study/디자인패턴/MVVM.canvas",
