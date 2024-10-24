@@ -1,3 +1,5 @@
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpublish.obsidian.md%2Funity%2FHome&count_bg=%2386B0E2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
@@ -12,7 +14,7 @@ const folders = [
     { name: "DesignPattern", displayName: "📂 디자인패턴" }
 ];
 
-let mainPageContent = "---\n### 최근 생성된 게시글 목록 (폴더별로 정리)\n\n\n\n";
+let mainPageContent = "---\n### 최근에 작성한 게시글 Limit 10\n\n\n\n";
 
 // 각 폴더에 대해 반복하여 테이블을 생성합니다.
 for (const folder of folders) {

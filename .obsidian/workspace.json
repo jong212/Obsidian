@@ -53,13 +53,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "메모/이것 저것 링크 메모.md",
+                "file": "02.개인공부/최적화/UGUI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이것 저것 링크 메모"
+              "title": "UGUI"
             }
           },
           {
@@ -409,6 +409,8 @@
   },
   "active": "04efed7e5bfd959f",
   "lastOpenFiles": [
+    "Home.md",
+    "Others/Template/Update Publish Files.md",
     "메모/파인만 학습법.md",
     "메모/이것 저것 링크 메모.md",
     "메모/명언.md",
@@ -427,7 +429,6 @@
     "Others/Files/Pasted image 20241024153714.png",
     "02.개인공부/해시테이블 딕셔너리 차이.md",
     "02.개인공부/해시테이블 딕셔너리 차이2.md",
-    "Home.md",
     "DesignPattern/MVVM.md",
     "DesignPattern/MVVM.canvas",
     "02.개인공부/Time.deltaTime.md",
@@ -440,7 +441,6 @@
     "Others/00.MOC/규칙 - MOC.md",
     "02.개인공부/유니티 Editor",
     "회사 분석/슈퍼센트.md",
-    "회사 분석/스노우 파이프.md",
     "02.개인공부/새 텍스트 문서.txt",
     "Others/Files/Pasted image 20241024012929.png",
     "Others/Files/Pasted image 20241024012734.png",
