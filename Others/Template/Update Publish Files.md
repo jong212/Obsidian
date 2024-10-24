@@ -2,57 +2,60 @@
 const dv = app.plugins.plugins["dataview"].api;
 const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 
-// 업데이트할 파일명과 쿼리를 설정합니다.
-const fileAndQuery = new Map([
-  [
-    "최근 수정된 노트",
-    `TABLE WITHOUT ID
-    file.link AS "노트", dateformat(file.mtime, "yyyy-MM-dd HH:mm") AS "수정된 날짜"
-    FROM ""
-    WHERE publish = true
-    SORT file.mtime DESC
-    LIMIT 7`
-  ],
-  [
-    "최근 생성된 노트",
-    `TABLE WITHOUT ID
-    file.link AS "노트", dateformat(file.ctime, "yyyy-MM-dd HH:mm") AS "생성된 날짜"
-    FROM ""
-    WHERE publish = true
-    SORT file.ctime DESC
-    LIMIT 7`
-  ],
-]);
+// 메인 페이지 파일 이름
+const mainPageFileName = "Home.md";
 
-// 각 파일에 대해 쿼리 결과를 마크다운으로 출력합니다.
-for (let [filename, query] of fileAndQuery) {
-  // 파일이 없으면 생성합니다.
-  if (!app.vault.getAbstractFileByPath(filename + ".md")) {
-    await app.vault.create(filename + ".md", "");
-    new Notice(`${filename} 파일을 생성했습니다.`);
-  }
+// 각 폴더별로 Dataview 쿼리를 실행하여 게시글 목록을 가져옵니다.
+const folders = [
+    { name: "02.개인공부", displayName: "📂 개인공부" },
+    { name: "01.프로젝트 모음", displayName: "📂 프로젝트 모음" },
+    { name: "DesignPattern", displayName: "📂 디자인패턴" }
+];
 
-  const tFile = app.vault.getAbstractFileByPath(filename + ".md");
-  const queryOutput = await dv.queryMarkdown(query);
+let mainPageContent = "---\n### 최근 생성된 게시글 목록 (폴더별로 정리)\n\n\n\n";
 
-  // 파일의 내용을 구성합니다.
-  const fileContent = `---
-publish: true
----
-<!-- 이 파일은 Templater 템플릿에 의해 자동으로 업데이트됩니다 -->
+// 각 폴더에 대해 반복하여 테이블을 생성합니다.
+for (const folder of folders) {
+    const query = `TABLE WITHOUT ID file.link AS "Note", dateformat(file.ctime, "yyyy년 MM월 dd일 HH시 mm분") AS "Created"
+                   FROM "${folder.name}"
+                   SORT file.ctime desc
+                   LIMIT 10`; // 각 폴더에서 최근 생성된 게시물 10개만 가져옵니다.
 
-${queryOutput.value}`;
+    const queryOutput = await dv.queryMarkdown(query);
 
-  try {
-    // 파일을 수정합니다.
-    await app.vault.modify(tFile, fileContent);
-    new Notice(`${filename} 파일이 업데이트되었습니다.`);
-  } catch (error) {
-    new Notice(`⚠️ ${filename} 파일 업데이트 중 오류 발생`, 0);
-    console.error(`Error updating ${filename}:`, error);
-  }
+    // 폴더별 섹션 추가
+    mainPageContent += `### ${folder.displayName}\n\n`;
+    if (queryOutput && queryOutput.value) {
+        mainPageContent += `${queryOutput.value}\n\n`;
+    } else {
+        mainPageContent += "게시글이 없습니다.\n\n";
+    }
 }
 
-// 퍼블리시 패널을 엽니다.
-openPublishPanel();
+try {
+    // 메인 페이지 파일을 찾고 업데이트합니다.
+    let mainPageFile = tp.file.find_tfile(mainPageFileName);
+    if (!mainPageFile) {
+        await tp.file.create_new("", mainPageFileName);
+        mainPageFile = tp.file.find_tfile(mainPageFileName);
+    }
+
+    await app.vault.modify(mainPageFile, mainPageContent);
+    new Notice(`메인 페이지(${mainPageFile.basename})가 업데이트되었습니다.`);
+} catch (error) {
+    new Notice(`⚠️ 메인 페이지 업데이트 오류: ${error}`, 0);
+}
+
+// Publish 패널 열기
+try {
+    if (openPublishPanel) {
+        openPublishPanel();
+        new Notice("🟢 Publish 패널이 열렸습니다.");
+    } else {
+        new Notice("⚠️ Publish 명령을 찾을 수 없습니다. 명령어 ID를 확인하세요.");
+    }
+} catch (error) {
+    new Notice(`⚠️ Publish 패널 열기 실패: ${error}`, 0);
+    console.error("Error opening Publish panel:", error);
+}
 %>

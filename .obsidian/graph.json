@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#DesignPattern  ",
@@ -46,7 +46,14 @@
       "query": "tag:#basic  ",
       "color": {
         "a": 1,
-        "rgb": 14894405
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Optimization  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930121407,
+  "scale": 0.25883865621816476,
   "close": true
 }
