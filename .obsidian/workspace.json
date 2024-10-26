@@ -38,13 +38,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "회사 분석/면접 질문 총괄 PDF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "면접 질문 총괄 PDF"
             }
           },
           {
@@ -53,13 +53,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.개인공부/객체지향 특징 4가지.md",
+                "file": "회사 분석/면접 질문 총괄 PDF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "객체지향 특징 4가지"
+              "title": "면접 질문 총괄 PDF"
             }
           },
           {
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 200
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -359,7 +359,7 @@
             }
           },
           {
-            "id": "dd66044868ee8af5",
+            "id": "c28929c9fa6d9f03",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -369,7 +369,27 @@
             }
           },
           {
-            "id": "981a0a1bfd8bd855",
+            "id": "bfa49cc9a0e3f6bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "9ef8079ebf6a11f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "031f12bfe8ace519",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -379,7 +399,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       },
       {
         "id": "b99ec93446810926",
@@ -417,20 +437,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "04efed7e5bfd959f",
+  "active": "250f88a4ad3dc73b",
   "lastOpenFiles": [
-    "회사 분석/면접 질문 총괄 PDF.md",
-    "02.개인공부/객체지향.md",
-    "회사 분석/슈퍼센트.md",
-    "회사 분석/면접.md",
     "회사 분석/기술면접 Draw I.md",
     "회사 분석/스노우 파이프.md",
-    "02.개인공부/큐 스택.md",
-    "02.개인공부/코드규칙.md",
+    "회사 분석/면접 질문 총괄 PDF.md",
+    "회사 분석/슈퍼센트.md",
     "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md",
+    "02.개인공부/객체지향 특징 4가지.md",
+    "02.개인공부/객체지향.md",
+    "Home.md",
+    "메모/이것 저것 링크 메모.md",
+    "Others/Files/기술면접.drawio.png",
     "Others/Files/Diagram 4.svg.xml",
     "Others/Files/Diagram 4.svg",
-    "Others/Files/기술면접.drawio.png",
     "02.개인공부/최적화/UGUI.md",
     "Others/Files/Pasted image 20241024233215.png",
     "Others/Files/Pasted image 20241024233204.png",
@@ -440,26 +460,24 @@
     "Others/Files/Pasted image 20241024224244.png",
     "Others/Files/Pasted image 20241024224237.png",
     "Others/Files/Pasted image 20241024224228.png",
-    "Home.md",
-    "Others/Template/Update Publish Files.md",
-    "메모/파인만 학습법.md",
-    "메모/이것 저것 링크 메모.md",
-    "메모/명언.md",
-    "메모/무제 파일.md",
-    "02.개인공부/최적화/버텍스.md",
     "02.개인공부/렌더링 파이프라인.md",
-    "02.개인공부/최적화",
+    "Others/Template/Update Publish Files.md",
     "Others/00.MOC/최적화 - MOC.md",
-    "Others/00.MOC/기초 - MOC.md",
+    "Others/00.MOC/유니티Editor - MOC.md",
+    "02.개인공부/최적화/버텍스.md",
+    "02.개인공부/최적화",
     "02.개인공부/유니티 Editor/Render Mode.md",
-    "02.개인공부/해시테이블 딕셔너리 차이.md",
-    "02.개인공부/해시테이블 딕셔너리 차이2.md",
-    "DesignPattern/MVVM.md",
-    "DesignPattern/MVVM.canvas",
-    "02.개인공부/Time.deltaTime.md",
-    "02.개인공부/SQL VS NOSQL.md",
     "02.개인공부/유니티 Editor",
-    "02.개인공부/새 텍스트 문서.txt",
+    "02.개인공부/오버라이드.md",
+    "01.프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md",
+    "메모/파인만 학습법.md",
+    "01.프로젝트 모음/3D 개인 - MixMaster 네트워크 프로젝트.md",
+    "02.개인공부/Z 개인공부 삭제 ㄴ.md",
+    "01.프로젝트 모음/2D 개인 - MixMaster 모작.md",
+    "01.프로젝트 모음/2D 개인 - CatchMind (서버,모작).md",
+    "02.개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md",
+    "02.개인공부/오버라이드 @ 여기부터 아래는 알트 + E 정리 안 했음 해야함.md",
+    "02.개인공부/큐 스택.md",
     "메모",
     "Home",
     "01.SiteSettings/Files/Diagram 4.svg.xml",
@@ -467,6 +485,8 @@
     "수학 공부",
     "무제 파일.canvas",
     "graph-screenshot",
+    "TagsRoutes/logs",
+    "DesignPattern/MVVM.canvas",
     "03.Unity/Study/디자인패턴/MVVM.canvas",
     "03.Unity/무제 파일.canvas",
     "03.Unity/자료구조/무제 파일.canvas",
