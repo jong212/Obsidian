@@ -9,6 +9,22 @@
       "path": "회사 분석/기술면접 Draw I.md"
     },
     {
+      "basename": "객체지향",
+      "path": "02.개인공부/객체지향.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "02.개인공부/자료구조/무제 파일.md"
+    },
+    {
+      "basename": "추상클래스",
+      "path": "메모/TO DO/추상클래스.md"
+    },
+    {
+      "basename": "객체지향 특징 4가지",
+      "path": "02.개인공부/객체지향 특징 4가지.md"
+    },
+    {
       "basename": "스노우 파이프",
       "path": "회사 분석/스노우 파이프.md"
     },
@@ -19,14 +35,6 @@
     {
       "basename": "객체지향 설계 원칙 5개 (SOLID)",
       "path": "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md"
-    },
-    {
-      "basename": "객체지향 특징 4가지",
-      "path": "02.개인공부/객체지향 특징 4가지.md"
-    },
-    {
-      "basename": "객체지향",
-      "path": "02.개인공부/객체지향.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "선택 정렬",
       "path": "알고리즘/선택 정렬.md"
-    },
-    {
-      "basename": "버블정렬",
-      "path": "알고리즘/버블정렬.md"
-    },
-    {
-      "basename": "Astar",
-      "path": "알고리즘/Astar.md"
     }
   ],
   "omittedPaths": []
