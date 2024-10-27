@@ -5,16 +5,16 @@
       "path": "회사 분석/면접 질문 총괄 PDF.md"
     },
     {
+      "basename": "선형 자료구조",
+      "path": "02.개인공부/자료구조/선형 자료구조.md"
+    },
+    {
       "basename": "기술면접 Draw I",
       "path": "회사 분석/기술면접 Draw I.md"
     },
     {
       "basename": "객체지향",
       "path": "02.개인공부/객체지향.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "02.개인공부/자료구조/무제 파일.md"
     },
     {
       "basename": "추상클래스",
