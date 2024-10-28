@@ -38,13 +38,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "회사 분석/면접 질문 총괄 PDF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "면접 질문 총괄 PDF"
             }
           },
           {
@@ -53,13 +53,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.개인공부/최적화/최적화 기법 간단 요약.md",
+                "file": "회사 분석/면접 질문 총괄 PDF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최적화 기법 간단 요약"
+              "title": "면접 질문 총괄 PDF"
             }
           },
           {
@@ -83,17 +83,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "회사 분석/면접 질문 총괄 PDF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "면접 질문 총괄 PDF"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "가비지",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 477.5
   },
   "right": {
     "id": "936429fe089ce5f0",
@@ -359,7 +359,7 @@
             }
           },
           {
-            "id": "dd66044868ee8af5",
+            "id": "c28929c9fa6d9f03",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -369,7 +369,7 @@
             }
           },
           {
-            "id": "981a0a1bfd8bd855",
+            "id": "bfa49cc9a0e3f6bd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -379,7 +379,47 @@
             }
           },
           {
-            "id": "6e76e1ac81e63d7d",
+            "id": "9ef8079ebf6a11f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "031f12bfe8ace519",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "5b5966612740ec60",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "d3052b9342ab1cf1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "42606608b7d4ffe3",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -389,7 +429,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       },
       {
         "id": "b99ec93446810926",
@@ -427,13 +467,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fe4f92a1da251813",
+  "active": "fda134e4dd7cf21d",
   "lastOpenFiles": [
-    "02.개인공부/최적화/최적화.md",
     "02.개인공부/최적화/최적화 기법 간단 요약.md",
-    "02.개인공부/최적화/UGUI.md",
-    "02.개인공부/최적화/병목.md",
-    "02.개인공부/최적화/버텍스.md",
+    "회사 분석/면접 질문 총괄 PDF.md",
+    "Others/Files/Pasted image 20241029004118.png",
+    "Others/Files/Pasted image 20241029003503.png",
+    "DesignPattern/MVC (모델 뷰 컨트롤러).md",
+    "Home.md",
+    "02.개인공부/알고리즘/삽입정렬.md",
+    "02.개인공부/알고리즘/선택 정렬.md",
+    "02.개인공부/알고리즘/버블정렬.md",
+    "메모/TO DO/가비지 컬렉터.md",
+    "Others/Files/{e61fa3cf-3cf0-4022-a5f5-df0087ea93f9}_JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
     "Others/Files/Pasted image 20241028173324.png",
     "Others/Files/Pasted image 20241028173256.png",
     "Others/Files/Pasted image 20241028173108.png",
@@ -442,41 +488,34 @@
     "Others/Files/Pasted image 20241028172957.png",
     "Others/Files/Pasted image 20241028172950.png",
     "Others/Files/Pasted image 20241028172808.png",
-    "Others/Files/Pasted image 20241028172340.png",
-    "Others/Files/{e61fa3cf-3cf0-4022-a5f5-df0087ea93f9}_JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
-    "회사 분석/면접 질문 총괄 PDF.md",
-    "02.개인공부/정적 바인딩 vs 동적바인딩.md",
-    "02.개인공부/코루틴과 유니테스크의 차이.md",
-    "메모/TO DO/가비지 컬렉터.md",
     "02.개인공부/자료구조/선형 자료구조.md",
-    "02.개인공부/객체지향 특징 4가지.md",
-    "메모/TO DO/추상클래스.md",
-    "02.개인공부/자료구조",
-    "02.개인공부/객체지향.md",
-    "회사 분석/슈퍼센트.md",
-    "회사 분석/면접.md",
     "회사 분석/기술면접 Draw I.md",
+    "02.개인공부/객체지향.md",
+    "메모/TO DO/추상클래스.md",
+    "02.개인공부/객체지향 특징 4가지.md",
+    "02.개인공부/자료구조",
+    "02.개인공부/무제 파일.md",
     "회사 분석/스노우 파이프.md",
-    "02.개인공부/큐 스택.md",
-    "02.개인공부/코드규칙.md",
+    "회사 분석/슈퍼센트.md",
     "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md",
-    "Others/Files/Diagram 4.svg.xml",
-    "Others/Files/Diagram 4.svg",
-    "Home.md",
-    "Others/Template/Update Publish Files.md",
-    "메모/파인만 학습법.md",
     "메모/이것 저것 링크 메모.md",
-    "메모/명언.md",
-    "메모/무제 파일.md",
+    "Others/Files/Diagram 4.svg.xml",
+    "02.개인공부/최적화/UGUI.md",
+    "02.개인공부/렌더링 파이프라인.md",
+    "Others/Template/Update Publish Files.md",
+    "Others/00.MOC/최적화 - MOC.md",
+    "Others/00.MOC/유니티Editor - MOC.md",
+    "02.개인공부/최적화/버텍스.md",
     "02.개인공부/최적화",
-    "DesignPattern/MVVM.canvas",
+    "02.개인공부/유니티 Editor/Render Mode.md",
     "02.개인공부/유니티 Editor",
-    "02.개인공부/새 텍스트 문서.txt",
     "메모",
     "Home",
     "01.SiteSettings/Files/Diagram 4.svg.xml",
     "Others/Files/Diagram 3.svg.xml",
+    "수학 공부",
     "무제 파일.canvas",
+    "DesignPattern/MVVM.canvas",
     "03.Unity/Study/디자인패턴/MVVM.canvas",
     "03.Unity/무제 파일.canvas",
     "03.Unity/자료구조/무제 파일.canvas",
