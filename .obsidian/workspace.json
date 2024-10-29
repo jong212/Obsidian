@@ -83,13 +83,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사 분석/면접 질문 총괄 PDF.md",
+                "file": "00.DailyNote/Sample.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "면접 질문 총괄 PDF"
+              "title": "Sample"
             }
           }
         ],
@@ -422,6 +422,16 @@
             "id": "42606608b7d4ffe3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "92f16b5b84c17f85",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -429,7 +439,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       },
       {
         "id": "b99ec93446810926",
@@ -470,7 +480,15 @@
   "active": "fda134e4dd7cf21d",
   "lastOpenFiles": [
     "02.개인공부/최적화/최적화 기법 간단 요약.md",
-    "회사 분석/면접 질문 총괄 PDF.md",
+    "DesignPattern/Observer pattern.md",
+    "00.DailyNote/Sample.md",
+    "02.개인공부/박싱 언박싱.md",
+    "02.개인공부/스택 힙 차이 (메모리).md",
+    "02.개인공부/객체지향 특징 4가지.md",
+    "02.개인공부/인터페이스와 추상클래스의 차이.md",
+    "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md",
+    "02.개인공부/다형성.md",
+    "02.개인공부/객체지향.md",
     "Others/Files/Pasted image 20241029004118.png",
     "Others/Files/Pasted image 20241029003503.png",
     "DesignPattern/MVC (모델 뷰 컨트롤러).md",
@@ -490,24 +508,17 @@
     "Others/Files/Pasted image 20241028172808.png",
     "02.개인공부/자료구조/선형 자료구조.md",
     "회사 분석/기술면접 Draw I.md",
-    "02.개인공부/객체지향.md",
     "메모/TO DO/추상클래스.md",
-    "02.개인공부/객체지향 특징 4가지.md",
     "02.개인공부/자료구조",
     "02.개인공부/무제 파일.md",
     "회사 분석/스노우 파이프.md",
     "회사 분석/슈퍼센트.md",
-    "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md",
     "메모/이것 저것 링크 메모.md",
     "Others/Files/Diagram 4.svg.xml",
     "02.개인공부/최적화/UGUI.md",
     "02.개인공부/렌더링 파이프라인.md",
     "Others/Template/Update Publish Files.md",
-    "Others/00.MOC/최적화 - MOC.md",
-    "Others/00.MOC/유니티Editor - MOC.md",
-    "02.개인공부/최적화/버텍스.md",
     "02.개인공부/최적화",
-    "02.개인공부/유니티 Editor/Render Mode.md",
     "02.개인공부/유니티 Editor",
     "메모",
     "Home",

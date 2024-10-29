@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "면접 질문 총괄 PDF",
-      "path": "회사 분석/면접 질문 총괄 PDF.md"
+      "basename": "Sample",
+      "path": "00.DailyNote/Sample.md"
     },
     {
       "basename": "최적화 기법 간단 요약",
       "path": "02.개인공부/최적화/최적화 기법 간단 요약.md"
+    },
+    {
+      "basename": "Observer pattern",
+      "path": "DesignPattern/Observer pattern.md"
+    },
+    {
+      "basename": "박싱 언박싱",
+      "path": "02.개인공부/박싱 언박싱.md"
+    },
+    {
+      "basename": "스택 힙 차이 (메모리)",
+      "path": "02.개인공부/스택 힙 차이 (메모리).md"
+    },
+    {
+      "basename": "객체지향 특징 4가지",
+      "path": "02.개인공부/객체지향 특징 4가지.md"
+    },
+    {
+      "basename": "인터페이스와 추상클래스의 차이",
+      "path": "02.개인공부/인터페이스와 추상클래스의 차이.md"
+    },
+    {
+      "basename": "객체지향 설계 원칙 5개 (SOLID)",
+      "path": "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md"
+    },
+    {
+      "basename": "다형성",
+      "path": "02.개인공부/다형성.md"
+    },
+    {
+      "basename": "객체지향",
+      "path": "02.개인공부/객체지향.md"
     },
     {
       "basename": "MVC (모델 뷰 컨트롤러)",
@@ -37,16 +69,8 @@
       "path": "회사 분석/기술면접 Draw I.md"
     },
     {
-      "basename": "객체지향",
-      "path": "02.개인공부/객체지향.md"
-    },
-    {
       "basename": "추상클래스",
       "path": "메모/TO DO/추상클래스.md"
-    },
-    {
-      "basename": "객체지향 특징 4가지",
-      "path": "02.개인공부/객체지향 특징 4가지.md"
     },
     {
       "basename": "스노우 파이프",
@@ -55,10 +79,6 @@
     {
       "basename": "슈퍼센트",
       "path": "회사 분석/슈퍼센트.md"
-    },
-    {
-      "basename": "객체지향 설계 원칙 5개 (SOLID)",
-      "path": "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md"
     },
     {
       "basename": "이것 저것 링크 메모",
@@ -113,14 +133,6 @@
       "path": "02.개인공부/오버로딩과 오버라이딩 차이.md"
     },
     {
-      "basename": "스택 힙 차이 (메모리)",
-      "path": "02.개인공부/스택 힙 차이 (메모리).md"
-    },
-    {
-      "basename": "박싱 언박싱",
-      "path": "02.개인공부/박싱 언박싱.md"
-    },
-    {
       "basename": "사용한 디자인 패턴 뭐 있는지 TODO",
       "path": "메모/TO DO/사용한 디자인 패턴 뭐 있는지 TODO.md"
     },
@@ -131,10 +143,6 @@
     {
       "basename": "데이터드리븐",
       "path": "02.개인공부/데이터드리븐.md"
-    },
-    {
-      "basename": "다형성",
-      "path": "02.개인공부/다형성.md"
     },
     {
       "basename": "정리",
@@ -191,14 +199,6 @@
     {
       "basename": "3D 팀 - 태그게임(미니합반)",
       "path": "01.프로젝트 모음/3D 팀 - 태그게임(미니합반).md"
-    },
-    {
-      "basename": "MVVM",
-      "path": "DesignPattern/MVVM.md"
-    },
-    {
-      "basename": "회전과 방향벡터",
-      "path": "수학 공부/회전과 방향벡터.md"
     }
   ],
   "omittedPaths": []
