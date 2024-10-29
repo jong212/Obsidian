@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리",
+      "path": "02.개인공부/최적화/스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리.md"
+    },
+    {
+      "basename": "렌더링 파이프라인",
+      "path": "02.개인공부/렌더링 파이프라인.md"
+    },
+    {
       "basename": "Sample",
       "path": "00.DailyNote/Sample.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "UGUI",
       "path": "02.개인공부/최적화/UGUI.md"
-    },
-    {
-      "basename": "렌더링 파이프라인",
-      "path": "02.개인공부/렌더링 파이프라인.md"
     },
     {
       "basename": "Update Publish Files",
@@ -195,10 +199,6 @@
     {
       "basename": "DesignPattern - MOC",
       "path": "Others/00.MOC/DesignPattern - MOC.md"
-    },
-    {
-      "basename": "3D 팀 - 태그게임(미니합반)",
-      "path": "01.프로젝트 모음/3D 팀 - 태그게임(미니합반).md"
     }
   ],
   "omittedPaths": []
