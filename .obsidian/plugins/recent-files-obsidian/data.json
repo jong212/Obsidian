@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "콜라이더 기본",
+      "path": "01.공부/컴포넌트/콜라이더 기본.md"
+    },
+    {
+      "basename": "3D 개인 - MixMaster 네트워크 프로젝트",
+      "path": "프로젝트 모음/3D 개인 - MixMaster 네트워크 프로젝트.md"
+    },
+    {
+      "basename": "2D 개인 - MixMaster 모작",
+      "path": "프로젝트 모음/2D 개인 - MixMaster 모작.md"
+    },
+    {
       "basename": "스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리",
-      "path": "02.개인공부/최적화/스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리.md"
+      "path": "01.공부/최적화/스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리.md"
     },
     {
       "basename": "렌더링 파이프라인",
-      "path": "02.개인공부/렌더링 파이프라인.md"
+      "path": "01.공부/렌더링 파이프라인.md"
     },
     {
       "basename": "Sample",
@@ -14,7 +26,7 @@
     },
     {
       "basename": "최적화 기법 간단 요약",
-      "path": "02.개인공부/최적화/최적화 기법 간단 요약.md"
+      "path": "01.공부/최적화/최적화 기법 간단 요약.md"
     },
     {
       "basename": "Observer pattern",
@@ -22,31 +34,31 @@
     },
     {
       "basename": "박싱 언박싱",
-      "path": "02.개인공부/박싱 언박싱.md"
+      "path": "01.공부/박싱 언박싱.md"
     },
     {
       "basename": "스택 힙 차이 (메모리)",
-      "path": "02.개인공부/스택 힙 차이 (메모리).md"
+      "path": "01.공부/스택 힙 차이 (메모리).md"
     },
     {
       "basename": "객체지향 특징 4가지",
-      "path": "02.개인공부/객체지향 특징 4가지.md"
+      "path": "01.공부/객체지향 특징 4가지.md"
     },
     {
       "basename": "인터페이스와 추상클래스의 차이",
-      "path": "02.개인공부/인터페이스와 추상클래스의 차이.md"
+      "path": "01.공부/인터페이스와 추상클래스의 차이.md"
     },
     {
       "basename": "객체지향 설계 원칙 5개 (SOLID)",
-      "path": "02.개인공부/객체지향 설계 원칙 5개 (SOLID).md"
+      "path": "01.공부/객체지향 설계 원칙 5개 (SOLID).md"
     },
     {
       "basename": "다형성",
-      "path": "02.개인공부/다형성.md"
+      "path": "01.공부/다형성.md"
     },
     {
       "basename": "객체지향",
-      "path": "02.개인공부/객체지향.md"
+      "path": "01.공부/객체지향.md"
     },
     {
       "basename": "MVC (모델 뷰 컨트롤러)",
@@ -58,19 +70,19 @@
     },
     {
       "basename": "삽입정렬",
-      "path": "02.개인공부/알고리즘/삽입정렬.md"
+      "path": "01.공부/알고리즘/삽입정렬.md"
     },
     {
       "basename": "선택 정렬",
-      "path": "02.개인공부/알고리즘/선택 정렬.md"
+      "path": "01.공부/알고리즘/선택 정렬.md"
     },
     {
       "basename": "버블정렬",
-      "path": "02.개인공부/알고리즘/버블정렬.md"
+      "path": "01.공부/알고리즘/버블정렬.md"
     },
     {
       "basename": "선형 자료구조",
-      "path": "02.개인공부/자료구조/선형 자료구조.md"
+      "path": "01.공부/자료구조/선형 자료구조.md"
     },
     {
       "basename": "기술면접 Draw I",
@@ -94,7 +106,7 @@
     },
     {
       "basename": "UGUI",
-      "path": "02.개인공부/최적화/UGUI.md"
+      "path": "01.공부/최적화/UGUI.md"
     },
     {
       "basename": "Update Publish Files",
@@ -102,39 +114,31 @@
     },
     {
       "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
-      "path": "01.프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
+      "path": "프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
     },
     {
       "basename": "파인만 학습법",
       "path": "메모/파인만 학습법.md"
     },
     {
-      "basename": "3D 개인 - MixMaster 네트워크 프로젝트",
-      "path": "01.프로젝트 모음/3D 개인 - MixMaster 네트워크 프로젝트.md"
-    },
-    {
       "basename": "Z 개인공부 삭제 ㄴ",
-      "path": "02.개인공부/Z 개인공부 삭제 ㄴ.md"
-    },
-    {
-      "basename": "2D 개인 - MixMaster 모작",
-      "path": "01.프로젝트 모음/2D 개인 - MixMaster 모작.md"
+      "path": "01.공부/Z 개인공부 삭제 ㄴ.md"
     },
     {
       "basename": "2D 개인 - CatchMind (서버,모작)",
-      "path": "01.프로젝트 모음/2D 개인 - CatchMind (서버,모작).md"
+      "path": "프로젝트 모음/2D 개인 - CatchMind (서버,모작).md"
     },
     {
       "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
-      "path": "02.개인공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
+      "path": "01.공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
     },
     {
       "basename": "큐 스택",
-      "path": "02.개인공부/큐 스택.md"
+      "path": "01.공부/큐 스택.md"
     },
     {
       "basename": "오버로딩과 오버라이딩 차이",
-      "path": "02.개인공부/오버로딩과 오버라이딩 차이.md"
+      "path": "01.공부/오버로딩과 오버라이딩 차이.md"
     },
     {
       "basename": "사용한 디자인 패턴 뭐 있는지 TODO",
@@ -146,7 +150,7 @@
     },
     {
       "basename": "데이터드리븐",
-      "path": "02.개인공부/데이터드리븐.md"
+      "path": "01.공부/데이터드리븐.md"
     },
     {
       "basename": "정리",
@@ -162,7 +166,7 @@
     },
     {
       "basename": "SQL VS NOSQL",
-      "path": "02.개인공부/SQL VS NOSQL.md"
+      "path": "01.공부/SQL VS NOSQL.md"
     },
     {
       "basename": "Guide 문서",
@@ -195,10 +199,6 @@
     {
       "basename": "자료구조 - MOC",
       "path": "Others/00.MOC/자료구조 - MOC.md"
-    },
-    {
-      "basename": "DesignPattern - MOC",
-      "path": "Others/00.MOC/DesignPattern - MOC.md"
     }
   ],
   "omittedPaths": []
