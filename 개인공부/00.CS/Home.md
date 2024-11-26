@@ -38,8 +38,8 @@
 
 | Note                                                    | Created               |
 | ------------------------------------------------------- | --------------------- |
-| [[DesignPattern/Observer pattern.md\|Observer pattern]] | 2024년 10월 23일 23시 20분 |
-| [[DesignPattern/MVVM.md\|MVVM]]                         | 2024년 10월 23일 23시 20분 |
-| [[DesignPattern/MVC (모델 뷰 컨트롤러).md\|MVC (모델 뷰 컨트롤러)]]   | 2024년 10월 23일 23시 20분 |
+| [[Observer pattern\|Observer pattern]] | 2024년 10월 23일 23시 20분 |
+| [[MVVM\|MVVM]]                         | 2024년 10월 23일 23시 20분 |
+| [[MVC (모델 뷰 컨트롤러)\|MVC (모델 뷰 컨트롤러)]]   | 2024년 10월 23일 23시 20분 |
 
 

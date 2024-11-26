@@ -53,13 +53,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.공부/컴포넌트/콜라이더 기본.md",
+                "file": "개인공부/00.CS/클래스와 구조체 차이.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "콜라이더 기본"
+              "title": "클래스와 구조체 차이"
             }
           },
           {
@@ -462,6 +462,36 @@
             "id": "fefeba3ccfa74004",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "5cffd340c019e114",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "acb9bb7fcf133b47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "d43b7d5f6c9be450",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -469,7 +499,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 22
       },
       {
         "id": "b99ec93446810926",
@@ -489,8 +519,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -509,54 +538,54 @@
   },
   "active": "04efed7e5bfd959f",
   "lastOpenFiles": [
-    "Others/Files/녹화_2024_11_10_00_29_20_56.gif",
-    "01.공부/컴포넌트/콜라이더 기본.md",
-    "01.공부/컴포넌트",
-    "프로젝트 모음/3D 개인 - MixMaster 네트워크 프로젝트.md",
-    "Others/Files/Pasted image 20241103183829.png",
-    "Others/Files/Pasted image 20241103183151.png",
-    "프로젝트 모음/2D 개인 - MixMaster 모작.md",
-    "01.공부/최적화/스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리.md",
-    "Others/Files/Pasted image 20241029190534.png",
-    "Others/Files/Pasted image 20241029181039.png",
-    "01.공부/렌더링 파이프라인.md",
-    "00.DailyNote/Sample.md",
-    "01.공부/최적화/최적화 기법 간단 요약.md",
-    "DesignPattern/Observer pattern.md",
-    "01.공부/박싱 언박싱.md",
-    "01.공부/스택 힙 차이 (메모리).md",
-    "01.공부/객체지향 특징 4가지.md",
-    "01.공부/인터페이스와 추상클래스의 차이.md",
-    "01.공부/객체지향 설계 원칙 5개 (SOLID).md",
-    "01.공부/다형성.md",
-    "01.공부/객체지향.md",
-    "Others/Files/Pasted image 20241029004118.png",
-    "Others/Files/Pasted image 20241029003503.png",
-    "DesignPattern/MVC (모델 뷰 컨트롤러).md",
-    "Home.md",
-    "01.공부/알고리즘/삽입정렬.md",
-    "01.공부/알고리즘/선택 정렬.md",
-    "01.공부/알고리즘/버블정렬.md",
-    "메모/TO DO/가비지 컬렉터.md",
-    "Others/Files/{e61fa3cf-3cf0-4022-a5f5-df0087ea93f9}_JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
-    "Others/Files/Pasted image 20241028173324.png",
-    "Others/Files/Pasted image 20241028173256.png",
-    "Others/Files/Pasted image 20241028173108.png",
-    "Others/Files/Pasted image 20241028173034.png",
-    "01.공부/자료구조/선형 자료구조.md",
+    "회사 분석/스노우 파이프.md",
+    "회사 분석/슈퍼센트.md",
     "회사 분석/기술면접 Draw I.md",
-    "메모/TO DO/추상클래스.md",
-    "01.공부/자료구조",
-    "02.개인공부/무제 파일.md",
+    "개인공부/00.CS/객체지향.md",
+    "개인공부/TODO",
+    "개인공부/00.CS",
+    "개인공부/00.CS/큐 스택.md",
+    "개인공부/00.CS/클래스와 구조체 차이.md",
+    "개인공부/00.CS/Awake Start 차이.md",
+    "개인공부/Z.기타 및 메모/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md",
+    "DailyNote/2024-11-26.md",
+    "Z 개인공부 삭제 ㄴ.md",
+    "개인공부/코드구조분석/플레이어가 집기를 누를 때 상호작용이 가능한지 여부를 순회하는 과정.md",
+    "개인공부/유니티 Editor/Render Mode.md",
+    "완성코드모음/Singleton.md",
+    "완성코드모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md",
+    "완성코드모음/상태머신.md",
+    "개인공부",
+    "프로젝트/3D 개인 - MixMaster 네트워크 프로젝트.md",
+    "Others/Files/Pasted image 20241114215708.png",
+    "Others/Files/Pasted image 20241114215704.png",
+    "Others/Files/Pasted image 20241114215259.png",
+    "Others/Files/Pasted image 20241114215120.png",
+    "Others/Files/Pasted image 20241114215023.png",
+    "Others/Files/Pasted image 20241114214849.png",
+    "Others/Files/Pasted image 20241114214001.png",
+    "Others/Files/Pasted image 20241114213954.png",
+    "Others/Files/Pasted image 20241114213949.png",
+    "Others/Files/Pasted image 20241114213943.png",
+    "개인공부/컴포넌트/콜라이더 기본.md",
+    "개인공부/컴포넌트",
+    "프로젝트/2D 개인 - MixMaster 모작.md",
+    "개인공부/최적화/스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리.md",
+    "개인공부/00.CS/렌더링 파이프라인.md",
+    "DailyNote/Sample.md",
+    "개인공부/최적화/최적화 기법 간단 요약.md",
+    "개인공부/02.디자인패턴/Observer pattern.md",
+    "개인공부/00.CS/박싱 언박싱.md",
+    "개인공부/00.CS/스택 힙 차이 (메모리).md",
+    "개인공부/00.CS/객체지향 특징 4가지.md",
+    "Others/Files/{e61fa3cf-3cf0-4022-a5f5-df0087ea93f9}_JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
+    "개인공부/01.자료구조",
     "Others/Files/Diagram 4.svg.xml",
-    "01.공부/최적화",
-    "01.공부/유니티 Editor",
-    "메모",
-    "Home",
-    "01.SiteSettings/Files/Diagram 4.svg.xml",
-    "Others/Files/Diagram 3.svg.xml",
+    "개인공부/최적화",
+    "개인공부/유니티 Editor",
+    "개인공부/Z.기타 및 메모",
     "무제 파일.canvas",
-    "DesignPattern/MVVM.canvas",
+    "개인공부/02.디자인패턴/MVVM.canvas",
     "03.Unity/Study/디자인패턴/MVVM.canvas",
     "03.Unity/무제 파일.canvas",
     "03.Unity/자료구조/무제 파일.canvas",

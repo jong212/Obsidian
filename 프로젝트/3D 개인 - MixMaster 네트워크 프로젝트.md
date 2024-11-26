@@ -919,3 +919,58 @@ Send profiler events : 체크한다 메모리 로드 언로드를 확인할 수 
 
 카메라를 Orthographic 으로 하면 카메라의 절두체가 아래와 같이 잘리게 되는데 
 ![[Pasted image 20241103183829.png || 500]]
+
+
+* 241113 RPC 동기화 원리 공부
+![[Pasted image 20241113181207.png]]
+
+### 상황 설명 및 확인
+1. **A 컴퓨터**: 홍길동, 아무개, 동동동이 참가한 상태이고 **홍길동**이 **State Authority**를 가지고 있고, 다른 두 명의 플레이어는 권한이 없다.
+2. **B 컴퓨터**: 홍길동, 아무개, 동동동이 참가한 상태이고 **아무개**가 **State Authority**를 가지고 있고, 다른 두 명의 플레이어는 권한이 없습니다.
+3. **C 컴퓨터**: 홍길동, 아무개, 동동동이 참가한 상태이고 **동동동**이 **State Authority**를 가지고 있고, 다른 두 명의 플레이어는 권한이 없습니다.
+4. **각 컴퓨터에는 3명의 플레이어**가 있지만, 그중 하나만 **State Authority** 권한을 가집니다.
+
+### 동작 설명
+- **RpcSources.All**: 모든 클라이언트에 있는 모든 플레이어들이 RPC를 호출할 **권한**을 가지고 있습니다. 즉, A, B, C 컴퓨터의 모든 플레이어(총 9명)가 RPC 메서드를 호출할 수 있는 상태입니다.
+- **RpcTargets.StateAuthority**: RPC 호출은 각 클라이언트에서 **State Authority**를 가진 플레이어에게만 전달되고 실행됩니다.
+
+### 실행 결과
+- A 컴퓨터에서 스페이스바를 눌러 `RPC_Method()`를 호출했을 때:
+  - A 컴퓨터의 **3명의 플레이어 모두** RPC 호출을 시도합니다.
+  - 하지만 **RpcTargets.StateAuthority** 때문에, 그 호출은 A 컴퓨터에서 **홍길동**만 실행하게 됩니다.
+- 같은 로직이 B 컴퓨터와 C 컴퓨터에서도 적용됩니다:
+  - B 컴퓨터에서는 **아무개**만, C 컴퓨터에서는 **동동동**만 RPC를 실행합니다.
+- **결과적으로**: 각 컴퓨터(A, B, C)의 **State Authority를 가진 플레이어**가 로그를 출력하게 됩니다. 따라서 **각 컴퓨터에 로그가 하나씩** 찍히게 되는 것이 맞습니다.
+
+### 요약
+- **모든 플레이어가 호출 권한**을 가지고 있지만, **RpcTargets.StateAuthority** 설정 때문에 호출된 RPC는 각 컴퓨터에서 **State Authority를 가진 플레이어**만 실행합니다.
+- 그래서 A, B, C 컴퓨터 각각에서 **하나의 로그**가 출력되는 것입니다.
+
+가장 오른쪽에서 스페이스바 입력한 이후 모든 stateauthority 권한가진 클라에서 로직이 호출되는 모습
+![[Pasted image 20241113181659.png]]
+정확히 이해하셨습니다! 👏
+
+* 241114 - 인벤토리 UI 구현중에 헤더 중간 밑 부분 나눠보려다가 어떻ㄱ ㅔ하면 정렬을 이쁘게 할수 있을까 고민함 일단 구조는 아래와 같음
+
+![[Pasted image 20241114213954.png]]
+- Container (Vertical Layout Group)  
+	- Div (Layout Element)
+		- Img
+	- Div (Layout Element)
+		- Img
+	- Div (Layout Element)
+		- Img
+
+1. 최상위 부모 Container에 Vertical layout Group 추가.
+   Control Child Size Width, Height 체크
+   ![[Pasted image 20241114215708.png]]
+2. Container 자식 Div 각각 
+   Layout Element 컴포넌트 추가 (Height 값에 따라 차지하는 비율 달라짐 나는 가운데 div 만 2로 바꿈 )
+![[Pasted image 20241114215259.png]]
+
+1일 떄 모습
+![[Pasted image 20241114213949.png]]
+
+2일 때 모습
+
+![[Pasted image 20241114213943.png]]

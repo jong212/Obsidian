@@ -1,112 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "콜라이더 기본",
-      "path": "01.공부/컴포넌트/콜라이더 기본.md"
-    },
-    {
-      "basename": "3D 개인 - MixMaster 네트워크 프로젝트",
-      "path": "프로젝트 모음/3D 개인 - MixMaster 네트워크 프로젝트.md"
-    },
-    {
-      "basename": "2D 개인 - MixMaster 모작",
-      "path": "프로젝트 모음/2D 개인 - MixMaster 모작.md"
-    },
-    {
-      "basename": "스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리",
-      "path": "01.공부/최적화/스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리.md"
-    },
-    {
-      "basename": "렌더링 파이프라인",
-      "path": "01.공부/렌더링 파이프라인.md"
-    },
-    {
-      "basename": "Sample",
-      "path": "00.DailyNote/Sample.md"
-    },
-    {
-      "basename": "최적화 기법 간단 요약",
-      "path": "01.공부/최적화/최적화 기법 간단 요약.md"
-    },
-    {
-      "basename": "Observer pattern",
-      "path": "DesignPattern/Observer pattern.md"
-    },
-    {
-      "basename": "박싱 언박싱",
-      "path": "01.공부/박싱 언박싱.md"
-    },
-    {
-      "basename": "스택 힙 차이 (메모리)",
-      "path": "01.공부/스택 힙 차이 (메모리).md"
-    },
-    {
-      "basename": "객체지향 특징 4가지",
-      "path": "01.공부/객체지향 특징 4가지.md"
-    },
-    {
-      "basename": "인터페이스와 추상클래스의 차이",
-      "path": "01.공부/인터페이스와 추상클래스의 차이.md"
-    },
-    {
-      "basename": "객체지향 설계 원칙 5개 (SOLID)",
-      "path": "01.공부/객체지향 설계 원칙 5개 (SOLID).md"
-    },
-    {
-      "basename": "다형성",
-      "path": "01.공부/다형성.md"
+      "basename": "클래스와 구조체 차이",
+      "path": "개인공부/00.CS/클래스와 구조체 차이.md"
     },
     {
       "basename": "객체지향",
-      "path": "01.공부/객체지향.md"
+      "path": "개인공부/00.CS/객체지향.md"
+    },
+    {
+      "basename": "큐 스택",
+      "path": "개인공부/00.CS/큐 스택.md"
+    },
+    {
+      "basename": "Awake Start 차이",
+      "path": "개인공부/00.CS/Awake Start 차이.md"
+    },
+    {
+      "basename": "이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법",
+      "path": "개인공부/Z.기타 및 메모/Git/이미 커밋한 내용을 되돌리기 하고 추가로 작업한 내용을 함께 커밋하는 방법.md"
+    },
+    {
+      "basename": "2024-11-26",
+      "path": "DailyNote/2024-11-26.md"
+    },
+    {
+      "basename": "플레이어가 집기를 누를 때 상호작용이 가능한지 여부를 순회하는 과정",
+      "path": "개인공부/코드구조분석/플레이어가 집기를 누를 때 상호작용이 가능한지 여부를 순회하는 과정.md"
+    },
+    {
+      "basename": "Render Mode",
+      "path": "개인공부/유니티 Editor/Render Mode.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "완성코드모음/Singleton.md"
+    },
+    {
+      "basename": "Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능",
+      "path": "완성코드모음/Player 조작, 3D, Y고정, 플레이어 컨트롤러, KeyCode, 속도 설정 가능.md"
+    },
+    {
+      "basename": "상태머신",
+      "path": "완성코드모음/상태머신.md"
+    },
+    {
+      "basename": "3D 개인 - MixMaster 네트워크 프로젝트",
+      "path": "프로젝트/3D 개인 - MixMaster 네트워크 프로젝트.md"
+    },
+    {
+      "basename": "콜라이더 기본",
+      "path": "개인공부/컴포넌트/콜라이더 기본.md"
+    },
+    {
+      "basename": "2D 개인 - MixMaster 모작",
+      "path": "프로젝트/2D 개인 - MixMaster 모작.md"
+    },
+    {
+      "basename": "스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리",
+      "path": "개인공부/최적화/스노우 파이프 클라이언트 프로그래머 지원 1차 질문 리스트 정리.md"
+    },
+    {
+      "basename": "렌더링 파이프라인",
+      "path": "개인공부/00.CS/렌더링 파이프라인.md"
+    },
+    {
+      "basename": "Sample",
+      "path": "DailyNote/Sample.md"
+    },
+    {
+      "basename": "최적화 기법 간단 요약",
+      "path": "개인공부/최적화/최적화 기법 간단 요약.md"
+    },
+    {
+      "basename": "Observer pattern",
+      "path": "개인공부/02.디자인패턴/Observer pattern.md"
+    },
+    {
+      "basename": "박싱 언박싱",
+      "path": "개인공부/00.CS/박싱 언박싱.md"
+    },
+    {
+      "basename": "스택 힙 차이 (메모리)",
+      "path": "개인공부/00.CS/스택 힙 차이 (메모리).md"
+    },
+    {
+      "basename": "객체지향 특징 4가지",
+      "path": "개인공부/00.CS/객체지향 특징 4가지.md"
+    },
+    {
+      "basename": "인터페이스와 추상클래스의 차이",
+      "path": "개인공부/00.CS/인터페이스와 추상클래스의 차이.md"
+    },
+    {
+      "basename": "객체지향 설계 원칙 5개 (SOLID)",
+      "path": "개인공부/00.CS/객체지향 설계 원칙 5개 (SOLID).md"
+    },
+    {
+      "basename": "다형성",
+      "path": "개인공부/00.CS/다형성.md"
     },
     {
       "basename": "MVC (모델 뷰 컨트롤러)",
-      "path": "DesignPattern/MVC (모델 뷰 컨트롤러).md"
+      "path": "개인공부/02.디자인패턴/MVC (모델 뷰 컨트롤러).md"
     },
     {
       "basename": "Home",
-      "path": "Home.md"
+      "path": "개인공부/00.CS/Home.md"
     },
     {
       "basename": "삽입정렬",
-      "path": "01.공부/알고리즘/삽입정렬.md"
+      "path": "개인공부/03.알고리즘/삽입정렬.md"
     },
     {
       "basename": "선택 정렬",
-      "path": "01.공부/알고리즘/선택 정렬.md"
+      "path": "개인공부/03.알고리즘/선택 정렬.md"
     },
     {
       "basename": "버블정렬",
-      "path": "01.공부/알고리즘/버블정렬.md"
+      "path": "개인공부/03.알고리즘/버블정렬.md"
     },
     {
       "basename": "선형 자료구조",
-      "path": "01.공부/자료구조/선형 자료구조.md"
-    },
-    {
-      "basename": "기술면접 Draw I",
-      "path": "회사 분석/기술면접 Draw I.md"
+      "path": "개인공부/01.자료구조/선형 자료구조.md"
     },
     {
       "basename": "추상클래스",
-      "path": "메모/TO DO/추상클래스.md"
-    },
-    {
-      "basename": "스노우 파이프",
-      "path": "회사 분석/스노우 파이프.md"
-    },
-    {
-      "basename": "슈퍼센트",
-      "path": "회사 분석/슈퍼센트.md"
+      "path": "개인공부/Z.기타 및 메모/TO DO/추상클래스.md"
     },
     {
       "basename": "이것 저것 링크 메모",
-      "path": "메모/이것 저것 링크 메모.md"
+      "path": "개인공부/Z.기타 및 메모/이것 저것 링크 메모.md"
     },
     {
       "basename": "UGUI",
-      "path": "01.공부/최적화/UGUI.md"
+      "path": "개인공부/최적화/UGUI.md"
     },
     {
       "basename": "Update Publish Files",
@@ -114,43 +142,35 @@
     },
     {
       "basename": "3D 개인 - 테런 + 폴가이즈 (포톤서버 사용)",
-      "path": "프로젝트 모음/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
+      "path": "프로젝트/3D 개인 - 테런 + 폴가이즈 (포톤서버 사용).md"
     },
     {
       "basename": "파인만 학습법",
-      "path": "메모/파인만 학습법.md"
-    },
-    {
-      "basename": "Z 개인공부 삭제 ㄴ",
-      "path": "01.공부/Z 개인공부 삭제 ㄴ.md"
+      "path": "개인공부/Z.기타 및 메모/파인만 학습법.md"
     },
     {
       "basename": "2D 개인 - CatchMind (서버,모작)",
-      "path": "프로젝트 모음/2D 개인 - CatchMind (서버,모작).md"
+      "path": "프로젝트/2D 개인 - CatchMind (서버,모작).md"
     },
     {
       "basename": "UI (UIManager를 통해 UI 관련 오브젝트 관리하기)",
-      "path": "01.공부/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
-    },
-    {
-      "basename": "큐 스택",
-      "path": "01.공부/큐 스택.md"
+      "path": "개인공부/00.CS/UI (UIManager를 통해 UI 관련 오브젝트 관리하기).md"
     },
     {
       "basename": "오버로딩과 오버라이딩 차이",
-      "path": "01.공부/오버로딩과 오버라이딩 차이.md"
+      "path": "개인공부/00.CS/오버로딩과 오버라이딩 차이.md"
     },
     {
       "basename": "사용한 디자인 패턴 뭐 있는지 TODO",
-      "path": "메모/TO DO/사용한 디자인 패턴 뭐 있는지 TODO.md"
+      "path": "개인공부/Z.기타 및 메모/TO DO/사용한 디자인 패턴 뭐 있는지 TODO.md"
     },
     {
       "basename": "빅오표기법 TO DO",
-      "path": "메모/TO DO/빅오표기법 TO DO.md"
+      "path": "개인공부/Z.기타 및 메모/TO DO/빅오표기법 TO DO.md"
     },
     {
       "basename": "데이터드리븐",
-      "path": "01.공부/데이터드리븐.md"
+      "path": "개인공부/00.CS/데이터드리븐.md"
     },
     {
       "basename": "정리",
@@ -158,47 +178,15 @@
     },
     {
       "basename": "2024-09-27(금)",
-      "path": "00.DailyNote/2024-09-27(금).md"
+      "path": "DailyNote/2024-09-27(금).md"
     },
     {
       "basename": "명언",
-      "path": "메모/명언.md"
+      "path": "개인공부/Z.기타 및 메모/명언.md"
     },
     {
       "basename": "SQL VS NOSQL",
-      "path": "01.공부/SQL VS NOSQL.md"
-    },
-    {
-      "basename": "Guide 문서",
-      "path": "Others/01.Guide/Guide 문서.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "Others/Template/Daily Note.md"
-    },
-    {
-      "basename": "기초 - MOC",
-      "path": "Others/00.MOC/기초 - MOC.md"
-    },
-    {
-      "basename": "규칙 - MOC",
-      "path": "Others/00.MOC/규칙 - MOC.md"
-    },
-    {
-      "basename": "UI - MOC",
-      "path": "Others/00.MOC/UI - MOC.md"
-    },
-    {
-      "basename": "Factory pattern - TODO",
-      "path": "메모/TO DO/Factory pattern - TODO.md"
-    },
-    {
-      "basename": "방법론 - MOC",
-      "path": "Others/00.MOC/방법론 - MOC.md"
-    },
-    {
-      "basename": "자료구조 - MOC",
-      "path": "Others/00.MOC/자료구조 - MOC.md"
+      "path": "개인공부/00.CS/SQL VS NOSQL.md"
     }
   ],
   "omittedPaths": []
